@@ -1,8 +1,8 @@
 import {
   MODEL_ID, MODEL_DTYPE, EMB_DIM, IMG_SIZE,
   discounts, formatEUR, dequantizeAll, normalize, rankProducts, decide, toPercent, thumb, colorES,
-} from './shared.js';
-import * as AI from './ai.js';
+} from './shared.js?v=5';
+import * as AI from './ai.js?v=5';
 
 const TRANSFORMERS_URL = 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@3';
 const $ = (id) => document.getElementById(id);
@@ -305,9 +305,25 @@ $('updateBtn').addEventListener('click', async () => {
 });
 
 // ---------- IA ----------
+let aiState = 'off'; // off | checking | ok | bad | offline
 function renderAiBtn() {
   const p = AI.provider();
-  $('aiBtn').textContent = p === 'gemini' ? 'IA: GEMINI' : p === 'claude' ? 'IA: CLAUDE' : 'IA: DESACTIVADA';
+  const name = p === 'claude' ? 'CLAUDE' : 'GEMINI';
+  const b = $('aiBtn');
+  b.dataset.state = p ? aiState : 'off';
+  b.innerHTML = '<span class="dot"></span>' + (
+    !p ? 'IA DESACTIVADA · TOCA PARA ACTIVAR'
+    : aiState === 'ok' ? `IA CONECTADA (${name})`
+    : aiState === 'bad' ? 'IA: CLAVE NO VÁLIDA'
+    : aiState === 'offline' ? `IA ACTIVADA (${name}) · SIN CONEXIÓN`
+    : `IA ACTIVADA (${name}) · COMPROBANDO…`);
+}
+async function checkAi() {
+  if (!AI.provider()) { aiState = 'off'; renderAiBtn(); return; }
+  aiState = 'checking'; renderAiBtn();
+  const r = await AI.ping();
+  aiState = r.ok ? 'ok' : r.ok === false ? 'bad' : 'offline';
+  renderAiBtn();
 }
 $('aiBtn').addEventListener('click', () => {
   const has = AI.getKey();
@@ -319,9 +335,9 @@ $('aiBtn').addEventListener('click', () => {
   if (/^borrar$/i.test(v)) { AI.setKey(''); toast('IA desactivada'); }
   else if (/^(AIza|AQ\.|sk-ant-)/.test(v) && v.length > 20 && !/\s/.test(v)) { AI.setKey(v); toast('IA activada'); }
   else if (v) toast('Esa clave no parece válida (debe empezar por AQ., AIza o sk-ant-)');
-  renderAiBtn();
+  checkAi();
 });
-renderAiBtn();
+checkAi();
 
 // ---------- Eventos ----------
 $('camera').addEventListener('change', (e) => {

@@ -4,7 +4,7 @@
 //      (índice local) y la IA compara tu foto con las fotos oficiales de esos candidatos.
 // La clave de la API se guarda solo en este iPhone.
 
-import { thumb, colorES } from './shared.js';
+import { thumb, colorES } from './shared.js?v=5';
 
 const API = 'https://api.anthropic.com/v1/messages';
 const MODEL_FAST = 'claude-haiku-4-5-20251001';
@@ -22,12 +22,34 @@ export function setKey(k) {
 // Proveedor según la clave: "AIza…" = Google Gemini (plan gratuito), "sk-ant-…" = Anthropic Claude.
 export function provider() {
   const k = getKey();
-  if (k.startsWith('AIza')) return 'gemini';
+  if (!k) return null;
   if (k.startsWith('sk-ant-')) return 'claude';
-  return null;
+  return 'gemini'; // claves de Google: "AIza…" o el formato nuevo "AQ.…"
 }
 
 const GEMINI_MODEL = 'gemini-2.5-flash';
+
+// Comprueba que la clave funciona (consulta gratuita, sin gastar cuota de generación).
+export async function ping() {
+  const p = provider();
+  if (!p) return { ok: false, msg: 'sin clave' };
+  try {
+    if (p === 'gemini') {
+      const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}`, {
+        headers: { 'x-goog-api-key': getKey() },
+      });
+      if (r.ok) return { ok: true };
+      return { ok: false, msg: r.status === 400 || r.status === 403 ? 'clave no válida' : `error ${r.status}` };
+    }
+    const r = await fetch('https://api.anthropic.com/v1/models?limit=1', {
+      headers: { 'x-api-key': getKey(), 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' },
+    });
+    if (r.ok) return { ok: true };
+    return { ok: false, msg: r.status === 401 ? 'clave no válida' : `error ${r.status}` };
+  } catch {
+    return { ok: null, msg: 'sin conexión' };
+  }
+}
 
 async function toInline(part) {
   if (part.type !== 'image') return { text: part.text };
