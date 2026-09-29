@@ -1,0 +1,68 @@
+name: Actualizar catálogo y publicar app
+
+on:
+  schedule:
+    - cron: '17 4 */3 * *'   # cada 3 días a las ~06:17 (hora de España)
+  workflow_dispatch: {}       # botón "Run workflow" o ACTUALIZAR CATÁLOGO desde la app
+  push:
+    branches: [main]
+    paths-ignore: ['docs/data/**', 'README.md']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalogo
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Caché del modelo de visión
+        uses: actions/cache@v4
+        with:
+          path: .model-cache
+          key: model-${{ hashFiles('docs/shared.js') }}
+
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+
+      - name: Rastrear tonipons.com y reconstruir índice visual
+        run: node scripts/build-catalog.mjs
+
+      - name: Guardar catálogo en el repositorio
+        run: |
+          git config user.name "catalog-bot"
+          git config user.email "catalog-bot@users.noreply.github.com"
+          git add docs/data
+          if git diff --staged --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Catálogo $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
