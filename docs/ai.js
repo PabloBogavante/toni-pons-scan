@@ -4,7 +4,7 @@
 //      (índice local) y la IA compara tu foto con las fotos oficiales de esos candidatos.
 // La clave de la API se guarda solo en este iPhone.
 
-import { thumb, colorES } from './shared.js?v=5';
+import { thumb, colorES } from './shared.js?v=6';
 
 const API = 'https://api.anthropic.com/v1/messages';
 const MODEL_FAST = 'claude-haiku-4-5-20251001';
@@ -27,7 +27,50 @@ export function provider() {
   return 'gemini'; // claves de Google: "AIza…" o el formato nuevo "AQ.…"
 }
 
-const GEMINI_MODEL = 'gemini-2.5-flash';
+const GEMINI_BASE = 'https://generativelanguage.googleapis.com/v1beta';
+let geminiModel = null;
+
+// Elige el mejor modelo "flash" disponible para esta clave (Google va cambiando nombres).
+export function pickGeminiModel(names) {
+  const bad = /(lite|image|tts|audio|live|embedding|native|aqa|learnlm|robotics|computer|thinking-exp|gemma)/;
+  const ok = names
+    .map((n) => n.replace(/^models\//, ''))
+    .filter((n) => /^gemini-/.test(n) && /flash/.test(n) && !bad.test(n));
+  const ver = (n) => parseFloat((n.match(/^gemini-(\d+(?:\.\d+)?)/) || [])[1] || '0');
+  const rank = (n) => ver(n) * 100 - (/preview|exp/.test(n) ? 1 : 0) - (/-\d{3,}$/.test(n) ? 0.5 : 0) + (/-latest$/.test(n) ? 0.2 : 0);
+  ok.sort((a, b) => rank(b) - rank(a));
+  return ok[0] || null;
+}
+
+async function listGeminiModels() {
+  const names = [];
+  let token = '';
+  for (let i = 0; i < 5; i++) {
+    const r = await fetch(`${GEMINI_BASE}/models?pageSize=200${token ? '&pageToken=' + token : ''}`, {
+      headers: { 'x-goog-api-key': getKey() },
+    });
+    if (!r.ok) { const e = new Error(`Gemini ${r.status}`); e.status = r.status; throw e; }
+    const d = await r.json();
+    for (const m of d.models || []) {
+      if ((m.supportedGenerationMethods || []).includes('generateContent')) names.push(m.name);
+    }
+    if (!d.nextPageToken) break;
+    token = d.nextPageToken;
+  }
+  return names;
+}
+
+async function getGeminiModel(force = false) {
+  if (geminiModel && !force) return geminiModel;
+  if (!force) {
+    try { const c = JSON.parse(localStorage.getItem('gemini_model') || 'null'); if (c && c.k === getKey().slice(-6)) return (geminiModel = c.m); } catch {}
+  }
+  const m = pickGeminiModel(await listGeminiModels());
+  if (!m) throw new Error('tu clave de Gemini no tiene ningún modelo de visión disponible');
+  geminiModel = m;
+  try { localStorage.setItem('gemini_model', JSON.stringify({ k: getKey().slice(-6), m })); } catch {}
+  return m;
+}
 
 // Comprueba que la clave funciona (consulta gratuita, sin gastar cuota de generación).
 export async function ping() {
@@ -35,11 +78,14 @@ export async function ping() {
   if (!p) return { ok: false, msg: 'sin clave' };
   try {
     if (p === 'gemini') {
-      const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}`, {
-        headers: { 'x-goog-api-key': getKey() },
-      });
-      if (r.ok) return { ok: true };
-      return { ok: false, msg: r.status === 400 || r.status === 403 ? 'clave no válida' : `error ${r.status}` };
+      try {
+        const m = await getGeminiModel(true);
+        return { ok: true, model: m };
+      } catch (e) {
+        if (e.status) return { ok: false, msg: e.status === 400 || e.status === 403 ? 'clave no válida' : `error ${e.status}` };
+        if (/modelo/.test(e.message)) return { ok: false, msg: e.message };
+        throw e;
+      }
     }
     const r = await fetch('https://api.anthropic.com/v1/models?limit=1', {
       headers: { 'x-api-key': getKey(), 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' },
@@ -70,7 +116,7 @@ async function toInline(part) {
   return { inline_data: { mime_type: blob.type || 'image/webp', data } };
 }
 
-async function callGemini(content) {
+async function callGemini(content, retried = false) {
   // Las imágenes del catálogo se descargan en el móvil y se envían dentro de la petición.
   const parts = [];
   const settled = await Promise.allSettled(content.map(toInline));
@@ -78,7 +124,8 @@ async function callGemini(content) {
     if (s.status === 'fulfilled') parts.push(s.value);
     else parts.push({ text: '(imagen no disponible)' });
   });
-  const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`, {
+  const model = await getGeminiModel();
+  const res = await fetch(`${GEMINI_BASE}/models/${model}:generateContent`, {
     method: 'POST',
     headers: { 'content-type': 'application/json', 'x-goog-api-key': getKey() },
     body: JSON.stringify({
@@ -90,6 +137,7 @@ async function callGemini(content) {
     let m = ''; try { m = (await res.json()).error.message; } catch {}
     throw new Error(/key/i.test(m) ? 'clave de Gemini no válida' : `Gemini: ${m || res.status}`);
   }
+  if (res.status === 404 && !retried) { geminiModel = null; try { localStorage.removeItem('gemini_model'); } catch {} await getGeminiModel(true); return callGemini(content, true); }
   if (res.status === 429) throw new Error('límite gratuito de Gemini alcanzado, espera un minuto');
   if (!res.ok) throw new Error(`Gemini respondió ${res.status}`);
   const data = await res.json();

@@ -1,8 +1,8 @@
 import {
   MODEL_ID, MODEL_DTYPE, EMB_DIM, IMG_SIZE,
   discounts, formatEUR, dequantizeAll, normalize, rankProducts, decide, toPercent, thumb, colorES,
-} from './shared.js?v=5';
-import * as AI from './ai.js?v=5';
+} from './shared.js?v=6';
+import * as AI from './ai.js?v=6';
 
 const TRANSFORMERS_URL = 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@3';
 const $ = (id) => document.getElementById(id);
