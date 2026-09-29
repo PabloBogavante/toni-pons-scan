@@ -1,0 +1,10186 @@
+[
+ {
+  "date": "2026-09-29T10:12:06.160Z",
+  "total": 2035,
+  "added": [
+   {
+    "id": 10616666259758,
+    "model": "ENZA",
+    "price": 39.95
+   },
+   {
+    "id": 10616666226990,
+    "model": "ENZA",
+    "price": 39.95
+   },
+   {
+    "id": 10616666194222,
+    "model": "ENZA",
+    "price": 39.95
+   },
+   {
+    "id": 10434805203246,
+    "model": "TRIANA",
+    "price": 69.95
+   },
+   {
+    "id": 10434804547886,
+    "model": "KENIA-A",
+    "price": 69.95
+   },
+   {
+    "id": 10434804285742,
+    "model": "JORDINA",
+    "price": 59.95
+   },
+   {
+    "id": 10434804056366,
+    "model": "GIO-EL",
+    "price": 45
+   },
+   {
+    "id": 10434803990830,
+    "model": "GIO-EL",
+    "price": 45
+   },
+   {
+    "id": 10434803892526,
+    "model": "GILDA-SL",
+    "price": 45
+   },
+   {
+    "id": 10434803958062,
+    "model": "GINGER",
+    "price": 34.95
+   },
+   {
+    "id": 10434803859758,
+    "model": "GILDA-RD",
+    "price": 45
+   },
+   {
+    "id": 10434803597614,
+    "model": "GENA-PR",
+    "price": 55
+   },
+   {
+    "id": 10434803564846,
+    "model": "GENA-CB",
+    "price": 55
+   },
+   {
+    "id": 10434803269934,
+    "model": "FAR-MD",
+    "price": 49.95
+   },
+   {
+    "id": 10434803335470,
+    "model": "FREILA",
+    "price": 17.5
+   },
+   {
+    "id": 10434801729838,
+    "model": "BRIT-A",
+    "price": 59.95
+   },
+   {
+    "id": 10434801500462,
+    "model": "AFRA-NU",
+    "price": 59.95
+   },
+   {
+    "id": 10048054657326,
+    "model": "GINGER",
+    "price": 34.95
+   },
+   {
+    "id": 9752414159150,
+    "model": "TAMESIS",
+    "price": 75
+   },
+   {
+    "id": 9752413438254,
+    "model": "PALS-NC",
+    "price": 65
+   },
+   {
+    "id": 9752412520750,
+    "model": "NIUE-GC",
+    "price": 34.95
+   },
+   {
+    "id": 9752408293678,
+    "model": "GENA-AP",
+    "price": 55
+   },
+   {
+    "id": 9752147231022,
+    "model": "ROSALIA",
+    "price": 75
+   },
+   {
+    "id": 9752132878638,
+    "model": "BRU",
+    "price": 49.95
+   },
+   {
+    "id": 9752132485422,
+    "model": "BIMBA",
+    "price": 59.95
+   },
+   {
+    "id": 9739319050542,
+    "model": "GINGER",
+    "price": 34.95
+   },
+   {
+    "id": 9739319083310,
+    "model": "GINGER",
+    "price": 34.95
+   },
+   {
+    "id": 9739317870894,
+    "model": "GINGER",
+    "price": 34.95
+   },
+   {
+    "id": 9722464993582,
+    "model": "EMILIA",
+    "price": 55
+   },
+   {
+    "id": 9724763898158,
+    "model": "MALTA",
+    "price": 49.95
+   },
+   {
+    "id": 9724763865390,
+    "model": "MALTA",
+    "price": 49.95
+   },
+   {
+    "id": 9722478821678,
+    "model": "TAMARA",
+    "price": 75
+   },
+   {
+    "id": 9722477510958,
+    "model": "ROCIO-PH",
+    "price": 69.95
+   },
+   {
+    "id": 9722467418414,
+    "model": "ILDA",
+    "price": 59.95
+   },
+   {
+    "id": 9722467156270,
+    "model": "IBAR",
+    "price": 55
+   },
+   {
+    "id": 9722465911086,
+    "model": "GEORGINA",
+    "price": 59.95
+   },
+   {
+    "id": 9722465878318,
+    "model": "GEORGINA",
+    "price": 59.95
+   },
+   {
+    "id": 9722465812782,
+    "model": "GEORGINA",
+    "price": 59.95
+   },
+   {
+    "id": 9722455982382,
+    "model": "BILDA",
+    "price": 59.95
+   },
+   {
+    "id": 10697813229870,
+    "model": "PACK-SNOOPY",
+    "price": 29.95
+   },
+   {
+    "id": 10616666521902,
+    "model": "GORI",
+    "price": 89.95
+   },
+   {
+    "id": 10616672452910,
+    "model": "XENIA",
+    "price": 29.95
+   },
+   {
+    "id": 10616672420142,
+    "model": "XENIA",
+    "price": 29.95
+   },
+   {
+    "id": 10616672387374,
+    "model": "XENIA",
+    "price": 29.95
+   },
+   {
+    "id": 10616672354606,
+    "model": "XENIA",
+    "price": 29.95
+   },
+   {
+    "id": 10616672321838,
+    "model": "WOODY",
+    "price": 39.95
+   },
+   {
+    "id": 10616672289070,
+    "model": "WOODY",
+    "price": 39.95
+   },
+   {
+    "id": 10616672223534,
+    "model": "VITORIA",
+    "price": 125
+   },
+   {
+    "id": 10616672190766,
+    "model": "VITORIA",
+    "price": 125
+   },
+   {
+    "id": 10616672157998,
+    "model": "VILLENA",
+    "price": 125
+   },
+   {
+    "id": 10616672125230,
+    "model": "VALGA",
+    "price": 109.95
+   },
+   {
+    "id": 10616672092462,
+    "model": "VALGA",
+    "price": 109.95
+   },
+   {
+    "id": 10616671994158,
+    "model": "TUDELA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616671961390,
+    "model": "TUDELA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616671928622,
+    "model": "TORMES-P",
+    "price": 125
+   },
+   {
+    "id": 10616671895854,
+    "model": "TOMAS-RW",
+    "price": 39.95
+   },
+   {
+    "id": 10616671863086,
+    "model": "TOLEDO-P",
+    "price": 129.95
+   },
+   {
+    "id": 10616671830318,
+    "model": "TOLEDO-P",
+    "price": 129.95
+   },
+   {
+    "id": 10616671764782,
+    "model": "TAGA-P",
+    "price": 165
+   },
+   {
+    "id": 10616671732014,
+    "model": "TAGA-P",
+    "price": 165
+   },
+   {
+    "id": 10616671699246,
+    "model": "SUSA",
+    "price": 95
+   },
+   {
+    "id": 10616671666478,
+    "model": "SNOOPY",
+    "price": 49.95
+   },
+   {
+    "id": 10616671633710,
+    "model": "SNOOPY",
+    "price": 49.95
+   },
+   {
+    "id": 10616671600942,
+    "model": "SNOOPY",
+    "price": 49.95
+   },
+   {
+    "id": 10616671568174,
+    "model": "SNOOPY",
+    "price": 49.95
+   },
+   {
+    "id": 10616671502638,
+    "model": "SION",
+    "price": 79.95
+   },
+   {
+    "id": 10616671469870,
+    "model": "SIENA",
+    "price": 79.95
+   },
+   {
+    "id": 10616671437102,
+    "model": "SIENA",
+    "price": 79.95
+   },
+   {
+    "id": 10616671404334,
+    "model": "SERRA",
+    "price": 95
+   },
+   {
+    "id": 10616671371566,
+    "model": "SERRA",
+    "price": 95
+   },
+   {
+    "id": 10616671338798,
+    "model": "SELENA",
+    "price": 85
+   },
+   {
+    "id": 10616671273262,
+    "model": "SELENA",
+    "price": 85
+   },
+   {
+    "id": 10616671240494,
+    "model": "SARINA",
+    "price": 89.95
+   },
+   {
+    "id": 10616671207726,
+    "model": "SARINA",
+    "price": 89.95
+   },
+   {
+    "id": 10616671174958,
+    "model": "SANA",
+    "price": 24.95
+   },
+   {
+    "id": 10616671142190,
+    "model": "SAMY",
+    "price": 75
+   },
+   {
+    "id": 10616671109422,
+    "model": "SAMY",
+    "price": 75
+   },
+   {
+    "id": 10616671076654,
+    "model": "SAMANTA",
+    "price": 109.95
+   },
+   {
+    "id": 10616671043886,
+    "model": "SAMANTA",
+    "price": 109.95
+   },
+   {
+    "id": 10616671011118,
+    "model": "SABINE",
+    "price": 95
+   },
+   {
+    "id": 10616670978350,
+    "model": "SABINE",
+    "price": 95
+   },
+   {
+    "id": 10616670945582,
+    "model": "RIGA",
+    "price": 55
+   },
+   {
+    "id": 10616670912814,
+    "model": "RIGA",
+    "price": 55
+   },
+   {
+    "id": 10616670847278,
+    "model": "QUEL-AN",
+    "price": 9.95
+   },
+   {
+    "id": 10616670748974,
+    "model": "PUIGMAL",
+    "price": 89.95
+   },
+   {
+    "id": 10616670814510,
+    "model": "QUEL-AN",
+    "price": 9.95
+   },
+   {
+    "id": 10616670716206,
+    "model": "PUIGMAL",
+    "price": 89.95
+   },
+   {
+    "id": 10616670683438,
+    "model": "PUBOL",
+    "price": 79.95
+   },
+   {
+    "id": 10616670585134,
+    "model": "PRADES-P",
+    "price": 109.95
+   },
+   {
+    "id": 10616670552366,
+    "model": "PRADES-P",
+    "price": 109.95
+   },
+   {
+    "id": 10616670617902,
+    "model": "PRADES-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616670650670,
+    "model": "PUBOL",
+    "price": 79.95
+   },
+   {
+    "id": 10616670519598,
+    "model": "PATTY",
+    "price": 24.95
+   },
+   {
+    "id": 10616670486830,
+    "model": "PATERNA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616670454062,
+    "model": "PATERNA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616670421294,
+    "model": "PATERNA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616670355758,
+    "model": "PALENCIA-SY",
+    "price": 125
+   },
+   {
+    "id": 10616670322990,
+    "model": "PALENCIA-SY",
+    "price": 125
+   },
+   {
+    "id": 10616670290222,
+    "model": "PALENCIA-P",
+    "price": 125
+   },
+   {
+    "id": 10616670191918,
+    "model": "ORDIS",
+    "price": 89.95
+   },
+   {
+    "id": 10616670126382,
+    "model": "ORDIS",
+    "price": 89.95
+   },
+   {
+    "id": 10616670093614,
+    "model": "OCTAVI",
+    "price": 95
+   },
+   {
+    "id": 10616670060846,
+    "model": "NOTI-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10616670028078,
+    "model": "NORTON-FP",
+    "price": 39.95
+   },
+   {
+    "id": 10616669962542,
+    "model": "NIX-TK",
+    "price": 45
+   },
+   {
+    "id": 10616669864238,
+    "model": "NATAN-VR",
+    "price": 39.95
+   },
+   {
+    "id": 10616669831470,
+    "model": "NATAN-VR",
+    "price": 39.95
+   },
+   {
+    "id": 10616669929774,
+    "model": "NIX-TK",
+    "price": 45
+   },
+   {
+    "id": 10616669798702,
+    "model": "NARA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616669765934,
+    "model": "NARA-P",
+    "price": 109.95
+   },
+   {
+    "id": 10616669667630,
+    "model": "NAPOLI",
+    "price": 45
+   },
+   {
+    "id": 10616669602094,
+    "model": "NANTES-SY",
+    "price": 95
+   },
+   {
+    "id": 10616669569326,
+    "model": "NAIROBI-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616669536558,
+    "model": "NAIROBI-P",
+    "price": 109.95
+   },
+   {
+    "id": 10616669503790,
+    "model": "NAIROBI-P",
+    "price": 109.95
+   },
+   {
+    "id": 10616669438254,
+    "model": "MUNIC-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10616669405486,
+    "model": "MUNIC-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10616669372718,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 10616669339950,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 10616669307182,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 10616669208878,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10616669176110,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10616669143342,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10616669110574,
+    "model": "MONI-FP",
+    "price": 39.95
+   },
+   {
+    "id": 10616669045038,
+    "model": "MONI-FP",
+    "price": 39.95
+   },
+   {
+    "id": 10616669012270,
+    "model": "MONELLS",
+    "price": 119.95
+   },
+   {
+    "id": 10616668946734,
+    "model": "MONACO",
+    "price": 39.95
+   },
+   {
+    "id": 10616668979502,
+    "model": "MONELLS",
+    "price": 119.95
+   },
+   {
+    "id": 10616668848430,
+    "model": "MONA-FT",
+    "price": 29.95
+   },
+   {
+    "id": 10616668815662,
+    "model": "MONA-FT",
+    "price": 29.95
+   },
+   {
+    "id": 10616668782894,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 10616668717358,
+    "model": "MIMA-NV",
+    "price": 39.95
+   },
+   {
+    "id": 10616668651822,
+    "model": "MIMA-NV",
+    "price": 39.95
+   },
+   {
+    "id": 10616668586286,
+    "model": "MIMA-NV",
+    "price": 39.95
+   },
+   {
+    "id": 10616668750126,
+    "model": "MONA-FR",
+    "price": 29.95
+   },
+   {
+    "id": 10616668553518,
+    "model": "MIMA-FP",
+    "price": 34.95
+   },
+   {
+    "id": 10616668487982,
+    "model": "MARTA-PA",
+    "price": 39.95
+   },
+   {
+    "id": 10616668455214,
+    "model": "MARTA-PA",
+    "price": 39.95
+   },
+   {
+    "id": 10616668520750,
+    "model": "METZ",
+    "price": 59.95
+   },
+   {
+    "id": 10616668389678,
+    "model": "MARIE-CE",
+    "price": 45
+   },
+   {
+    "id": 10616668356910,
+    "model": "MARIE-CE",
+    "price": 45
+   },
+   {
+    "id": 10616668324142,
+    "model": "MARIBEL-PT",
+    "price": 109.95
+   },
+   {
+    "id": 10616668291374,
+    "model": "MARIBEL-PT",
+    "price": 109.95
+   },
+   {
+    "id": 10616668225838,
+    "model": "MARADI-BD",
+    "price": 45
+   },
+   {
+    "id": 10616668160302,
+    "model": "MARADI-BD",
+    "price": 45
+   },
+   {
+    "id": 10616668127534,
+    "model": "MALU-CN",
+    "price": 39.95
+   },
+   {
+    "id": 10616668094766,
+    "model": "MALU-CN",
+    "price": 39.95
+   },
+   {
+    "id": 10616668029230,
+    "model": "LIS-BD",
+    "price": 34.95
+   },
+   {
+    "id": 10616667996462,
+    "model": "LIS-BD",
+    "price": 34.95
+   },
+   {
+    "id": 10616667930926,
+    "model": "LINUS",
+    "price": 24.95
+   },
+   {
+    "id": 10616667898158,
+    "model": "LENO",
+    "price": 39.95
+   },
+   {
+    "id": 10616667832622,
+    "model": "LENO",
+    "price": 39.95
+   },
+   {
+    "id": 10616667799854,
+    "model": "JULI",
+    "price": 99.95
+   },
+   {
+    "id": 10616667767086,
+    "model": "JULI",
+    "price": 99.95
+   },
+   {
+    "id": 10616667701550,
+    "model": "JAMES-SW",
+    "price": 85
+   },
+   {
+    "id": 10616667636014,
+    "model": "IVETTE-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10616667603246,
+    "model": "IVETTE-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10616667570478,
+    "model": "IVETTE-JG",
+    "price": 95
+   },
+   {
+    "id": 10616667537710,
+    "model": "IVETTE-JG",
+    "price": 95
+   },
+   {
+    "id": 10616667504942,
+    "model": "IVARS-SY",
+    "price": 85
+   },
+   {
+    "id": 10616667439406,
+    "model": "IVARS-SY",
+    "price": 85
+   },
+   {
+    "id": 10616667406638,
+    "model": "IVARS-CA",
+    "price": 95
+   },
+   {
+    "id": 10616667373870,
+    "model": "IVARS-CA",
+    "price": 95
+   },
+   {
+    "id": 10616667308334,
+    "model": "IVARS-BL",
+    "price": 139.95
+   },
+   {
+    "id": 10616667341102,
+    "model": "IVARS-BL",
+    "price": 139.95
+   },
+   {
+    "id": 10616667242798,
+    "model": "ISA-SY",
+    "price": 85
+   },
+   {
+    "id": 10616667210030,
+    "model": "ISA-SY",
+    "price": 85
+   },
+   {
+    "id": 10616667177262,
+    "model": "ISA-BL",
+    "price": 139.95
+   },
+   {
+    "id": 10616667144494,
+    "model": "ISA-BL",
+    "price": 139.95
+   },
+   {
+    "id": 10616667111726,
+    "model": "IRIS-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616667046190,
+    "model": "IRIS-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10616667013422,
+    "model": "IRIS-CA",
+    "price": 119.95
+   },
+   {
+    "id": 10616666980654,
+    "model": "IRIA-SW",
+    "price": 89.95
+   },
+   {
+    "id": 10616666947886,
+    "model": "IRIA-SW",
+    "price": 89.95
+   },
+   {
+    "id": 10616666915118,
+    "model": "IRIA-SW",
+    "price": 89.95
+   },
+   {
+    "id": 10616666849582,
+    "model": "IRIA-CA",
+    "price": 95
+   },
+   {
+    "id": 10616666816814,
+    "model": "IRIA-CA",
+    "price": 95
+   },
+   {
+    "id": 10616666784046,
+    "model": "IONE-SY",
+    "price": 135
+   },
+   {
+    "id": 10616666751278,
+    "model": "IONE-SY",
+    "price": 135
+   },
+   {
+    "id": 10616666718510,
+    "model": "GUALTA",
+    "price": 69.95
+   },
+   {
+    "id": 10616666685742,
+    "model": "GUALBA",
+    "price": 79.95
+   },
+   {
+    "id": 10616666620206,
+    "model": "GUALBA",
+    "price": 79.95
+   },
+   {
+    "id": 10616666587438,
+    "model": "GORKA",
+    "price": 75
+   },
+   {
+    "id": 10616666554670,
+    "model": "GORKA",
+    "price": 75
+   },
+   {
+    "id": 10616666489134,
+    "model": "GINESTA",
+    "price": 69.95
+   },
+   {
+    "id": 10616666456366,
+    "model": "GINESTA",
+    "price": 69.95
+   },
+   {
+    "id": 10616666423598,
+    "model": "GINA",
+    "price": 75
+   },
+   {
+    "id": 10616666390830,
+    "model": "GINA",
+    "price": 75
+   },
+   {
+    "id": 10616666325294,
+    "model": "FANNY",
+    "price": 29.95
+   },
+   {
+    "id": 10616666292526,
+    "model": "FANNY",
+    "price": 29.95
+   },
+   {
+    "id": 10616666161454,
+    "model": "DURAN",
+    "price": 95
+   },
+   {
+    "id": 10616666128686,
+    "model": "DURAN",
+    "price": 95
+   },
+   {
+    "id": 10616666095918,
+    "model": "DORCA",
+    "price": 89.95
+   },
+   {
+    "id": 10616666063150,
+    "model": "DENVER-FP",
+    "price": 39.95
+   },
+   {
+    "id": 10616666030382,
+    "model": "DENVER-FP",
+    "price": 39.95
+   },
+   {
+    "id": 10616665964846,
+    "model": "DELI-EF",
+    "price": 39.95
+   },
+   {
+    "id": 10616665932078,
+    "model": "DELI-EF",
+    "price": 39.95
+   },
+   {
+    "id": 10616665899310,
+    "model": "DELFI",
+    "price": 89.95
+   },
+   {
+    "id": 10616665833774,
+    "model": "DARLA-SB",
+    "price": 34.95
+   },
+   {
+    "id": 10616665801006,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 10616665768238,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 10616665702702,
+    "model": "CORAL-SY",
+    "price": 89.95
+   },
+   {
+    "id": 10616665735470,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 10616665669934,
+    "model": "CORAL-P",
+    "price": 109.95
+   },
+   {
+    "id": 10616665604398,
+    "model": "CORAL-P",
+    "price": 89.95
+   },
+   {
+    "id": 10616665571630,
+    "model": "CLAYTON",
+    "price": 69.95
+   },
+   {
+    "id": 10616665538862,
+    "model": "CLAIS",
+    "price": 79.95
+   },
+   {
+    "id": 10616665506094,
+    "model": "CINDY",
+    "price": 75
+   },
+   {
+    "id": 10616665473326,
+    "model": "CINDY",
+    "price": 75
+   },
+   {
+    "id": 10616665440558,
+    "model": "CHIARA",
+    "price": 85
+   },
+   {
+    "id": 10616665375022,
+    "model": "CHIARA",
+    "price": 85
+   },
+   {
+    "id": 10616665342254,
+    "model": "CHERYL",
+    "price": 69.95
+   },
+   {
+    "id": 10616665309486,
+    "model": "CHERYL",
+    "price": 69.95
+   },
+   {
+    "id": 10616665276718,
+    "model": "CHERYL",
+    "price": 69.95
+   },
+   {
+    "id": 10616665243950,
+    "model": "CHARLOTTE",
+    "price": 79.95
+   },
+   {
+    "id": 10616665178414,
+    "model": "CHARLOTTE",
+    "price": 79.95
+   },
+   {
+    "id": 10616665145646,
+    "model": "CHARLIE",
+    "price": 49.95
+   },
+   {
+    "id": 10616665112878,
+    "model": "CHARLIE",
+    "price": 49.95
+   },
+   {
+    "id": 10616665080110,
+    "model": "CHARLIE",
+    "price": 49.95
+   },
+   {
+    "id": 10616665047342,
+    "model": "CASPIA",
+    "price": 69.95
+   },
+   {
+    "id": 10616665014574,
+    "model": "CASPIA",
+    "price": 69.95
+   },
+   {
+    "id": 10616664949038,
+    "model": "CARPI",
+    "price": 129.95
+   },
+   {
+    "id": 10616664981806,
+    "model": "CARPI",
+    "price": 129.95
+   },
+   {
+    "id": 10616664916270,
+    "model": "CARLA-NL",
+    "price": 95
+   },
+   {
+    "id": 10616664883502,
+    "model": "CARLA-NL",
+    "price": 95
+   },
+   {
+    "id": 10616664850734,
+    "model": "CANDICE",
+    "price": 69.95
+   },
+   {
+    "id": 10616664817966,
+    "model": "CANDICE",
+    "price": 69.95
+   },
+   {
+    "id": 10616664785198,
+    "model": "CANDICE",
+    "price": 69.95
+   },
+   {
+    "id": 10616664719662,
+    "model": "BISBAL",
+    "price": 89.95
+   },
+   {
+    "id": 10616664686894,
+    "model": "BISBAL",
+    "price": 89.95
+   },
+   {
+    "id": 10616664523054,
+    "model": "BASCARA",
+    "price": 99.95
+   },
+   {
+    "id": 10616664490286,
+    "model": "BARRIE",
+    "price": 79.95
+   },
+   {
+    "id": 10616664391982,
+    "model": "AUREA",
+    "price": 89.95
+   },
+   {
+    "id": 10616664359214,
+    "model": "AUREA",
+    "price": 89.95
+   },
+   {
+    "id": 10616664260910,
+    "model": "AROA",
+    "price": 89.95
+   },
+   {
+    "id": 10616664293678,
+    "model": "AUREA",
+    "price": 89.95
+   },
+   {
+    "id": 10616664195374,
+    "model": "ARAN",
+    "price": 95
+   },
+   {
+    "id": 10616664162606,
+    "model": "ARAN",
+    "price": 95
+   },
+   {
+    "id": 10616664129838,
+    "model": "ALP",
+    "price": 45
+   },
+   {
+    "id": 10616664097070,
+    "model": "ALP",
+    "price": 45
+   },
+   {
+    "id": 10616664064302,
+    "model": "ALMENAR",
+    "price": 109.95
+   },
+   {
+    "id": 10616664031534,
+    "model": "ALINS",
+    "price": 39.95
+   },
+   {
+    "id": 10616663965998,
+    "model": "ALBERTA",
+    "price": 39.95
+   },
+   {
+    "id": 10616663998766,
+    "model": "ALBONS",
+    "price": 39.95
+   },
+   {
+    "id": 10616663933230,
+    "model": "ALBERTA",
+    "price": 39.95
+   },
+   {
+    "id": 10616663900462,
+    "model": "AITONA",
+    "price": 95
+   },
+   {
+    "id": 10616663834926,
+    "model": "ABRERA",
+    "price": 109.95
+   },
+   {
+    "id": 9722466795822,
+    "model": "GRIT-PE",
+    "price": 49.95
+   },
+   {
+    "id": 9722466763054,
+    "model": "GRIT-PE",
+    "price": 49.95
+   },
+   {
+    "id": 10435092807982,
+    "model": "ELNA",
+    "price": 39.95
+   },
+   {
+    "id": 10435092840750,
+    "model": "ELNA",
+    "price": 39.95
+   },
+   {
+    "id": 10435092873518,
+    "model": "ELNA",
+    "price": 39.95
+   },
+   {
+    "id": 10435092906286,
+    "model": "ELNA",
+    "price": 39.95
+   },
+   {
+    "id": 10434803401006,
+    "model": "GARED-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10344263057710,
+    "model": "LLORET-5",
+    "price": 75
+   },
+   {
+    "id": 10344263024942,
+    "model": "LLORET-5",
+    "price": 69.95
+   },
+   {
+    "id": 10344258142510,
+    "model": "DIONIS",
+    "price": 75
+   },
+   {
+    "id": 10344258109742,
+    "model": "DIONIS",
+    "price": 75
+   },
+   {
+    "id": 10344254898478,
+    "model": "AUREM",
+    "price": 69.95
+   },
+   {
+    "id": 10111510085934,
+    "model": "ZAIRA-SY",
+    "price": 95
+   },
+   {
+    "id": 10111510020398,
+    "model": "TUNIS-SY",
+    "price": 129.95
+   },
+   {
+    "id": 10111509987630,
+    "model": "TUNIS-SY",
+    "price": 129.95
+   },
+   {
+    "id": 10111509922094,
+    "model": "TOBI-SK",
+    "price": 34.95
+   },
+   {
+    "id": 10111509856558,
+    "model": "TOBI-SK",
+    "price": 34.95
+   },
+   {
+    "id": 10111509823790,
+    "model": "TOBI-EF",
+    "price": 45
+   },
+   {
+    "id": 10111509791022,
+    "model": "TOBI-EF",
+    "price": 45
+   },
+   {
+    "id": 10111509758254,
+    "model": "TOBI-EF",
+    "price": 45
+   },
+   {
+    "id": 10111509725486,
+    "model": "TOBI-EF",
+    "price": 29.95
+   },
+   {
+    "id": 10111509692718,
+    "model": "TOBI-DS",
+    "price": 27.95
+   },
+   {
+    "id": 10111509594414,
+    "model": "TILIA-SY",
+    "price": 119.95
+   },
+   {
+    "id": 10111509561646,
+    "model": "TEO-DS",
+    "price": 39.95
+   },
+   {
+    "id": 10111509528878,
+    "model": "RUSE-LA",
+    "price": 79.95
+   },
+   {
+    "id": 10111509496110,
+    "model": "RUBI-SY",
+    "price": 125
+   },
+   {
+    "id": 10111509463342,
+    "model": "RUBI-SY",
+    "price": 125
+   },
+   {
+    "id": 10111509430574,
+    "model": "ROS-SY",
+    "price": 135
+   },
+   {
+    "id": 10111509332270,
+    "model": "RADOM-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10111509365038,
+    "model": "ROS-SY",
+    "price": 135
+   },
+   {
+    "id": 10111509299502,
+    "model": "RADOM-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10111509266734,
+    "model": "PETRA-SY",
+    "price": 99.95
+   },
+   {
+    "id": 10111509233966,
+    "model": "PETRA-SY",
+    "price": 99.95
+   },
+   {
+    "id": 10111509102894,
+    "model": "PALTI-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10111509201198,
+    "model": "PETRA-PO",
+    "price": 109.95
+   },
+   {
+    "id": 10111509135662,
+    "model": "PETIT",
+    "price": 27.95
+   },
+   {
+    "id": 10111509070126,
+    "model": "NIL-DS",
+    "price": 34.95
+   },
+   {
+    "id": 10111509037358,
+    "model": "NALTAR-PO",
+    "price": 135
+   },
+   {
+    "id": 10111509004590,
+    "model": "NAGEL",
+    "price": 49.95
+   },
+   {
+    "id": 10111508971822,
+    "model": "NAGEL",
+    "price": 39.95
+   },
+   {
+    "id": 10111508939054,
+    "model": "NADIR-HR",
+    "price": 39.95
+   },
+   {
+    "id": 10111508906286,
+    "model": "NADIR-DS",
+    "price": 34.95
+   },
+   {
+    "id": 10111508873518,
+    "model": "NABOR-ND",
+    "price": 39.95
+   },
+   {
+    "id": 10111508840750,
+    "model": "NABOR-ND",
+    "price": 39.95
+   },
+   {
+    "id": 10111508775214,
+    "model": "MOLY-DR",
+    "price": 39.95
+   },
+   {
+    "id": 10111508742446,
+    "model": "MISURI-SY",
+    "price": 104.95
+   },
+   {
+    "id": 10111508709678,
+    "model": "MISURI-SY",
+    "price": 104.95
+   },
+   {
+    "id": 10111508644142,
+    "model": "MIRI-HF",
+    "price": 34.95
+   },
+   {
+    "id": 10111508545838,
+    "model": "MIRI-BF",
+    "price": 34.95
+   },
+   {
+    "id": 10111508611374,
+    "model": "MIRI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 10111508578606,
+    "model": "MIRI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 10111508447534,
+    "model": "MIRI-BF",
+    "price": 34.95
+   },
+   {
+    "id": 10111508414766,
+    "model": "MILA",
+    "price": 49.95
+   },
+   {
+    "id": 10111508381998,
+    "model": "MILA",
+    "price": 49.95
+   },
+   {
+    "id": 10111508349230,
+    "model": "MILA",
+    "price": 49.95
+   },
+   {
+    "id": 10111508316462,
+    "model": "MICA-TK",
+    "price": 39.95
+   },
+   {
+    "id": 10111508283694,
+    "model": "MEG-SH",
+    "price": 45
+   },
+   {
+    "id": 10111508250926,
+    "model": "MEG-SH",
+    "price": 45
+   },
+   {
+    "id": 10111508218158,
+    "model": "MEDI-FR",
+    "price": 29.95
+   },
+   {
+    "id": 10111508152622,
+    "model": "MEDI-FR",
+    "price": 29.95
+   },
+   {
+    "id": 10111508119854,
+    "model": "LOU-SY",
+    "price": 99.95
+   },
+   {
+    "id": 10111508087086,
+    "model": "LOU-SY",
+    "price": 99.95
+   },
+   {
+    "id": 10111508054318,
+    "model": "LORETTA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10111508021550,
+    "model": "LIZY",
+    "price": 34.95
+   },
+   {
+    "id": 10111507988782,
+    "model": "LIZY",
+    "price": 34.95
+   },
+   {
+    "id": 10111507923246,
+    "model": "LIZY",
+    "price": 45
+   },
+   {
+    "id": 10111507890478,
+    "model": "LEZO-EF",
+    "price": 29.95
+   },
+   {
+    "id": 10111507824942,
+    "model": "LEXI-P",
+    "price": 119.95
+   },
+   {
+    "id": 10111507857710,
+    "model": "LEZO-EF",
+    "price": 29.95
+   },
+   {
+    "id": 10111507792174,
+    "model": "LEIRE",
+    "price": 59.95
+   },
+   {
+    "id": 10111507759406,
+    "model": "LEIRE",
+    "price": 59.95
+   },
+   {
+    "id": 10111507726638,
+    "model": "LAND-NW",
+    "price": 24.5
+   },
+   {
+    "id": 10111507628334,
+    "model": "LANA-SY",
+    "price": 95
+   },
+   {
+    "id": 10111507497262,
+    "model": "GRANT-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111507693870,
+    "model": "LANA-SY",
+    "price": 95
+   },
+   {
+    "id": 10111507530030,
+    "model": "GRANT-SY",
+    "price": 59.95
+   },
+   {
+    "id": 10111507431726,
+    "model": "GODA-AB",
+    "price": 59.95
+   },
+   {
+    "id": 10111507464494,
+    "model": "GODA-SO",
+    "price": 59.95
+   },
+   {
+    "id": 10111507366190,
+    "model": "GODA-AB",
+    "price": 59.95
+   },
+   {
+    "id": 10111507300654,
+    "model": "GIZA-SY",
+    "price": 59.95
+   },
+   {
+    "id": 10111507169582,
+    "model": "GIL-SY",
+    "price": 69.95
+   },
+   {
+    "id": 10111507235118,
+    "model": "GIZA-SY",
+    "price": 59.95
+   },
+   {
+    "id": 10111507136814,
+    "model": "GIL-SY",
+    "price": 69.95
+   },
+   {
+    "id": 10111507104046,
+    "model": "GIGI-ST",
+    "price": 59.95
+   },
+   {
+    "id": 10111507071278,
+    "model": "GIGI-HY",
+    "price": 59.95
+   },
+   {
+    "id": 10111507038510,
+    "model": "GIGI-AF",
+    "price": 65
+   },
+   {
+    "id": 10111507005742,
+    "model": "GEVA-FT",
+    "price": 69.95
+   },
+   {
+    "id": 10111506940206,
+    "model": "GEVA-FT",
+    "price": 69.95
+   },
+   {
+    "id": 10111506874670,
+    "model": "GENOVA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111506907438,
+    "model": "GENOVA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111506809134,
+    "model": "GENOVA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111506776366,
+    "model": "GALES-SY",
+    "price": 75
+   },
+   {
+    "id": 10111506710830,
+    "model": "GAL-BU",
+    "price": 75
+   },
+   {
+    "id": 10111506743598,
+    "model": "GAL-BU",
+    "price": 75
+   },
+   {
+    "id": 10111506678062,
+    "model": "GABY-SA",
+    "price": 39.95
+   },
+   {
+    "id": 10111506645294,
+    "model": "GABY-PM",
+    "price": 79.95
+   },
+   {
+    "id": 10111506514222,
+    "model": "FABIA-LA",
+    "price": 85
+   },
+   {
+    "id": 10111506481454,
+    "model": "ELOI",
+    "price": 39.95
+   },
+   {
+    "id": 10111506579758,
+    "model": "FABIA-LP",
+    "price": 85
+   },
+   {
+    "id": 10111506448686,
+    "model": "DERBY-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111506415918,
+    "model": "DERBY-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111506383150,
+    "model": "DERBY-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111506350382,
+    "model": "DELI-SC",
+    "price": 45
+   },
+   {
+    "id": 10111506317614,
+    "model": "DELI-SC",
+    "price": 45
+   },
+   {
+    "id": 10111506219310,
+    "model": "DELI-EF",
+    "price": 39.95
+   },
+   {
+    "id": 10111506186542,
+    "model": "DELI-EF",
+    "price": 39.95
+   },
+   {
+    "id": 10111506153774,
+    "model": "DELI-DR",
+    "price": 39.95
+   },
+   {
+    "id": 10111506121006,
+    "model": "DELI-DR",
+    "price": 39.95
+   },
+   {
+    "id": 10111506055470,
+    "model": "DAX",
+    "price": 59.95
+   },
+   {
+    "id": 10111506088238,
+    "model": "DELI-DR",
+    "price": 39.95
+   },
+   {
+    "id": 10111506022702,
+    "model": "DANIEL",
+    "price": 109.95
+   },
+   {
+    "id": 10111505989934,
+    "model": "DANIEL",
+    "price": 87.5
+   },
+   {
+    "id": 10111505957166,
+    "model": "DALTON-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10111505858862,
+    "model": "COVENT",
+    "price": 79.95
+   },
+   {
+    "id": 10111505793326,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 10111505727790,
+    "model": "CONOR-TK",
+    "price": 45
+   },
+   {
+    "id": 10111505760558,
+    "model": "CONOR-TK",
+    "price": 45
+   },
+   {
+    "id": 10111505695022,
+    "model": "CONOR-TK",
+    "price": 45
+   },
+   {
+    "id": 10111505662254,
+    "model": "CONEY",
+    "price": 65
+   },
+   {
+    "id": 10111505596718,
+    "model": "COLTON",
+    "price": 89.95
+   },
+   {
+    "id": 10111505563950,
+    "model": "COLIN-TK",
+    "price": 39.95
+   },
+   {
+    "id": 10111505531182,
+    "model": "CLAUDINA",
+    "price": 65
+   },
+   {
+    "id": 10111505498414,
+    "model": "CLAUDINA",
+    "price": 65
+   },
+   {
+    "id": 10111505465646,
+    "model": "CLAUDINA",
+    "price": 65
+   },
+   {
+    "id": 10111505432878,
+    "model": "CLARK-FR",
+    "price": 49.95
+   },
+   {
+    "id": 10111505400110,
+    "model": "CLARK-FR",
+    "price": 49.95
+   },
+   {
+    "id": 10111505367342,
+    "model": "CHARLY-TK",
+    "price": 49.95
+   },
+   {
+    "id": 10111505334574,
+    "model": "CECILIA",
+    "price": 65
+   },
+   {
+    "id": 10111505301806,
+    "model": "CECILIA",
+    "price": 65
+   },
+   {
+    "id": 10111505269038,
+    "model": "CECILIA",
+    "price": 65
+   },
+   {
+    "id": 10111505236270,
+    "model": "CASSIE",
+    "price": 55
+   },
+   {
+    "id": 10111505203502,
+    "model": "CARTER",
+    "price": 69.95
+   },
+   {
+    "id": 10111505170734,
+    "model": "CARLY-SH",
+    "price": 39.95
+   },
+   {
+    "id": 10111505105198,
+    "model": "CARLY-CP",
+    "price": 34.95
+   },
+   {
+    "id": 10111505072430,
+    "model": "CARLO-FR",
+    "price": 45
+   },
+   {
+    "id": 10111505039662,
+    "model": "CARLO-FR",
+    "price": 45
+   },
+   {
+    "id": 10111505006894,
+    "model": "CALVI",
+    "price": 49.95
+   },
+   {
+    "id": 10111504974126,
+    "model": "CALVI",
+    "price": 49.95
+   },
+   {
+    "id": 10111504941358,
+    "model": "CALEB-TK",
+    "price": 59.95
+   },
+   {
+    "id": 10111504908590,
+    "model": "BELIZE-UM",
+    "price": 45
+   },
+   {
+    "id": 10111504843054,
+    "model": "ALEXANDRA",
+    "price": 109.95
+   },
+   {
+    "id": 10111504777518,
+    "model": "ALEXANDRA",
+    "price": 109.95
+   },
+   {
+    "id": 10111504744750,
+    "model": "ALEXANDRA",
+    "price": 109.95
+   },
+   {
+    "id": 10111504711982,
+    "model": "ALEXANDRA",
+    "price": 109.95
+   },
+   {
+    "id": 10111504679214,
+    "model": "ALEX-LQ",
+    "price": 95
+   },
+   {
+    "id": 10111504646446,
+    "model": "ALEX-LQ",
+    "price": 95
+   },
+   {
+    "id": 10111504580910,
+    "model": "ALEX-LQ",
+    "price": 95
+   },
+   {
+    "id": 10111504548142,
+    "model": "ACRA-P",
+    "price": 129.95
+   },
+   {
+    "id": 10111504515374,
+    "model": "ACRA-P",
+    "price": 129.95
+   },
+   {
+    "id": 10054972440878,
+    "model": "JEFF-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10054972408110,
+    "model": "JEFF-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10054971719982,
+    "model": "LAND-UM",
+    "price": 32.5
+   },
+   {
+    "id": 10054971687214,
+    "model": "LAND-UM",
+    "price": 32.5
+   },
+   {
+    "id": 10048357073198,
+    "model": "BOSSA-TOTE-HI",
+    "price": 5
+   },
+   {
+    "id": 10048054559022,
+    "model": "GEORGIA",
+    "price": 49.95
+   },
+   {
+    "id": 10048053018926,
+    "model": "DELI-EF",
+    "price": 39.95
+   },
+   {
+    "id": 10048052166958,
+    "model": "NADIR-UM",
+    "price": 39.95
+   },
+   {
+    "id": 10048050987310,
+    "model": "CONEY",
+    "price": 65
+   },
+   {
+    "id": 10048050004270,
+    "model": "PAVIA-SY",
+    "price": 125
+   },
+   {
+    "id": 10048049152302,
+    "model": "ISA-SY",
+    "price": 85
+   },
+   {
+    "id": 10048049119534,
+    "model": "ISA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9752410947886,
+    "model": "LISBOA",
+    "price": 79.95
+   },
+   {
+    "id": 9724807938350,
+    "model": "LUX-DR",
+    "price": 24.5
+   },
+   {
+    "id": 9724768911662,
+    "model": "NINO-UM",
+    "price": 34.95
+   },
+   {
+    "id": 9724767994158,
+    "model": "MILAN-TL",
+    "price": 39.95
+   },
+   {
+    "id": 9724767895854,
+    "model": "MILAN-TL",
+    "price": 39.95
+   },
+   {
+    "id": 9724767863086,
+    "model": "MAUI-NM",
+    "price": 34.95
+   },
+   {
+    "id": 9724767764782,
+    "model": "MAUI-NM",
+    "price": 34.95
+   },
+   {
+    "id": 9724767797550,
+    "model": "MAUI-NM",
+    "price": 34.95
+   },
+   {
+    "id": 9724767207726,
+    "model": "DORIA-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9724767076654,
+    "model": "DOMI-SR",
+    "price": 39.95
+   },
+   {
+    "id": 9724767142190,
+    "model": "DORIA-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9724767011118,
+    "model": "DOMI-SR",
+    "price": 39.95
+   },
+   {
+    "id": 9724766978350,
+    "model": "DOMI-SR",
+    "price": 39.95
+   },
+   {
+    "id": 9724766716206,
+    "model": "DELI-BF",
+    "price": 39.95
+   },
+   {
+    "id": 9724766650670,
+    "model": "DELI-BF",
+    "price": 39.95
+   },
+   {
+    "id": 9724766552366,
+    "model": "DELI-BF",
+    "price": 39.95
+   },
+   {
+    "id": 9724763701550,
+    "model": "LLORET-5",
+    "price": 75
+   },
+   {
+    "id": 9724763668782,
+    "model": "LLORET-5",
+    "price": 69.95
+   },
+   {
+    "id": 9724759965998,
+    "model": "NINO-UM",
+    "price": 34.95
+   },
+   {
+    "id": 9724757672238,
+    "model": "TOBI-DR",
+    "price": 45
+   },
+   {
+    "id": 9724757639470,
+    "model": "TOBI-DR",
+    "price": 45
+   },
+   {
+    "id": 9724757410094,
+    "model": "CARTER",
+    "price": 69.95
+   },
+   {
+    "id": 9722479804718,
+    "model": "TOBI-EF",
+    "price": 45
+   },
+   {
+    "id": 9722479771950,
+    "model": "TOBI-EF",
+    "price": 29.95
+   },
+   {
+    "id": 9722479313198,
+    "model": "TIAGO-RW",
+    "price": 45
+   },
+   {
+    "id": 9722479280430,
+    "model": "TIAGO-RW",
+    "price": 45
+   },
+   {
+    "id": 9722478493998,
+    "model": "SORT",
+    "price": 89.95
+   },
+   {
+    "id": 9722478428462,
+    "model": "SORT",
+    "price": 89.95
+   },
+   {
+    "id": 9722478395694,
+    "model": "SOMNI",
+    "price": 49.95
+   },
+   {
+    "id": 9722478035246,
+    "model": "SERRA",
+    "price": 95
+   },
+   {
+    "id": 9722476855598,
+    "model": "PERU-SY",
+    "price": 109.95
+   },
+   {
+    "id": 9722476790062,
+    "model": "PERU-SY",
+    "price": 109.95
+   },
+   {
+    "id": 9722476691758,
+    "model": "PADUA",
+    "price": 89.95
+   },
+   {
+    "id": 9722476658990,
+    "model": "PADUA",
+    "price": 89.95
+   },
+   {
+    "id": 9722476626222,
+    "model": "PADUA",
+    "price": 69.95
+   },
+   {
+    "id": 9725264134446,
+    "model": "GEORGIA",
+    "price": 49.95
+   },
+   {
+    "id": 9725264232750,
+    "model": "GINA-CD",
+    "price": 49.95
+   },
+   {
+    "id": 9725264199982,
+    "model": "GINA-CD",
+    "price": 49.95
+   },
+   {
+    "id": 9725262922030,
+    "model": "SHOE-CARE-KIT",
+    "price": 29.95
+   },
+   {
+    "id": 9725262823726,
+    "model": "QUERALT-DO",
+    "price": 7.95
+   },
+   {
+    "id": 9725262790958,
+    "model": "QUERALT-DO",
+    "price": 7.95
+   },
+   {
+    "id": 9725262758190,
+    "model": "QUERALT-DD",
+    "price": 7.95
+   },
+   {
+    "id": 9725262725422,
+    "model": "QUERALT-DD",
+    "price": 7.95
+   },
+   {
+    "id": 9725262692654,
+    "model": "QUERALT-BT",
+    "price": 7.95
+   },
+   {
+    "id": 9725262659886,
+    "model": "QUERALT-BT",
+    "price": 7.95
+   },
+   {
+    "id": 9725262627118,
+    "model": "QUERALT-BR",
+    "price": 7.95
+   },
+   {
+    "id": 9725262594350,
+    "model": "QUERALT-BR",
+    "price": 7.95
+   },
+   {
+    "id": 9725262561582,
+    "model": "QUEL-YA",
+    "price": 9.95
+   },
+   {
+    "id": 9725262528814,
+    "model": "QUEL-YA",
+    "price": 9.95
+   },
+   {
+    "id": 9725262496046,
+    "model": "QUEL-TP",
+    "price": 9.95
+   },
+   {
+    "id": 9725262463278,
+    "model": "QUEL-TP",
+    "price": 9.95
+   },
+   {
+    "id": 9725262201134,
+    "model": "QUEL-ND",
+    "price": 9.95
+   },
+   {
+    "id": 9725262168366,
+    "model": "QUEL-ND",
+    "price": 9.95
+   },
+   {
+    "id": 9725262135598,
+    "model": "QUEL-ND",
+    "price": 9.95
+   },
+   {
+    "id": 9725262004526,
+    "model": "QUEL-HK",
+    "price": 9.95
+   },
+   {
+    "id": 9725261971758,
+    "model": "QUEL-HK",
+    "price": 9.95
+   },
+   {
+    "id": 9725261807918,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261840686,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261775150,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261545774,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261611310,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261513006,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261447470,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261381934,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261316398,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261283630,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261250862,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261218094,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261185326,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261152558,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261087022,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725261054254,
+    "model": "IMAN-TP",
+    "price": 6
+   },
+   {
+    "id": 9725260988718,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260955950,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260923182,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260857646,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260824878,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260792110,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260759342,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260726574,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260628270,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9725260595502,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9724807971118,
+    "model": "LUX-DR",
+    "price": 24.5
+   },
+   {
+    "id": 9722470629678,
+    "model": "MAILY-BB",
+    "price": 45
+   },
+   {
+    "id": 9722470039854,
+    "model": "LLORET-5",
+    "price": 75
+   },
+   {
+    "id": 9722469548334,
+    "model": "KATE",
+    "price": 149.95
+   },
+   {
+    "id": 9722469351726,
+    "model": "JORDI",
+    "price": 89.95
+   },
+   {
+    "id": 9722469318958,
+    "model": "JORDI",
+    "price": 89.95
+   },
+   {
+    "id": 9722469253422,
+    "model": "JIANA-FR",
+    "price": 59.95
+   },
+   {
+    "id": 9722468696366,
+    "model": "JAELLE-FR",
+    "price": 59.95
+   },
+   {
+    "id": 9722468663598,
+    "model": "JAELLE-FR",
+    "price": 59.95
+   },
+   {
+    "id": 9722468630830,
+    "model": "JADEN-FR",
+    "price": 59.95
+   },
+   {
+    "id": 9722468598062,
+    "model": "JADEN-FR",
+    "price": 59.95
+   },
+   {
+    "id": 9722468303150,
+    "model": "ISA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722468270382,
+    "model": "ISA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722468237614,
+    "model": "ISA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722468041006,
+    "model": "ISA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722467549486,
+    "model": "IMAGINA",
+    "price": 34.95
+   },
+   {
+    "id": 9722466271534,
+    "model": "GIA-SF",
+    "price": 75
+   },
+   {
+    "id": 9722466238766,
+    "model": "GIA-SF",
+    "price": 75
+   },
+   {
+    "id": 9722466173230,
+    "model": "GESSAMI",
+    "price": 49.95
+   },
+   {
+    "id": 9722466140462,
+    "model": "GERI-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722466107694,
+    "model": "GERI-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722465714478,
+    "model": "GARDA-SY",
+    "price": 89.95
+   },
+   {
+    "id": 9722465681710,
+    "model": "GARDA-SY",
+    "price": 89.95
+   },
+   {
+    "id": 9722465616174,
+    "model": "FORTALESA",
+    "price": 49.95
+   },
+   {
+    "id": 9722476069166,
+    "model": "OLIMPIA",
+    "price": 95
+   },
+   {
+    "id": 9722475774254,
+    "model": "NOTI-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722475053358,
+    "model": "NEPAL-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722474561838,
+    "model": "NAUEL-CW",
+    "price": 34.95
+   },
+   {
+    "id": 9722474529070,
+    "model": "NAUEL-CW",
+    "price": 34.95
+   },
+   {
+    "id": 9722474332462,
+    "model": "NADIR-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722474299694,
+    "model": "NADIR-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722474266926,
+    "model": "NADIR-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722474234158,
+    "model": "NADIR-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722473873710,
+    "model": "MORA-TK",
+    "price": 39.95
+   },
+   {
+    "id": 9722473808174,
+    "model": "MORA-TK",
+    "price": 39.95
+   },
+   {
+    "id": 9722473775406,
+    "model": "MORA-TK",
+    "price": 39.95
+   },
+   {
+    "id": 9722473021742,
+    "model": "MOLY-S",
+    "price": 29.95
+   },
+   {
+    "id": 9722472988974,
+    "model": "MOLY-S",
+    "price": 45
+   },
+   {
+    "id": 9722472956206,
+    "model": "MOLY-S",
+    "price": 45
+   },
+   {
+    "id": 9722472825134,
+    "model": "MINSK-TK",
+    "price": 39.95
+   },
+   {
+    "id": 9722472792366,
+    "model": "MINSK-TK",
+    "price": 39.95
+   },
+   {
+    "id": 9722472235310,
+    "model": "MEMORIA",
+    "price": 49.95
+   },
+   {
+    "id": 9722472104238,
+    "model": "MELVA-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722472071470,
+    "model": "MELVA-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722471579950,
+    "model": "MAUI-LX",
+    "price": 39.95
+   },
+   {
+    "id": 9722471514414,
+    "model": "MAUI-LX",
+    "price": 39.95
+   },
+   {
+    "id": 9722470793518,
+    "model": "MALU-RM",
+    "price": 49.95
+   },
+   {
+    "id": 9722470760750,
+    "model": "MALU-RM",
+    "price": 49.95
+   },
+   {
+    "id": 9722459423022,
+    "model": "CONEY",
+    "price": 65
+   },
+   {
+    "id": 9722459291950,
+    "model": "CONEY",
+    "price": 65
+   },
+   {
+    "id": 9722459160878,
+    "model": "CLOE",
+    "price": 79.95
+   },
+   {
+    "id": 9722459128110,
+    "model": "CLOE",
+    "price": 79.95
+   },
+   {
+    "id": 9722458702126,
+    "model": "CELINE",
+    "price": 79.95
+   },
+   {
+    "id": 9722458767662,
+    "model": "CELINE",
+    "price": 79.95
+   },
+   {
+    "id": 9722458603822,
+    "model": "CELINE",
+    "price": 79.95
+   },
+   {
+    "id": 9722458308910,
+    "model": "CATIA",
+    "price": 75
+   },
+   {
+    "id": 9722458243374,
+    "model": "CATIA",
+    "price": 75
+   },
+   {
+    "id": 9722458079534,
+    "model": "CARTER",
+    "price": 69.95
+   },
+   {
+    "id": 9722458013998,
+    "model": "CARTER",
+    "price": 69.95
+   },
+   {
+    "id": 9722457686318,
+    "model": "CANBY",
+    "price": 95
+   },
+   {
+    "id": 9722457653550,
+    "model": "CANBY",
+    "price": 95
+   },
+   {
+    "id": 9722457588014,
+    "model": "CAMOS",
+    "price": 89.95
+   },
+   {
+    "id": 9722457227566,
+    "model": "CADAQUES",
+    "price": 49.95
+   },
+   {
+    "id": 9722456965422,
+    "model": "BORIS",
+    "price": 79.95
+   },
+   {
+    "id": 9722454769966,
+    "model": "ATENEA",
+    "price": 89.95
+   },
+   {
+    "id": 9722454737198,
+    "model": "ATENEA",
+    "price": 65
+   },
+   {
+    "id": 9722454704430,
+    "model": "ATENEA",
+    "price": 65
+   },
+   {
+    "id": 9722454638894,
+    "model": "ARIADNA",
+    "price": 89.95
+   },
+   {
+    "id": 9722454573358,
+    "model": "ARIADNA",
+    "price": 89.95
+   },
+   {
+    "id": 9722454540590,
+    "model": "ANDREA",
+    "price": 89.95
+   },
+   {
+    "id": 9722464469294,
+    "model": "ELI-P",
+    "price": 49.95
+   },
+   {
+    "id": 9722464436526,
+    "model": "ELI-P",
+    "price": 49.95
+   },
+   {
+    "id": 9722464338222,
+    "model": "ELEFANT",
+    "price": 34.95
+   },
+   {
+    "id": 9722463617326,
+    "model": "DUNA-CP",
+    "price": 45
+   },
+   {
+    "id": 9722463584558,
+    "model": "DUNA-CP",
+    "price": 45
+   },
+   {
+    "id": 9722463519022,
+    "model": "DUNA-CP",
+    "price": 45
+   },
+   {
+    "id": 9722463387950,
+    "model": "DUBLIN",
+    "price": 89.95
+   },
+   {
+    "id": 9722463060270,
+    "model": "DEMI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722462994734,
+    "model": "DEMI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722462961966,
+    "model": "DEMI-FP",
+    "price": 45
+   },
+   {
+    "id": 9722462601518,
+    "model": "DELI-EF",
+    "price": 39.95
+   },
+   {
+    "id": 9722462568750,
+    "model": "DELI-EF",
+    "price": 39.95
+   },
+   {
+    "id": 9722462372142,
+    "model": "DAVINIA",
+    "price": 87.5
+   },
+   {
+    "id": 9722462339374,
+    "model": "DAVINIA",
+    "price": 87.5
+   },
+   {
+    "id": 9722462273838,
+    "model": "DAVINIA",
+    "price": 87.5
+   },
+   {
+    "id": 9722462241070,
+    "model": "DASHA",
+    "price": 87.5
+   },
+   {
+    "id": 9722462208302,
+    "model": "DASHA",
+    "price": 87.5
+   },
+   {
+    "id": 9722462044462,
+    "model": "DARLA-SB",
+    "price": 34.95
+   },
+   {
+    "id": 9722461651246,
+    "model": "DALTON-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722461585710,
+    "model": "DALTON-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722461454638,
+    "model": "DALMAU",
+    "price": 89.95
+   },
+   {
+    "id": 9722460307758,
+    "model": "COVENT",
+    "price": 79.95
+   },
+   {
+    "id": 9722460274990,
+    "model": "COVENT",
+    "price": 79.95
+   },
+   {
+    "id": 10501909938478,
+    "model": "026JUTE",
+    "price": 109.95
+   },
+   {
+    "id": 10501909905710,
+    "model": "026JUTE",
+    "price": 109.95
+   },
+   {
+    "id": 10435092676910,
+    "model": "080JUTE",
+    "price": 125
+   },
+   {
+    "id": 10435092644142,
+    "model": "080JUTE",
+    "price": 125
+   },
+   {
+    "id": 10435092611374,
+    "model": "080JUTE",
+    "price": 125
+   },
+   {
+    "id": 10435092578606,
+    "model": "080JUTE",
+    "price": 125
+   },
+   {
+    "id": 10434805170478,
+    "model": "TODA-NT",
+    "price": 49.95
+   },
+   {
+    "id": 10434805104942,
+    "model": "TODA-NT",
+    "price": 49.95
+   },
+   {
+    "id": 10434805006638,
+    "model": "ROSE-NE",
+    "price": 55
+   },
+   {
+    "id": 10434804089134,
+    "model": "GUNTER-CB",
+    "price": 55
+   },
+   {
+    "id": 10434803237166,
+    "model": "EVO-PR",
+    "price": 39.95
+   },
+   {
+    "id": 10434803171630,
+    "model": "ESTHER",
+    "price": 49.95
+   },
+   {
+    "id": 10434803138862,
+    "model": "ESTHER",
+    "price": 49.95
+   },
+   {
+    "id": 10434802942254,
+    "model": "EMY-ML",
+    "price": 39.95
+   },
+   {
+    "id": 10434802909486,
+    "model": "EMY-MD",
+    "price": 39.95
+   },
+   {
+    "id": 10434802680110,
+    "model": "EFES-BR",
+    "price": 39.95
+   },
+   {
+    "id": 10434802614574,
+    "model": "EFES-BR",
+    "price": 39.95
+   },
+   {
+    "id": 10434802581806,
+    "model": "EDITA-PR",
+    "price": 38.5
+   },
+   {
+    "id": 10434802516270,
+    "model": "EDITA-BR",
+    "price": 38.5
+   },
+   {
+    "id": 10434802483502,
+    "model": "EDITA-BR",
+    "price": 38.5
+   },
+   {
+    "id": 10434802417966,
+    "model": "EDDY-ST",
+    "price": 49.95
+   },
+   {
+    "id": 10434802385198,
+    "model": "EDDY-ST",
+    "price": 49.95
+   },
+   {
+    "id": 10434802319662,
+    "model": "EDDY-ST",
+    "price": 49.95
+   },
+   {
+    "id": 10434802221358,
+    "model": "DEXTER-TC",
+    "price": 39.95
+   },
+   {
+    "id": 10434802057518,
+    "model": "DARIO-BR",
+    "price": 55
+   },
+   {
+    "id": 10434801926446,
+    "model": "DANTE-TC",
+    "price": 49.95
+   },
+   {
+    "id": 10434801860910,
+    "model": "DAN-WL",
+    "price": 49.95
+   },
+   {
+    "id": 10344265646382,
+    "model": "RUANDA",
+    "price": 55
+   },
+   {
+    "id": 9752438243630,
+    "model": "CORDA",
+    "price": 29.95
+   },
+   {
+    "id": 9752438047022,
+    "model": "BIBI-A",
+    "price": 55
+   },
+   {
+    "id": 9752414945582,
+    "model": "VIOLA-NE",
+    "price": 49.95
+   },
+   {
+    "id": 9752414781742,
+    "model": "TERRA-DD",
+    "price": 45
+   },
+   {
+    "id": 9752414585134,
+    "model": "TERRA-DD",
+    "price": 45
+   },
+   {
+    "id": 9752414421294,
+    "model": "TERRA-DD",
+    "price": 45
+   },
+   {
+    "id": 9752414322990,
+    "model": "TERRA-CS",
+    "price": 55
+   },
+   {
+    "id": 9752414028078,
+    "model": "STAR",
+    "price": 49.95
+   },
+   {
+    "id": 9752413864238,
+    "model": "STAR",
+    "price": 49.95
+   },
+   {
+    "id": 9752413765934,
+    "model": "ROSE-NE",
+    "price": 39.95
+   },
+   {
+    "id": 9752412979502,
+    "model": "NORMA",
+    "price": 45
+   },
+   {
+    "id": 9752412848430,
+    "model": "NOA-HV",
+    "price": 45
+   },
+   {
+    "id": 9752412684590,
+    "model": "NOA-HV",
+    "price": 45
+   },
+   {
+    "id": 9752412389678,
+    "model": "NAI-DL",
+    "price": 27.95
+   },
+   {
+    "id": 9752412258606,
+    "model": "NAI-DL",
+    "price": 27.95
+   },
+   {
+    "id": 9752411963694,
+    "model": "NAI-AR",
+    "price": 27.95
+   },
+   {
+    "id": 9752411570478,
+    "model": "MARIONA",
+    "price": 69.95
+   },
+   {
+    "id": 9752411734318,
+    "model": "MARIONA",
+    "price": 69.95
+   },
+   {
+    "id": 9752411210030,
+    "model": "LUA-NT",
+    "price": 59.95
+   },
+   {
+    "id": 9752411111726,
+    "model": "LUA-NT",
+    "price": 59.95
+   },
+   {
+    "id": 9752410063150,
+    "model": "KOTA-A",
+    "price": 69.95
+   },
+   {
+    "id": 9752409866542,
+    "model": "KOTA-A",
+    "price": 69.95
+   },
+   {
+    "id": 9752409309486,
+    "model": "IRINA",
+    "price": 59.95
+   },
+   {
+    "id": 9752408850734,
+    "model": "GUNTER-CB",
+    "price": 55
+   },
+   {
+    "id": 9752408064302,
+    "model": "ESTHER",
+    "price": 49.95
+   },
+   {
+    "id": 9752408195374,
+    "model": "ESTHER",
+    "price": 49.95
+   },
+   {
+    "id": 9752407933230,
+    "model": "ELMA",
+    "price": 39.95
+   },
+   {
+    "id": 9752407736622,
+    "model": "ELMA",
+    "price": 39.95
+   },
+   {
+    "id": 9752407638318,
+    "model": "ELISENDA",
+    "price": 75
+   },
+   {
+    "id": 9752406950190,
+    "model": "DIDAC",
+    "price": 45
+   },
+   {
+    "id": 9752407343406,
+    "model": "EFES-V",
+    "price": 39.95
+   },
+   {
+    "id": 9752407081262,
+    "model": "EDDY-ST",
+    "price": 49.95
+   },
+   {
+    "id": 9752406786350,
+    "model": "DIDAC",
+    "price": 45
+   },
+   {
+    "id": 9752406688046,
+    "model": "DIDAC",
+    "price": 45
+   },
+   {
+    "id": 9752406524206,
+    "model": "DIDAC",
+    "price": 45
+   },
+   {
+    "id": 9752406360366,
+    "model": "DECLAN",
+    "price": 59.95
+   },
+   {
+    "id": 9752406262062,
+    "model": "DECLAN",
+    "price": 59.95
+   },
+   {
+    "id": 9752405246254,
+    "model": "CADIZ",
+    "price": 24.5
+   },
+   {
+    "id": 9752405147950,
+    "model": "CADIZ",
+    "price": 24.5
+   },
+   {
+    "id": 9752404525358,
+    "model": "ARLET-NZ",
+    "price": 49.95
+   },
+   {
+    "id": 9752342233390,
+    "model": "CORDA",
+    "price": 29.95
+   },
+   {
+    "id": 9752148738350,
+    "model": "VEGA-GY",
+    "price": 49.95
+   },
+   {
+    "id": 9752148214062,
+    "model": "TODA-NT",
+    "price": 49.95
+   },
+   {
+    "id": 9752148050222,
+    "model": "TODA-NT",
+    "price": 49.95
+   },
+   {
+    "id": 9752147657006,
+    "model": "TERRA-CH",
+    "price": 49.95
+   },
+   {
+    "id": 9752146968878,
+    "model": "PIPER-GY",
+    "price": 55
+   },
+   {
+    "id": 9752146870574,
+    "model": "PIPER-GY",
+    "price": 55
+   },
+   {
+    "id": 9752146739502,
+    "model": "PIPER-GY",
+    "price": 55
+   },
+   {
+    "id": 9752145821998,
+    "model": "MIRIAM",
+    "price": 75
+   },
+   {
+    "id": 9752146051374,
+    "model": "MIRIAM",
+    "price": 75
+   },
+   {
+    "id": 9752145690926,
+    "model": "MARC",
+    "price": 55
+   },
+   {
+    "id": 9752138187054,
+    "model": "GILDA-CF",
+    "price": 45
+   },
+   {
+    "id": 9752135860526,
+    "model": "ELISENDA",
+    "price": 75
+   },
+   {
+    "id": 9752135401774,
+    "model": "ELIA-BG",
+    "price": 55
+   },
+   {
+    "id": 9752134943022,
+    "model": "ELIA-BG",
+    "price": 55
+   },
+   {
+    "id": 9752133042478,
+    "model": "CADIZ",
+    "price": 24.5
+   },
+   {
+    "id": 9752132747566,
+    "model": "BRU",
+    "price": 49.95
+   },
+   {
+    "id": 9722464207150,
+    "model": "EFES-V",
+    "price": 39.95
+   },
+   {
+    "id": 9722460635438,
+    "model": "CRISTINA",
+    "price": 69.96
+   },
+   {
+    "id": 9722460602670,
+    "model": "CRISTINA",
+    "price": 75
+   },
+   {
+    "id": 9722469056814,
+    "model": "JEFF-PO",
+    "price": 79.95
+   },
+   {
+    "id": 9722469024046,
+    "model": "JEFF-PO",
+    "price": 79.95
+   },
+   {
+    "id": 10435093070126,
+    "model": "SUSQUEDA80",
+    "price": 49.95
+   },
+   {
+    "id": 10435093037358,
+    "model": "OSOR80",
+    "price": 125
+   },
+   {
+    "id": 10435093004590,
+    "model": "OLOT80",
+    "price": 109.95
+   },
+   {
+    "id": 10435092971822,
+    "model": "GIRONA80",
+    "price": 109.95
+   },
+   {
+    "id": 10435092939054,
+    "model": "FIGUERES80",
+    "price": 109.95
+   },
+   {
+    "id": 10435092775214,
+    "model": "BEGUR80",
+    "price": 129.95
+   },
+   {
+    "id": 10435092742446,
+    "model": "ANGLES80",
+    "price": 109.95
+   },
+   {
+    "id": 10435092709678,
+    "model": "AMER80",
+    "price": 99.95
+   },
+   {
+    "id": 10344255062318,
+    "model": "BASILEA",
+    "price": 69.95
+   },
+   {
+    "id": 10344254636334,
+    "model": "ANAIS",
+    "price": 79.95
+   },
+   {
+    "id": 10344254669102,
+    "model": "ANAIS",
+    "price": 79.95
+   },
+   {
+    "id": 10414837563694,
+    "model": "SIMONA",
+    "price": 95
+   },
+   {
+    "id": 10437052989742,
+    "model": "SERENA",
+    "price": 99.95
+   },
+   {
+    "id": 10437052924206,
+    "model": "JULIANA",
+    "price": 109.95
+   },
+   {
+    "id": 10344267645230,
+    "model": "TREMP",
+    "price": 69.95
+   },
+   {
+    "id": 10344267809070,
+    "model": "TRITON",
+    "price": 65
+   },
+   {
+    "id": 10344257126702,
+    "model": "CUBA",
+    "price": 34.95
+   },
+   {
+    "id": 10344258830638,
+    "model": "ELDA-PM",
+    "price": 79.95
+   },
+   {
+    "id": 10344260403502,
+    "model": "GAIA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 10344268529966,
+    "model": "VERONA",
+    "price": 65
+   },
+   {
+    "id": 10344268464430,
+    "model": "VERONA",
+    "price": 65
+   },
+   {
+    "id": 10344267940142,
+    "model": "TRITON",
+    "price": 59.95
+   },
+   {
+    "id": 10344267907374,
+    "model": "TRITON",
+    "price": 59.95
+   },
+   {
+    "id": 10344267022638,
+    "model": "TERRA-MH",
+    "price": 69.95
+   },
+   {
+    "id": 10344266727726,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 10344266629422,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 10344256766254,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 10344255357230,
+    "model": "BERNIA-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344255258926,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 10344263581998,
+    "model": "MAR",
+    "price": 75
+   },
+   {
+    "id": 10344263647534,
+    "model": "MAR",
+    "price": 75
+   },
+   {
+    "id": 10344268202286,
+    "model": "VERDI-V",
+    "price": 59.95
+   },
+   {
+    "id": 10344268235054,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 10344268267822,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 10344268333358,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 10344268071214,
+    "model": "VALENCIA",
+    "price": 65
+   },
+   {
+    "id": 10344268103982,
+    "model": "VALENCIA",
+    "price": 65
+   },
+   {
+    "id": 10344268038446,
+    "model": "VALENCIA",
+    "price": 65
+   },
+   {
+    "id": 10344267612462,
+    "model": "TREMP",
+    "price": 69.95
+   },
+   {
+    "id": 10344267546926,
+    "model": "TRAPA",
+    "price": 69.95
+   },
+   {
+    "id": 10344267579694,
+    "model": "TRAPA",
+    "price": 69.95
+   },
+   {
+    "id": 10344267481390,
+    "model": "TRACY-CU",
+    "price": 75
+   },
+   {
+    "id": 10344267448622,
+    "model": "TOSSA",
+    "price": 75
+   },
+   {
+    "id": 10344266694958,
+    "model": "TER",
+    "price": 59.95
+   },
+   {
+    "id": 10344266531118,
+    "model": "TEIDE-P",
+    "price": 65
+   },
+   {
+    "id": 10344266432814,
+    "model": "TEIDE-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344266563886,
+    "model": "TEIDE-P",
+    "price": 65
+   },
+   {
+    "id": 10344265515310,
+    "model": "ROSE-CM",
+    "price": 59.95
+   },
+   {
+    "id": 10344264728878,
+    "model": "NURIA",
+    "price": 69.95
+   },
+   {
+    "id": 10344264696110,
+    "model": "NURIA",
+    "price": 69.95
+   },
+   {
+    "id": 10344264761646,
+    "model": "NURIA",
+    "price": 69.95
+   },
+   {
+    "id": 10344264204590,
+    "model": "MONZA-A",
+    "price": 79.95
+   },
+   {
+    "id": 10344264237358,
+    "model": "MONZA-A",
+    "price": 79.95
+   },
+   {
+    "id": 10344264171822,
+    "model": "MONZA-A",
+    "price": 79.95
+   },
+   {
+    "id": 10344263516462,
+    "model": "MAO-PM",
+    "price": 55
+   },
+   {
+    "id": 10344263483694,
+    "model": "MAO-P",
+    "price": 55
+   },
+   {
+    "id": 10344262959406,
+    "model": "LLIVIA-P",
+    "price": 75
+   },
+   {
+    "id": 10344261288238,
+    "model": "GOL-PE",
+    "price": 49.95
+   },
+   {
+    "id": 10344259649838,
+    "model": "ETNA",
+    "price": 59.95
+   },
+   {
+    "id": 10344259813678,
+    "model": "ETNA",
+    "price": 59.95
+   },
+   {
+    "id": 10344259879214,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 10344259682606,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 10344259715374,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 10344259748142,
+    "model": "ETNA",
+    "price": 59.95
+   },
+   {
+    "id": 10344259780910,
+    "model": "ETNA",
+    "price": 59.95
+   },
+   {
+    "id": 10344259846446,
+    "model": "ETNA",
+    "price": 59.95
+   },
+   {
+    "id": 10344259485998,
+    "model": "ERLA-P",
+    "price": 65
+   },
+   {
+    "id": 10344259518766,
+    "model": "ERLA-A",
+    "price": 65
+   },
+   {
+    "id": 10344259387694,
+    "model": "ERLA-A",
+    "price": 69.95
+   },
+   {
+    "id": 10344259256622,
+    "model": "EMMA",
+    "price": 69.95
+   },
+   {
+    "id": 10344258961710,
+    "model": "ELLA",
+    "price": 59.95
+   },
+   {
+    "id": 10344258765102,
+    "model": "ELDA-P",
+    "price": 75
+   },
+   {
+    "id": 10344258699566,
+    "model": "ELDA-P",
+    "price": 75
+   },
+   {
+    "id": 10344257421614,
+    "model": "DALLAS",
+    "price": 55
+   },
+   {
+    "id": 10344257487150,
+    "model": "DALLAS",
+    "price": 55
+   },
+   {
+    "id": 10344256241966,
+    "model": "CALPE",
+    "price": 69.95
+   },
+   {
+    "id": 10344256209198,
+    "model": "CALONGE",
+    "price": 59.95
+   },
+   {
+    "id": 10344255521070,
+    "model": "BIBI-SE",
+    "price": 69.95
+   },
+   {
+    "id": 10344255553838,
+    "model": "BIBI-SE",
+    "price": 69.95
+   },
+   {
+    "id": 9804437160238,
+    "model": "DARNIUS",
+    "price": 59.95
+   },
+   {
+    "id": 9804437094702,
+    "model": "DARNIUS",
+    "price": 59.95
+   },
+   {
+    "id": 10344268431662,
+    "model": "VERONA",
+    "price": 65
+   },
+   {
+    "id": 10344254734638,
+    "model": "ATRIA",
+    "price": 89.95
+   },
+   {
+    "id": 10344261124398,
+    "model": "GHANA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 10344261746990,
+    "model": "IKER-L",
+    "price": 75
+   },
+   {
+    "id": 10344261026094,
+    "model": "GER-QT",
+    "price": 59.95
+   },
+   {
+    "id": 10344257454382,
+    "model": "DALLAS",
+    "price": 55
+   },
+   {
+    "id": 10344268398894,
+    "model": "VERONA",
+    "price": 65
+   },
+   {
+    "id": 10344257159470,
+    "model": "CUBA",
+    "price": 34.95
+   },
+   {
+    "id": 10344257225006,
+    "model": "CUBA",
+    "price": 34.95
+   },
+   {
+    "id": 10344267972910,
+    "model": "TURIA",
+    "price": 65
+   },
+   {
+    "id": 10344268005678,
+    "model": "TURIA",
+    "price": 65
+   },
+   {
+    "id": 10344267776302,
+    "model": "TRITON",
+    "price": 59.95
+   },
+   {
+    "id": 10344267841838,
+    "model": "TRITON",
+    "price": 65
+   },
+   {
+    "id": 10344266760494,
+    "model": "TER",
+    "price": 59.95
+   },
+   {
+    "id": 10344266498350,
+    "model": "TEIDE-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344266465582,
+    "model": "TEIDE-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344266400046,
+    "model": "TEIDE-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344265417006,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 10410488365358,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 10344265449774,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 10344265482542,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 10344265351470,
+    "model": "ROMINA",
+    "price": 65
+   },
+   {
+    "id": 10344265384238,
+    "model": "ROMINA",
+    "price": 65
+   },
+   {
+    "id": 10344263549230,
+    "model": "MAO-QT",
+    "price": 55
+   },
+   {
+    "id": 10344263450926,
+    "model": "MAO-N",
+    "price": 55
+   },
+   {
+    "id": 10344263352622,
+    "model": "MAO-N",
+    "price": 55
+   },
+   {
+    "id": 10344263418158,
+    "model": "MAO-N",
+    "price": 55
+   },
+   {
+    "id": 10344263319854,
+    "model": "MAO-N",
+    "price": 55
+   },
+   {
+    "id": 10344263385390,
+    "model": "MAO-N",
+    "price": 55
+   },
+   {
+    "id": 10344262926638,
+    "model": "LLIVIA-P",
+    "price": 75
+   },
+   {
+    "id": 10410488332590,
+    "model": "LAILA-P",
+    "price": 79.95
+   },
+   {
+    "id": 10344262566190,
+    "model": "JULIA",
+    "price": 69.95
+   },
+   {
+    "id": 10344261321006,
+    "model": "GOL-PE",
+    "price": 49.95
+   },
+   {
+    "id": 10344261353774,
+    "model": "GOL-PE",
+    "price": 49.95
+   },
+   {
+    "id": 10344260436270,
+    "model": "GAIA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 10344260370734,
+    "model": "GAIA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 10344260337966,
+    "model": "GAIA-PE",
+    "price": 49.95
+   },
+   {
+    "id": 10344259617070,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 10344259453230,
+    "model": "ERLA-A",
+    "price": 69.95
+   },
+   {
+    "id": 10410488299822,
+    "model": "EMMA",
+    "price": 69.95
+   },
+   {
+    "id": 10344259092782,
+    "model": "ELLA",
+    "price": 65
+   },
+   {
+    "id": 10344259060014,
+    "model": "ELLA",
+    "price": 65
+   },
+   {
+    "id": 10344259027246,
+    "model": "ELLA",
+    "price": 65
+   },
+   {
+    "id": 10344258732334,
+    "model": "ELDA-P",
+    "price": 75
+   },
+   {
+    "id": 10344258470190,
+    "model": "EBRE-P",
+    "price": 75
+   },
+   {
+    "id": 10344258175278,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 10344258240814,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 10344257061166,
+    "model": "CROACIA",
+    "price": 75
+   },
+   {
+    "id": 9722477773102,
+    "model": "SALOU",
+    "price": 99.95
+   },
+   {
+    "id": 9752144707886,
+    "model": "IVET-CL",
+    "price": 79.95
+   },
+   {
+    "id": 10344254570798,
+    "model": "AITANA",
+    "price": 75
+   },
+   {
+    "id": 10344254701870,
+    "model": "ARLET-NZ",
+    "price": 65
+   },
+   {
+    "id": 10344255324462,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 10344255389998,
+    "model": "BERNIA-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344255422766,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 10344255488302,
+    "model": "BETTY-A",
+    "price": 75
+   },
+   {
+    "id": 10344256045358,
+    "model": "CALDES",
+    "price": 65
+   },
+   {
+    "id": 10344256078126,
+    "model": "CALDES",
+    "price": 69.95
+   },
+   {
+    "id": 10344256143662,
+    "model": "CALONGE",
+    "price": 59.95
+   },
+   {
+    "id": 10344256274734,
+    "model": "CALPE",
+    "price": 75
+   },
+   {
+    "id": 10344256373038,
+    "model": "CAROL-DM",
+    "price": 69.95
+   },
+   {
+    "id": 10344263811374,
+    "model": "MILENA",
+    "price": 45
+   },
+   {
+    "id": 9725262856494,
+    "model": "RESPIRA",
+    "price": 19.95
+   },
+   {
+    "id": 9725261021486,
+    "model": "EQUILIBRI",
+    "price": 19.95
+   },
+   {
+    "id": 10344260763950,
+    "model": "GELSA",
+    "price": 49.95
+   },
+   {
+    "id": 10344260796718,
+    "model": "GELSA",
+    "price": 49.95
+   },
+   {
+    "id": 10344265777454,
+    "model": "SALLY",
+    "price": 79.95
+   },
+   {
+    "id": 10344266301742,
+    "model": "TARIFA",
+    "price": 49.95
+   },
+   {
+    "id": 10344268169518,
+    "model": "VERA-RL",
+    "price": 79.95
+   },
+   {
+    "id": 10344268136750,
+    "model": "VEGA-BO",
+    "price": 59.95
+   },
+   {
+    "id": 10344267874606,
+    "model": "TRITON",
+    "price": 59.95
+   },
+   {
+    "id": 10344267743534,
+    "model": "TRITON",
+    "price": 65
+   },
+   {
+    "id": 10344267710766,
+    "model": "TREUMAL",
+    "price": 69.95
+   },
+   {
+    "id": 10344267677998,
+    "model": "TREUMAL",
+    "price": 69.95
+   },
+   {
+    "id": 10344267514158,
+    "model": "TRACY-CU",
+    "price": 69.95
+   },
+   {
+    "id": 10344267415854,
+    "model": "TONA",
+    "price": 65
+   },
+   {
+    "id": 10344267383086,
+    "model": "TINEO",
+    "price": 45
+   },
+   {
+    "id": 10344267350318,
+    "model": "TINA",
+    "price": 65
+   },
+   {
+    "id": 10344267284782,
+    "model": "TIANA",
+    "price": 79.95
+   },
+   {
+    "id": 10344267317550,
+    "model": "TIANA",
+    "price": 79.95
+   },
+   {
+    "id": 10344267252014,
+    "model": "TESS-CG",
+    "price": 69.95
+   },
+   {
+    "id": 10344267219246,
+    "model": "TESS-CG",
+    "price": 69.95
+   },
+   {
+    "id": 10344267186478,
+    "model": "TERRA-ZB",
+    "price": 75
+   },
+   {
+    "id": 10344267153710,
+    "model": "TERRA-RF",
+    "price": 79.95
+   },
+   {
+    "id": 10344267120942,
+    "model": "TERRA-RF",
+    "price": 79.95
+   },
+   {
+    "id": 10344267088174,
+    "model": "TERRA-RF",
+    "price": 79.95
+   },
+   {
+    "id": 10344267055406,
+    "model": "TERRA-NM",
+    "price": 69.95
+   },
+   {
+    "id": 10344266989870,
+    "model": "TERRA-AB",
+    "price": 75
+   },
+   {
+    "id": 10344266957102,
+    "model": "TERRA-AB",
+    "price": 75
+   },
+   {
+    "id": 10344266924334,
+    "model": "TEROL",
+    "price": 69.95
+   },
+   {
+    "id": 10344266891566,
+    "model": "TERMAL",
+    "price": 79.95
+   },
+   {
+    "id": 10344266858798,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 10344266662190,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 10344266596654,
+    "model": "TELMA-LE",
+    "price": 75
+   },
+   {
+    "id": 10344266367278,
+    "model": "TED",
+    "price": 29.95
+   },
+   {
+    "id": 10344266334510,
+    "model": "TED",
+    "price": 29.95
+   },
+   {
+    "id": 10344266268974,
+    "model": "TANA",
+    "price": 79.95
+   },
+   {
+    "id": 10344266236206,
+    "model": "TANA",
+    "price": 79.95
+   },
+   {
+    "id": 10344266203438,
+    "model": "TAMARIU",
+    "price": 89.95
+   },
+   {
+    "id": 10344266170670,
+    "model": "TALA",
+    "price": 69.95
+   },
+   {
+    "id": 10344266137902,
+    "model": "SUSA-FS",
+    "price": 85
+   },
+   {
+    "id": 10344266105134,
+    "model": "SONIA-RP",
+    "price": 85
+   },
+   {
+    "id": 10344266072366,
+    "model": "SONIA-RP",
+    "price": 85
+   },
+   {
+    "id": 10344266039598,
+    "model": "SIRA",
+    "price": 24.95
+   },
+   {
+    "id": 10344266006830,
+    "model": "SIA-P",
+    "price": 75
+   },
+   {
+    "id": 10344265974062,
+    "model": "SHEILA",
+    "price": 89.95
+   },
+   {
+    "id": 10344265941294,
+    "model": "SHEILA",
+    "price": 89.95
+   },
+   {
+    "id": 10344265908526,
+    "model": "SAURA",
+    "price": 79.95
+   },
+   {
+    "id": 10344265875758,
+    "model": "SAURA",
+    "price": 79.95
+   },
+   {
+    "id": 10344265842990,
+    "model": "SARAI",
+    "price": 79.95
+   },
+   {
+    "id": 10344265810222,
+    "model": "SARAI",
+    "price": 79.95
+   },
+   {
+    "id": 10344265744686,
+    "model": "SABINA-CA",
+    "price": 79.95
+   },
+   {
+    "id": 10344265711918,
+    "model": "SABINA-CA",
+    "price": 79.95
+   },
+   {
+    "id": 10344265679150,
+    "model": "RUBINA",
+    "price": 49.95
+   },
+   {
+    "id": 10344265613614,
+    "model": "ROVIRA",
+    "price": 79.95
+   },
+   {
+    "id": 10344265580846,
+    "model": "ROSE-DH",
+    "price": 65
+   },
+   {
+    "id": 10344265548078,
+    "model": "ROSE-DH",
+    "price": 65
+   },
+   {
+    "id": 10344265318702,
+    "model": "RIO-CC",
+    "price": 65
+   },
+   {
+    "id": 10344265285934,
+    "model": "RIO-CC",
+    "price": 65
+   },
+   {
+    "id": 10344265220398,
+    "model": "PALS-CC",
+    "price": 89.95
+   },
+   {
+    "id": 10344265253166,
+    "model": "POLA",
+    "price": 79.95
+   },
+   {
+    "id": 10344265187630,
+    "model": "PALS-CC",
+    "price": 89.95
+   },
+   {
+    "id": 10344265154862,
+    "model": "OPAL",
+    "price": 99.95
+   },
+   {
+    "id": 10344265122094,
+    "model": "OPAL",
+    "price": 99.95
+   },
+   {
+    "id": 10344265089326,
+    "model": "OMARA",
+    "price": 89.95
+   },
+   {
+    "id": 10344265056558,
+    "model": "OMARA",
+    "price": 89.95
+   },
+   {
+    "id": 10344265023790,
+    "model": "ODIN",
+    "price": 69.95
+   },
+   {
+    "id": 10344264991022,
+    "model": "ODIN",
+    "price": 69.95
+   },
+   {
+    "id": 10344264958254,
+    "model": "ODIN",
+    "price": 69.95
+   },
+   {
+    "id": 10344264925486,
+    "model": "OASIS",
+    "price": 79.95
+   },
+   {
+    "id": 10344264892718,
+    "model": "OASIS",
+    "price": 79.95
+   },
+   {
+    "id": 10344264859950,
+    "model": "NURI-VH",
+    "price": 69.95
+   },
+   {
+    "id": 10344264827182,
+    "model": "NURI-VH",
+    "price": 69.95
+   },
+   {
+    "id": 10344264794414,
+    "model": "NURI-VH",
+    "price": 69.95
+   },
+   {
+    "id": 10344264663342,
+    "model": "NOA-BO",
+    "price": 59.95
+   },
+   {
+    "id": 10344264630574,
+    "model": "NIUE-L",
+    "price": 45
+   },
+   {
+    "id": 10344264597806,
+    "model": "NIUE-L",
+    "price": 45
+   },
+   {
+    "id": 10344264565038,
+    "model": "NIKITA",
+    "price": 34.95
+   },
+   {
+    "id": 10344264532270,
+    "model": "NIDIA",
+    "price": 79.95
+   },
+   {
+    "id": 10344264499502,
+    "model": "NIDIA",
+    "price": 79.95
+   },
+   {
+    "id": 10344264466734,
+    "model": "NICA",
+    "price": 34.95
+   },
+   {
+    "id": 10344264433966,
+    "model": "NEREA-CG",
+    "price": 65
+   },
+   {
+    "id": 10344264401198,
+    "model": "NEREA-CG",
+    "price": 65
+   },
+   {
+    "id": 10344264368430,
+    "model": "NASH-JO",
+    "price": 39.95
+   },
+   {
+    "id": 10344264335662,
+    "model": "NAIARA",
+    "price": 89.95
+   },
+   {
+    "id": 10344264302894,
+    "model": "NAIARA",
+    "price": 89.95
+   },
+   {
+    "id": 10344264270126,
+    "model": "NAIARA",
+    "price": 89.95
+   },
+   {
+    "id": 10344268628270,
+    "model": "ZENIT",
+    "price": 89.95
+   },
+   {
+    "id": 10344268595502,
+    "model": "VINAROS",
+    "price": 65
+   },
+   {
+    "id": 10344268562734,
+    "model": "VINAROS",
+    "price": 65
+   },
+   {
+    "id": 10344264139054,
+    "model": "MONTJOI",
+    "price": 85
+   },
+   {
+    "id": 10344268300590,
+    "model": "VERDI-V",
+    "price": 59.95
+   },
+   {
+    "id": 10344259420462,
+    "model": "ERLA-A",
+    "price": 65
+   },
+   {
+    "id": 10344259354926,
+    "model": "ERICA-TA",
+    "price": 85
+   },
+   {
+    "id": 10344259322158,
+    "model": "ERICA-FN",
+    "price": 79.95
+   },
+   {
+    "id": 10344259289390,
+    "model": "ERIC",
+    "price": 34.95
+   },
+   {
+    "id": 10344259223854,
+    "model": "ELX",
+    "price": 69.95
+   },
+   {
+    "id": 10344259191086,
+    "model": "ELSA-CO",
+    "price": 65
+   },
+   {
+    "id": 10344259158318,
+    "model": "ELMER-PQ",
+    "price": 39.95
+   },
+   {
+    "id": 10344259125550,
+    "model": "ELMER-DD",
+    "price": 39.95
+   },
+   {
+    "id": 10344258994478,
+    "model": "ELLA",
+    "price": 59.95
+   },
+   {
+    "id": 10344258928942,
+    "model": "ELINA",
+    "price": 75
+   },
+   {
+    "id": 10344258896174,
+    "model": "ELINA",
+    "price": 75
+   },
+   {
+    "id": 10344258863406,
+    "model": "ELENA",
+    "price": 65
+   },
+   {
+    "id": 10344258666798,
+    "model": "ELBA",
+    "price": 69.95
+   },
+   {
+    "id": 10344258634030,
+    "model": "ELBA",
+    "price": 69.95
+   },
+   {
+    "id": 10344258601262,
+    "model": "ELBA",
+    "price": 69.95
+   },
+   {
+    "id": 10344258568494,
+    "model": "ELBA",
+    "price": 69.95
+   },
+   {
+    "id": 10344258535726,
+    "model": "EIDER-FS",
+    "price": 79.95
+   },
+   {
+    "id": 10344258502958,
+    "model": "EDITA-AD",
+    "price": 49.95
+   },
+   {
+    "id": 10344258437422,
+    "model": "DOROTEA-AD",
+    "price": 75
+   },
+   {
+    "id": 10344258404654,
+    "model": "DORIS",
+    "price": 89.95
+   },
+   {
+    "id": 10344258371886,
+    "model": "DORIS",
+    "price": 89.95
+   },
+   {
+    "id": 10344258339118,
+    "model": "DONATA-RP",
+    "price": 85
+   },
+   {
+    "id": 10344258306350,
+    "model": "DONATA-RP",
+    "price": 85
+   },
+   {
+    "id": 10344258273582,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 10344258076974,
+    "model": "DINA-RL",
+    "price": 79.95
+   },
+   {
+    "id": 10344258044206,
+    "model": "DIDIER",
+    "price": 79.95
+   },
+   {
+    "id": 10344258011438,
+    "model": "DIDIER",
+    "price": 79.95
+   },
+   {
+    "id": 10344257978670,
+    "model": "DESIREE",
+    "price": 139.95
+   },
+   {
+    "id": 10344257913134,
+    "model": "DENISE-RL",
+    "price": 79.95
+   },
+   {
+    "id": 10344257847598,
+    "model": "DENISE-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344257880366,
+    "model": "DENISE-P",
+    "price": 69.95
+   },
+   {
+    "id": 10344257814830,
+    "model": "DENISE-NM",
+    "price": 69.95
+   },
+   {
+    "id": 10344257782062,
+    "model": "DAVID-BM",
+    "price": 59.95
+   },
+   {
+    "id": 10344257749294,
+    "model": "DAVID-BM",
+    "price": 59.95
+   },
+   {
+    "id": 10344257650990,
+    "model": "DARWIN",
+    "price": 75
+   },
+   {
+    "id": 10344257618222,
+    "model": "DANIELA",
+    "price": 89.95
+   },
+   {
+    "id": 10344257519918,
+    "model": "DAMA",
+    "price": 79.95
+   },
+   {
+    "id": 10344257585454,
+    "model": "DANIELA",
+    "price": 89.95
+   },
+   {
+    "id": 10344257552686,
+    "model": "DAMARIS",
+    "price": 159.95
+   },
+   {
+    "id": 10344257356078,
+    "model": "DAGO-FO",
+    "price": 55
+   },
+   {
+    "id": 10344257323310,
+    "model": "DAGO-FO",
+    "price": 55
+   },
+   {
+    "id": 10344257290542,
+    "model": "CUZCO",
+    "price": 29.95
+   },
+   {
+    "id": 10344257257774,
+    "model": "CUBA",
+    "price": 34.95
+   },
+   {
+    "id": 10344257028398,
+    "model": "CRIS-SE",
+    "price": 79.95
+   },
+   {
+    "id": 10344256995630,
+    "model": "CRIS-SE",
+    "price": 79.95
+   },
+   {
+    "id": 10344256962862,
+    "model": "CRIS-SE",
+    "price": 79.95
+   },
+   {
+    "id": 10344256930094,
+    "model": "CRIS-SE",
+    "price": 79.95
+   },
+   {
+    "id": 10344256897326,
+    "model": "CRIS-SE",
+    "price": 79.95
+   },
+   {
+    "id": 10344256864558,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 10344256799022,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 10344256733486,
+    "model": "COVA-AD",
+    "price": 45
+   },
+   {
+    "id": 10344256700718,
+    "model": "CORALIE",
+    "price": 99.95
+   },
+   {
+    "id": 10344256667950,
+    "model": "CLARA",
+    "price": 79.95
+   },
+   {
+    "id": 10344256635182,
+    "model": "CLARA",
+    "price": 79.95
+   },
+   {
+    "id": 10344256602414,
+    "model": "CHESTER",
+    "price": 65
+   },
+   {
+    "id": 10344256569646,
+    "model": "CHESTER",
+    "price": 65
+   },
+   {
+    "id": 10344256536878,
+    "model": "CATANIA",
+    "price": 39.95
+   },
+   {
+    "id": 10344256504110,
+    "model": "CATANIA",
+    "price": 39.95
+   },
+   {
+    "id": 10344256471342,
+    "model": "CATANIA",
+    "price": 39.95
+   },
+   {
+    "id": 10344256438574,
+    "model": "CASTELL",
+    "price": 95
+   },
+   {
+    "id": 10344256405806,
+    "model": "CASTELL",
+    "price": 95
+   },
+   {
+    "id": 10344256340270,
+    "model": "CAMBRILS",
+    "price": 29.95
+   },
+   {
+    "id": 10344256110894,
+    "model": "CALMA",
+    "price": 89.95
+   },
+   {
+    "id": 10344256012590,
+    "model": "CALA",
+    "price": 34.95
+   },
+   {
+    "id": 10344255979822,
+    "model": "BRUNA",
+    "price": 75
+   },
+   {
+    "id": 10344255947054,
+    "model": "BRISA",
+    "price": 79.95
+   },
+   {
+    "id": 10344255914286,
+    "model": "BRISA",
+    "price": 79.95
+   },
+   {
+    "id": 10344255881518,
+    "model": "BRISA",
+    "price": 79.95
+   },
+   {
+    "id": 10344255815982,
+    "model": "BRISA",
+    "price": 79.95
+   },
+   {
+    "id": 10344255783214,
+    "model": "BRESCIA",
+    "price": 65
+   },
+   {
+    "id": 10344255750446,
+    "model": "BRESCIA",
+    "price": 65
+   },
+   {
+    "id": 10344255717678,
+    "model": "BRENDA-AS",
+    "price": 79.95
+   },
+   {
+    "id": 10344255684910,
+    "model": "BLANES-TJ",
+    "price": 45
+   },
+   {
+    "id": 10344255652142,
+    "model": "BLANES-TJ",
+    "price": 45
+   },
+   {
+    "id": 10344255619374,
+    "model": "BLANES-RN",
+    "price": 45
+   },
+   {
+    "id": 10344255586606,
+    "model": "BLANES-RN",
+    "price": 45
+   },
+   {
+    "id": 10344255455534,
+    "model": "BERNIA-ZB",
+    "price": 75
+   },
+   {
+    "id": 10344255291694,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 10344255226158,
+    "model": "BERNA",
+    "price": 75
+   },
+   {
+    "id": 10344255193390,
+    "model": "BERNA",
+    "price": 75
+   },
+   {
+    "id": 10344255160622,
+    "model": "BERGEN",
+    "price": 75
+   },
+   {
+    "id": 10344255127854,
+    "model": "BERGEN",
+    "price": 75
+   },
+   {
+    "id": 10344264106286,
+    "model": "MONTJOI",
+    "price": 85
+   },
+   {
+    "id": 10344264073518,
+    "model": "MINO",
+    "price": 69.95
+   },
+   {
+    "id": 10344264040750,
+    "model": "MINA-L",
+    "price": 39.95
+   },
+   {
+    "id": 10344264007982,
+    "model": "MINA-L",
+    "price": 39.95
+   },
+   {
+    "id": 10344263975214,
+    "model": "MINA-L",
+    "price": 39.95
+   },
+   {
+    "id": 10344263942446,
+    "model": "MIMI-TJ",
+    "price": 34.95
+   },
+   {
+    "id": 10344263909678,
+    "model": "MILO",
+    "price": 69.95
+   },
+   {
+    "id": 10344263844142,
+    "model": "MILO",
+    "price": 69.95
+   },
+   {
+    "id": 10344263745838,
+    "model": "MARGOT",
+    "price": 89.95
+   },
+   {
+    "id": 10344263778606,
+    "model": "MARTI",
+    "price": 69.95
+   },
+   {
+    "id": 10344263713070,
+    "model": "MARCEL",
+    "price": 75
+   },
+   {
+    "id": 10344263680302,
+    "model": "MARCEL",
+    "price": 75
+   },
+   {
+    "id": 10344263287086,
+    "model": "MAGDA-P",
+    "price": 79.95
+   },
+   {
+    "id": 10344263254318,
+    "model": "MAGDA-P",
+    "price": 79.95
+   },
+   {
+    "id": 10344263221550,
+    "model": "MAGDA-P",
+    "price": 79.95
+   },
+   {
+    "id": 10344263188782,
+    "model": "MACARELLA",
+    "price": 59.95
+   },
+   {
+    "id": 10344263156014,
+    "model": "MACARELLA",
+    "price": 59.95
+   },
+   {
+    "id": 10344263123246,
+    "model": "LUGANO-P",
+    "price": 79.95
+   },
+   {
+    "id": 10344262893870,
+    "model": "LIA-RF",
+    "price": 109.95
+   },
+   {
+    "id": 10344262861102,
+    "model": "LIA-RF",
+    "price": 109.95
+   },
+   {
+    "id": 10344262795566,
+    "model": "LIA-RF",
+    "price": 109.95
+   },
+   {
+    "id": 10344262730030,
+    "model": "LAILA-SD",
+    "price": 89.95
+   },
+   {
+    "id": 10344262697262,
+    "model": "LAILA-SD",
+    "price": 89.95
+   },
+   {
+    "id": 10344262631726,
+    "model": "LAILA-PF",
+    "price": 89.95
+   },
+   {
+    "id": 10344262598958,
+    "model": "KASIA-LE",
+    "price": 69.95
+   },
+   {
+    "id": 10344262533422,
+    "model": "JANEL-CO",
+    "price": 75
+   },
+   {
+    "id": 10344262500654,
+    "model": "ISOLDA",
+    "price": 89.95
+   },
+   {
+    "id": 10344262467886,
+    "model": "ISOLDA",
+    "price": 89.95
+   },
+   {
+    "id": 10344262435118,
+    "model": "IRAIDA",
+    "price": 79.95
+   },
+   {
+    "id": 10344262369582,
+    "model": "IRAIDA",
+    "price": 79.95
+   },
+   {
+    "id": 10344262336814,
+    "model": "IRAIDA",
+    "price": 79.95
+   },
+   {
+    "id": 10344262271278,
+    "model": "IRAIDA",
+    "price": 79.95
+   },
+   {
+    "id": 10344262238510,
+    "model": "INDIRA-BF",
+    "price": 69.95
+   },
+   {
+    "id": 10344262205742,
+    "model": "INCA-RP",
+    "price": 79.95
+   },
+   {
+    "id": 10344262140206,
+    "model": "INCA-RP",
+    "price": 79.95
+   },
+   {
+    "id": 10344262074670,
+    "model": "INCA-AD",
+    "price": 69.95
+   },
+   {
+    "id": 10344262009134,
+    "model": "ILENIA-SD",
+    "price": 89.95
+   },
+   {
+    "id": 10344261943598,
+    "model": "ILENIA-SD",
+    "price": 89.95
+   },
+   {
+    "id": 10344261910830,
+    "model": "ILARI",
+    "price": 65
+   },
+   {
+    "id": 10344261878062,
+    "model": "ILARI",
+    "price": 65
+   },
+   {
+    "id": 10344261845294,
+    "model": "IKER-L",
+    "price": 75
+   },
+   {
+    "id": 10344261812526,
+    "model": "IKER-L",
+    "price": 75
+   },
+   {
+    "id": 10344261714222,
+    "model": "GUAM-TE",
+    "price": 75
+   },
+   {
+    "id": 10344261648686,
+    "model": "GUAM-RF",
+    "price": 79.95
+   },
+   {
+    "id": 10344261681454,
+    "model": "GUAM-RF",
+    "price": 79.95
+   },
+   {
+    "id": 10344261615918,
+    "model": "GUAM-RF",
+    "price": 79.95
+   },
+   {
+    "id": 10344261583150,
+    "model": "GREVENA-QT",
+    "price": 79.95
+   },
+   {
+    "id": 10344261484846,
+    "model": "GRENOBLE",
+    "price": 65
+   },
+   {
+    "id": 10344261550382,
+    "model": "GRENOBLE",
+    "price": 65
+   },
+   {
+    "id": 10344261517614,
+    "model": "GRENOBLE",
+    "price": 65
+   },
+   {
+    "id": 10344261452078,
+    "model": "GREGOR-QT",
+    "price": 65
+   },
+   {
+    "id": 10344261419310,
+    "model": "GREGOR-QT",
+    "price": 65
+   },
+   {
+    "id": 10344261386542,
+    "model": "GONIA-QT",
+    "price": 69.95
+   },
+   {
+    "id": 10344261255470,
+    "model": "GILDA-FL",
+    "price": 59.95
+   },
+   {
+    "id": 10344261222702,
+    "model": "GIEN-VQ",
+    "price": 59.95
+   },
+   {
+    "id": 10344261189934,
+    "model": "GIEN-VQ",
+    "price": 59.95
+   },
+   {
+    "id": 10344261157166,
+    "model": "GHANA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 10344261091630,
+    "model": "GHANA-BQ",
+    "price": 59.95
+   },
+   {
+    "id": 10344261058862,
+    "model": "GETXO",
+    "price": 59.95
+   },
+   {
+    "id": 10344260993326,
+    "model": "GENA-FL",
+    "price": 75
+   },
+   {
+    "id": 10344260960558,
+    "model": "GEMINA-QT",
+    "price": 59.95
+   },
+   {
+    "id": 10344260927790,
+    "model": "GEMINA-QT",
+    "price": 59.95
+   },
+   {
+    "id": 10344260895022,
+    "model": "GEMINA-QT",
+    "price": 59.95
+   },
+   {
+    "id": 10344260829486,
+    "model": "GEMINA-BQ",
+    "price": 69.95
+   },
+   {
+    "id": 10344260731182,
+    "model": "GELSA",
+    "price": 49.95
+   },
+   {
+    "id": 10344260698414,
+    "model": "GELA",
+    "price": 69.95
+   },
+   {
+    "id": 10344260665646,
+    "model": "GELA",
+    "price": 69.95
+   },
+   {
+    "id": 10344260632878,
+    "model": "GAVET-DH",
+    "price": 69.95
+   },
+   {
+    "id": 10344260600110,
+    "model": "GAVET-DH",
+    "price": 69.95
+   },
+   {
+    "id": 10344260567342,
+    "model": "GARBET",
+    "price": 85
+   },
+   {
+    "id": 10344260501806,
+    "model": "GALATSI-PE",
+    "price": 59.95
+   },
+   {
+    "id": 10344260469038,
+    "model": "GALATSI-PE",
+    "price": 59.95
+   },
+   {
+    "id": 10344260305198,
+    "model": "FLORA",
+    "price": 69.95
+   },
+   {
+    "id": 10344260272430,
+    "model": "FLORA",
+    "price": 69.95
+   },
+   {
+    "id": 10344260239662,
+    "model": "FLAVIA-LE",
+    "price": 85
+   },
+   {
+    "id": 10344260206894,
+    "model": "FIORELLA",
+    "price": 69.95
+   },
+   {
+    "id": 10344260174126,
+    "model": "FIORELLA",
+    "price": 69.95
+   },
+   {
+    "id": 10344260141358,
+    "model": "FIJI",
+    "price": 39.95
+   },
+   {
+    "id": 10344260108590,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 10344260075822,
+    "model": "FARELLA",
+    "price": 49.95
+   },
+   {
+    "id": 10344260010286,
+    "model": "FABIOLA",
+    "price": 19.95
+   },
+   {
+    "id": 10344260043054,
+    "model": "FABIOLA",
+    "price": 19.95
+   },
+   {
+    "id": 10344259977518,
+    "model": "EVIAN-CA",
+    "price": 79.95
+   },
+   {
+    "id": 10344259944750,
+    "model": "EVIAN-CA",
+    "price": 79.95
+   },
+   {
+    "id": 10344259584302,
+    "model": "ESTEL-MH",
+    "price": 59.95
+   },
+   {
+    "id": 10344259551534,
+    "model": "ESTELA-LE",
+    "price": 79.95
+   },
+   {
+    "id": 10344255095086,
+    "model": "BENET",
+    "price": 69.95
+   },
+   {
+    "id": 10344255029550,
+    "model": "BASILEA",
+    "price": 69.95
+   },
+   {
+    "id": 10344254996782,
+    "model": "BALI-SD",
+    "price": 79.95
+   },
+   {
+    "id": 10344254964014,
+    "model": "BALI-SD",
+    "price": 79.95
+   },
+   {
+    "id": 10344254931246,
+    "model": "BALI-SD",
+    "price": 79.95
+   },
+   {
+    "id": 10344254832942,
+    "model": "AURA",
+    "price": 89.95
+   },
+   {
+    "id": 10344254800174,
+    "model": "AURA",
+    "price": 89.95
+   },
+   {
+    "id": 10344254767406,
+    "model": "ATRIA",
+    "price": 89.95
+   },
+   {
+    "id": 10344254538030,
+    "model": "AIRE",
+    "price": 89.95
+   },
+   {
+    "id": 10344254505262,
+    "model": "AIRE",
+    "price": 89.95
+   },
+   {
+    "id": 10344254472494,
+    "model": "ADELINE",
+    "price": 159.95
+   },
+   {
+    "id": 10344254603566,
+    "model": "ALMA-MH",
+    "price": 59.95
+   },
+   {
+    "id": 9722467877166,
+    "model": "ISA-PO",
+    "price": 95
+   },
+   {
+    "id": 10048049185070,
+    "model": "ISA-VP",
+    "price": 89.95
+   },
+   {
+    "id": 9804438012206,
+    "model": "FLOR-R",
+    "price": 15
+   },
+   {
+    "id": 9804437913902,
+    "model": "FLOR-P",
+    "price": 19.95
+   },
+   {
+    "id": 9804437881134,
+    "model": "FLOR-P",
+    "price": 19.95
+   },
+   {
+    "id": 9804438307118,
+    "model": "CINTA-L",
+    "price": 9.95
+   },
+   {
+    "id": 9804438143278,
+    "model": "CINTA-B",
+    "price": 15
+   },
+   {
+    "id": 9804438110510,
+    "model": "CINTA-B",
+    "price": 15
+   },
+   {
+    "id": 9804438077742,
+    "model": "TUBULAR",
+    "price": 15
+   },
+   {
+    "id": 9804438044974,
+    "model": "TUBULAR",
+    "price": 15
+   },
+   {
+    "id": 9804437979438,
+    "model": "LACET-P",
+    "price": 19.95
+   },
+   {
+    "id": 9804437946670,
+    "model": "LACET-P",
+    "price": 19.95
+   },
+   {
+    "id": 10048050757934,
+    "model": "SALLY",
+    "price": 79.95
+   },
+   {
+    "id": 10048050790702,
+    "model": "SIMONA",
+    "price": 95
+   },
+   {
+    "id": 9838931476782,
+    "model": "CROACIA",
+    "price": 69.95
+   },
+   {
+    "id": 9822593384750,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9822593351982,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9822593253678,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9822593122606,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9822593220910,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9822593024302,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 9822592925998,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 9822592794926,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 9822592631086,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9822592532782,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9822592434478,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9822592303406,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9822592205102,
+    "model": "CALDES",
+    "price": 65
+   },
+   {
+    "id": 9822592106798,
+    "model": "CALDES",
+    "price": 65
+   },
+   {
+    "id": 9822591975726,
+    "model": "CALDES",
+    "price": 69.95
+   },
+   {
+    "id": 9822591877422,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 9822591811886,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 9822591549742,
+    "model": "CROACIA",
+    "price": 69.95
+   },
+   {
+    "id": 9822591746350,
+    "model": "ROMINA",
+    "price": 65
+   },
+   {
+    "id": 9822591615278,
+    "model": "ROMINA",
+    "price": 65
+   },
+   {
+    "id": 9772738085166,
+    "model": "GALARINA",
+    "price": 89.95
+   },
+   {
+    "id": 9772740804910,
+    "model": "DAMETA",
+    "price": 85
+   },
+   {
+    "id": 9772735856942,
+    "model": "LIONETTE",
+    "price": 79.95
+   },
+   {
+    "id": 9772725371182,
+    "model": "OLIUETA",
+    "price": 79.95
+   },
+   {
+    "id": 9772707643694,
+    "model": "NOISETTE",
+    "price": 79.95
+   },
+   {
+    "id": 9770775183662,
+    "model": "CANCUN",
+    "price": 59.95
+   },
+   {
+    "id": 9758575165742,
+    "model": "GREGOR-QT",
+    "price": 65
+   },
+   {
+    "id": 9757862986030,
+    "model": "NICA",
+    "price": 34.95
+   },
+   {
+    "id": 9757858824494,
+    "model": "NONA",
+    "price": 29.95
+   },
+   {
+    "id": 9757835067694,
+    "model": "NONA",
+    "price": 29.95
+   },
+   {
+    "id": 9737568747822,
+    "model": "GEMINA-QT",
+    "price": 59.95
+   },
+   {
+    "id": 9738328637742,
+    "model": "IRELIA",
+    "price": 65
+   },
+   {
+    "id": 9737560883502,
+    "model": "SALINA",
+    "price": 79.95
+   },
+   {
+    "id": 9737560031534,
+    "model": "GHANA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9730333999406,
+    "model": "GENA-EU",
+    "price": 69.95
+   },
+   {
+    "id": 9737453633838,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 9728729252142,
+    "model": "NADINA",
+    "price": 29.95
+   },
+   {
+    "id": 9728723452206,
+    "model": "ERIC",
+    "price": 34.95
+   },
+   {
+    "id": 9728721781038,
+    "model": "ERIC",
+    "price": 34.95
+   },
+   {
+    "id": 9728720666926,
+    "model": "ELIAS",
+    "price": 39.95
+   },
+   {
+    "id": 9725265248558,
+    "model": "SIMONA",
+    "price": 95
+   },
+   {
+    "id": 9725265215790,
+    "model": "SANDRA",
+    "price": 24.95
+   },
+   {
+    "id": 9725265183022,
+    "model": "SALLY",
+    "price": 79.95
+   },
+   {
+    "id": 9725265117486,
+    "model": "SABRINA",
+    "price": 29.95
+   },
+   {
+    "id": 9725265051950,
+    "model": "NELA",
+    "price": 39.95
+   },
+   {
+    "id": 9725265150254,
+    "model": "SABRINA",
+    "price": 29.95
+   },
+   {
+    "id": 9725265084718,
+    "model": "ODESA",
+    "price": 55
+   },
+   {
+    "id": 9725264986414,
+    "model": "NADINA",
+    "price": 29.95
+   },
+   {
+    "id": 9725264953646,
+    "model": "MIREIA",
+    "price": 34.95
+   },
+   {
+    "id": 9725264920878,
+    "model": "MARISSA",
+    "price": 45
+   },
+   {
+    "id": 9725264888110,
+    "model": "MAGALI",
+    "price": 29.95
+   },
+   {
+    "id": 9724807643438,
+    "model": "GRETEL",
+    "price": 59.95
+   },
+   {
+    "id": 9724807577902,
+    "model": "DAISY-PH",
+    "price": 85
+   },
+   {
+    "id": 9724766454062,
+    "model": "VINAROS",
+    "price": 65
+   },
+   {
+    "id": 9724766388526,
+    "model": "VINAROS",
+    "price": 65
+   },
+   {
+    "id": 9724766290222,
+    "model": "VERONA",
+    "price": 65
+   },
+   {
+    "id": 9724766224686,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 9724766159150,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 9724766060846,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 9724766028078,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 9724765995310,
+    "model": "VALENCIA",
+    "price": 65
+   },
+   {
+    "id": 9724765897006,
+    "model": "VALENCIA",
+    "price": 59.95
+   },
+   {
+    "id": 9724765831470,
+    "model": "TRITON",
+    "price": 65
+   },
+   {
+    "id": 9724765733166,
+    "model": "TRITON",
+    "price": 65
+   },
+   {
+    "id": 9724765634862,
+    "model": "TOSSA",
+    "price": 75
+   },
+   {
+    "id": 9724765503790,
+    "model": "TOSSA",
+    "price": 75
+   },
+   {
+    "id": 9724765372718,
+    "model": "TERRA-NZ",
+    "price": 69.95
+   },
+   {
+    "id": 9724765405486,
+    "model": "TONA",
+    "price": 65
+   },
+   {
+    "id": 9724765307182,
+    "model": "TERRA-BI",
+    "price": 69.95
+   },
+   {
+    "id": 9724765241646,
+    "model": "TERRA-AD",
+    "price": 75
+   },
+   {
+    "id": 9724765110574,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 9724765012270,
+    "model": "TER",
+    "price": 65
+   },
+   {
+    "id": 9724764979502,
+    "model": "TER",
+    "price": 59.95
+   },
+   {
+    "id": 9724764913966,
+    "model": "TELVA-PM",
+    "price": 69.95
+   },
+   {
+    "id": 9724764782894,
+    "model": "TEIDE-P",
+    "price": 69.95
+   },
+   {
+    "id": 9724764848430,
+    "model": "TEIDE-PM",
+    "price": 69.95
+   },
+   {
+    "id": 9724764750126,
+    "model": "TEIDE-P",
+    "price": 69.95
+   },
+   {
+    "id": 9724764684590,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 9724764651822,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 9724764619054,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 9724764520750,
+    "model": "MONTJOI",
+    "price": 85
+   },
+   {
+    "id": 9724764487982,
+    "model": "MONTJOI",
+    "price": 85
+   },
+   {
+    "id": 9724764422446,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9724764389678,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9724764324142,
+    "model": "MONTGRI",
+    "price": 45
+   },
+   {
+    "id": 9724764258606,
+    "model": "MAO-QT",
+    "price": 55
+   },
+   {
+    "id": 9724764160302,
+    "model": "MAO-QT",
+    "price": 55
+   },
+   {
+    "id": 9724764094766,
+    "model": "MAO-QT",
+    "price": 55
+   },
+   {
+    "id": 9724763996462,
+    "model": "MAO-P",
+    "price": 55
+   },
+   {
+    "id": 9724763963694,
+    "model": "MAO-P",
+    "price": 55
+   },
+   {
+    "id": 9724763603246,
+    "model": "LAILA-P",
+    "price": 79.95
+   },
+   {
+    "id": 9724763570478,
+    "model": "LAILA-P",
+    "price": 79.95
+   },
+   {
+    "id": 9724763504942,
+    "model": "GLIDE-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9724763210030,
+    "model": "GHANA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9724763406638,
+    "model": "GLIDE-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9724763373870,
+    "model": "GHANA-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9724763341102,
+    "model": "GHANA-QT",
+    "price": 55
+   },
+   {
+    "id": 9724763177262,
+    "model": "GER-QT",
+    "price": 59.95
+   },
+   {
+    "id": 9724763111726,
+    "model": "GER-QT",
+    "price": 59.95
+   },
+   {
+    "id": 9724763046190,
+    "model": "GARBET",
+    "price": 85
+   },
+   {
+    "id": 9724762980654,
+    "model": "GARBET",
+    "price": 79.95
+   },
+   {
+    "id": 9724762947886,
+    "model": "FABI",
+    "price": 69.95
+   },
+   {
+    "id": 9724762882350,
+    "model": "FABI",
+    "price": 69.95
+   },
+   {
+    "id": 9724762849582,
+    "model": "EULALIA",
+    "price": 69.95
+   },
+   {
+    "id": 9724762751278,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 9724762685742,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 9724762620206,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 9724762554670,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 9724762456366,
+    "model": "ERLA-A",
+    "price": 69.95
+   },
+   {
+    "id": 9724762521902,
+    "model": "ERLA-P",
+    "price": 69.95
+   },
+   {
+    "id": 9724762390830,
+    "model": "ERLA-A",
+    "price": 69.95
+   },
+   {
+    "id": 9724762325294,
+    "model": "ERICA-AS",
+    "price": 69.95
+   },
+   {
+    "id": 9724762194222,
+    "model": "EMMA",
+    "price": 69.95
+   },
+   {
+    "id": 9724762161454,
+    "model": "EMMA",
+    "price": 69.95
+   },
+   {
+    "id": 9724762259758,
+    "model": "ERICA-AS",
+    "price": 75
+   },
+   {
+    "id": 9724762128686,
+    "model": "EMMA",
+    "price": 69.95
+   },
+   {
+    "id": 9724762095918,
+    "model": "ELLA",
+    "price": 65
+   },
+   {
+    "id": 9724762063150,
+    "model": "ELENA",
+    "price": 69.95
+   },
+   {
+    "id": 9724761997614,
+    "model": "EIRE-TR",
+    "price": 69.95
+   },
+   {
+    "id": 9724761964846,
+    "model": "EIRE-RC",
+    "price": 69.95
+   },
+   {
+    "id": 9724761932078,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9724761899310,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9724761833774,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9724761801006,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9724761735470,
+    "model": "DIXON",
+    "price": 59.95
+   },
+   {
+    "id": 9724761702702,
+    "model": "DALLAS",
+    "price": 55
+   },
+   {
+    "id": 9724761604398,
+    "model": "CASTELL",
+    "price": 89.95
+   },
+   {
+    "id": 9724761637166,
+    "model": "COSTA-5",
+    "price": 79.95
+   },
+   {
+    "id": 9724761506094,
+    "model": "CASTELL",
+    "price": 89.95
+   },
+   {
+    "id": 9724761440558,
+    "model": "CALONGE",
+    "price": 59.95
+   },
+   {
+    "id": 9724761407790,
+    "model": "CALONGE",
+    "price": 59.95
+   },
+   {
+    "id": 9724761375022,
+    "model": "CALDES",
+    "price": 69.95
+   },
+   {
+    "id": 9724761342254,
+    "model": "CALDES",
+    "price": 69.95
+   },
+   {
+    "id": 9724761276718,
+    "model": "BILMA-L",
+    "price": 65
+   },
+   {
+    "id": 9724761243950,
+    "model": "BILMA-L",
+    "price": 65
+   },
+   {
+    "id": 9724761211182,
+    "model": "BETTY-A",
+    "price": 75
+   },
+   {
+    "id": 9724761112878,
+    "model": "BETTY-A",
+    "price": 69.95
+   },
+   {
+    "id": 9724761080110,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 9724760981806,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 9724760949038,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 9724760850734,
+    "model": "BERNIA-P",
+    "price": 75
+   },
+   {
+    "id": 9723343241518,
+    "model": "TOSSA",
+    "price": 69.95
+   },
+   {
+    "id": 9723343175982,
+    "model": "TALA",
+    "price": 69.95
+   },
+   {
+    "id": 9723343143214,
+    "model": "SIRACUSA",
+    "price": 79.95
+   },
+   {
+    "id": 9723343077678,
+    "model": "KEIRA",
+    "price": 65
+   },
+   {
+    "id": 9723343044910,
+    "model": "IRON",
+    "price": 69.95
+   },
+   {
+    "id": 9723343012142,
+    "model": "IRON",
+    "price": 69.95
+   },
+   {
+    "id": 9723342913838,
+    "model": "IRELIA",
+    "price": 65
+   },
+   {
+    "id": 9723342881070,
+    "model": "IAN",
+    "price": 69.95
+   },
+   {
+    "id": 9722480853294,
+    "model": "BERNIA-P",
+    "price": 69.95
+   },
+   {
+    "id": 9723342815534,
+    "model": "FIJI",
+    "price": 39.95
+   },
+   {
+    "id": 9723342749998,
+    "model": "FIJI",
+    "price": 39.95
+   },
+   {
+    "id": 9723342717230,
+    "model": "FIJI",
+    "price": 39.95
+   },
+   {
+    "id": 9722480820526,
+    "model": "VINAROS",
+    "price": 59.95
+   },
+   {
+    "id": 9722480754990,
+    "model": "VINAROS",
+    "price": 59.95
+   },
+   {
+    "id": 9722480722222,
+    "model": "VERONA",
+    "price": 65
+   },
+   {
+    "id": 9722480689454,
+    "model": "VERDI-V",
+    "price": 65
+   },
+   {
+    "id": 9722480656686,
+    "model": "VERA-MS",
+    "price": 75
+   },
+   {
+    "id": 9722480525614,
+    "model": "TURA-TR",
+    "price": 65
+   },
+   {
+    "id": 9722480492846,
+    "model": "TURA-TR",
+    "price": 65
+   },
+   {
+    "id": 9722480427310,
+    "model": "TURA-RC",
+    "price": 69.95
+   },
+   {
+    "id": 9722480329006,
+    "model": "TUNDRA",
+    "price": 79.95
+   },
+   {
+    "id": 9722480230702,
+    "model": "TRITON",
+    "price": 59.95
+   },
+   {
+    "id": 9722480394542,
+    "model": "TUNDRA",
+    "price": 79.95
+   },
+   {
+    "id": 9722480263470,
+    "model": "TULIA",
+    "price": 99.95
+   },
+   {
+    "id": 9722480197934,
+    "model": "TRACY-CZ",
+    "price": 69.95
+   },
+   {
+    "id": 9722480165166,
+    "model": "TRACY-CZ",
+    "price": 69.95
+   },
+   {
+    "id": 9722480132398,
+    "model": "TRACY-CZ",
+    "price": 69.95
+   },
+   {
+    "id": 9722480099630,
+    "model": "TOSSA",
+    "price": 69.95
+   },
+   {
+    "id": 9722480034094,
+    "model": "TONA",
+    "price": 65
+   },
+   {
+    "id": 9722479542574,
+    "model": "TINA",
+    "price": 65
+   },
+   {
+    "id": 9722479509806,
+    "model": "TINA",
+    "price": 69.95
+   },
+   {
+    "id": 9722479477038,
+    "model": "TINA",
+    "price": 69.95
+   },
+   {
+    "id": 9722479444270,
+    "model": "TINA",
+    "price": 65
+   },
+   {
+    "id": 9722479247662,
+    "model": "TERRA-TT",
+    "price": 65
+   },
+   {
+    "id": 9722479214894,
+    "model": "TERRA-TT",
+    "price": 65
+   },
+   {
+    "id": 9722479182126,
+    "model": "TERRA-CL",
+    "price": 79.95
+   },
+   {
+    "id": 9722479149358,
+    "model": "TERRA-CL",
+    "price": 79.95
+   },
+   {
+    "id": 9722479116590,
+    "model": "TERMAL",
+    "price": 79.95
+   },
+   {
+    "id": 9722479018286,
+    "model": "TER",
+    "price": 59.95
+   },
+   {
+    "id": 9722478985518,
+    "model": "TER",
+    "price": 59.95
+   },
+   {
+    "id": 9722478952750,
+    "model": "TELVA-LL",
+    "price": 65
+   },
+   {
+    "id": 9722479083822,
+    "model": "TERMAL",
+    "price": 79.95
+   },
+   {
+    "id": 9722478919982,
+    "model": "TANIA-ZR",
+    "price": 59.95
+   },
+   {
+    "id": 9722478854446,
+    "model": "TANIA-ZR",
+    "price": 59.95
+   },
+   {
+    "id": 9722478788910,
+    "model": "TALA",
+    "price": 69.95
+   },
+   {
+    "id": 9722478756142,
+    "model": "TALA",
+    "price": 69.95
+   },
+   {
+    "id": 9722478723374,
+    "model": "TALA",
+    "price": 69.95
+   },
+   {
+    "id": 9722478592302,
+    "model": "SUSA-BN",
+    "price": 69.95
+   },
+   {
+    "id": 9722478559534,
+    "model": "SUSA-BN",
+    "price": 69.95
+   },
+   {
+    "id": 9722478362926,
+    "model": "SIRACUSA",
+    "price": 79.95
+   },
+   {
+    "id": 9722478330158,
+    "model": "SIRACUSA",
+    "price": 79.95
+   },
+   {
+    "id": 9722478199086,
+    "model": "SIA-P",
+    "price": 75
+   },
+   {
+    "id": 9722478166318,
+    "model": "SIA-P",
+    "price": 75
+   },
+   {
+    "id": 9722478133550,
+    "model": "SIA-P",
+    "price": 75
+   },
+   {
+    "id": 9722477904174,
+    "model": "SELVA-IP",
+    "price": 79.95
+   },
+   {
+    "id": 9722477838638,
+    "model": "SARA-RS",
+    "price": 69.95
+   },
+   {
+    "id": 9722477707566,
+    "model": "SALINA",
+    "price": 79.95
+   },
+   {
+    "id": 9722477674798,
+    "model": "SALINA",
+    "price": 79.95
+   },
+   {
+    "id": 9722477543726,
+    "model": "ROSE-CM",
+    "price": 65
+   },
+   {
+    "id": 9722477576494,
+    "model": "SABA-P",
+    "price": 75
+   },
+   {
+    "id": 9722477478190,
+    "model": "RIO-CU",
+    "price": 65
+   },
+   {
+    "id": 9722477445422,
+    "model": "RIO-CU",
+    "price": 65
+   },
+   {
+    "id": 9722477183278,
+    "model": "POPPY",
+    "price": 109.95
+   },
+   {
+    "id": 9722477150510,
+    "model": "POLA",
+    "price": 79.95
+   },
+   {
+    "id": 9722476757294,
+    "model": "PATRICIA",
+    "price": 109.95
+   },
+   {
+    "id": 9722476724526,
+    "model": "PAOLA",
+    "price": 95
+   },
+   {
+    "id": 9722476527918,
+    "model": "OTILE",
+    "price": 109.95
+   },
+   {
+    "id": 9722476495150,
+    "model": "OTILE",
+    "price": 109.95
+   },
+   {
+    "id": 9722476462382,
+    "model": "OSCAR",
+    "price": 69.95
+   },
+   {
+    "id": 9722476396846,
+    "model": "OSCAR",
+    "price": 69.95
+   },
+   {
+    "id": 9722476298542,
+    "model": "OSCAR",
+    "price": 69.95
+   },
+   {
+    "id": 9722476265774,
+    "model": "ORQUIDIA",
+    "price": 95
+   },
+   {
+    "id": 9722476167470,
+    "model": "OPRAH",
+    "price": 109.95
+   },
+   {
+    "id": 9722476134702,
+    "model": "OPRAH",
+    "price": 109.95
+   },
+   {
+    "id": 9722476003630,
+    "model": "OLGA",
+    "price": 95
+   },
+   {
+    "id": 9722475970862,
+    "model": "OFELIA",
+    "price": 95
+   },
+   {
+    "id": 9722475905326,
+    "model": "OCTAVIA",
+    "price": 95
+   },
+   {
+    "id": 9722475446574,
+    "model": "NIUE-GC",
+    "price": 45
+   },
+   {
+    "id": 9722475413806,
+    "model": "NIUE-GC",
+    "price": 45
+   },
+   {
+    "id": 9722474430766,
+    "model": "NASH-JO",
+    "price": 39.95
+   },
+   {
+    "id": 9722474496302,
+    "model": "NASH-JO",
+    "price": 39.95
+   },
+   {
+    "id": 9722473742638,
+    "model": "MONZA-A",
+    "price": 79.95
+   },
+   {
+    "id": 9722473709870,
+    "model": "MONZA-A",
+    "price": 79.95
+   },
+   {
+    "id": 9722473677102,
+    "model": "MONZA-A",
+    "price": 79.95
+   },
+   {
+    "id": 9722472923438,
+    "model": "MODENA",
+    "price": 79.95
+   },
+   {
+    "id": 9722472890670,
+    "model": "MODENA",
+    "price": 79.95
+   },
+   {
+    "id": 9722472759598,
+    "model": "MINO",
+    "price": 69.95
+   },
+   {
+    "id": 9722472726830,
+    "model": "MINO",
+    "price": 69.95
+   },
+   {
+    "id": 9722472694062,
+    "model": "MINA-GC",
+    "price": 39.95
+   },
+   {
+    "id": 9722472661294,
+    "model": "MINA-GC",
+    "price": 39.95
+   },
+   {
+    "id": 9722472628526,
+    "model": "MIMI-TJ",
+    "price": 34.95
+   },
+   {
+    "id": 9722472169774,
+    "model": "MELY-DL",
+    "price": 29.95
+   },
+   {
+    "id": 9722472137006,
+    "model": "MELY-DL",
+    "price": 29.95
+   },
+   {
+    "id": 9722471842094,
+    "model": "MAX",
+    "price": 75
+   },
+   {
+    "id": 9722471809326,
+    "model": "MAX",
+    "price": 75
+   },
+   {
+    "id": 9722471645486,
+    "model": "MAX",
+    "price": 75
+   },
+   {
+    "id": 9722471448878,
+    "model": "MATILDA",
+    "price": 95
+   },
+   {
+    "id": 9722471416110,
+    "model": "MASAI",
+    "price": 75
+   },
+   {
+    "id": 9722471383342,
+    "model": "MASAI",
+    "price": 75
+   },
+   {
+    "id": 9722471350574,
+    "model": "MARTINA",
+    "price": 79.95
+   },
+   {
+    "id": 9722471317806,
+    "model": "MARTI",
+    "price": 69.95
+   },
+   {
+    "id": 9722471285038,
+    "model": "MARTI",
+    "price": 69.95
+   },
+   {
+    "id": 9722471252270,
+    "model": "MARTI",
+    "price": 69.95
+   },
+   {
+    "id": 9722471088430,
+    "model": "MARLENE",
+    "price": 95
+   },
+   {
+    "id": 9722471055662,
+    "model": "MARLENE",
+    "price": 95
+   },
+   {
+    "id": 9725264593198,
+    "model": "GOMERA",
+    "price": 59.95
+   },
+   {
+    "id": 9722470859054,
+    "model": "MANILA",
+    "price": 85
+   },
+   {
+    "id": 9725264560430,
+    "model": "GOIA",
+    "price": 39.95
+   },
+   {
+    "id": 9725264527662,
+    "model": "GOIA",
+    "price": 39.95
+   },
+   {
+    "id": 9725264494894,
+    "model": "GOA",
+    "price": 39.95
+   },
+   {
+    "id": 9725264462126,
+    "model": "GLORIA",
+    "price": 45
+   },
+   {
+    "id": 9725264298286,
+    "model": "GINETH",
+    "price": 29.95
+   },
+   {
+    "id": 9725264068910,
+    "model": "GANGES",
+    "price": 45
+   },
+   {
+    "id": 9725264036142,
+    "model": "GAITA",
+    "price": 39.95
+   },
+   {
+    "id": 9725263905070,
+    "model": "FAUSTINA",
+    "price": 19.95
+   },
+   {
+    "id": 9725263872302,
+    "model": "FAUSTINA",
+    "price": 19.95
+   },
+   {
+    "id": 9725263806766,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263773998,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263741230,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263675694,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263610158,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263577390,
+    "model": "ESTANIS",
+    "price": 39.95
+   },
+   {
+    "id": 9725263511854,
+    "model": "ERIC",
+    "price": 34.95
+   },
+   {
+    "id": 9725263544622,
+    "model": "ERIC",
+    "price": 34.95
+   },
+   {
+    "id": 9725263479086,
+    "model": "ERIC",
+    "price": 34.95
+   },
+   {
+    "id": 9725263446318,
+    "model": "ELIAS",
+    "price": 39.95
+   },
+   {
+    "id": 9725263315246,
+    "model": "DOROTHY",
+    "price": 49.95
+   },
+   {
+    "id": 9725263282478,
+    "model": "DORA",
+    "price": 39.95
+   },
+   {
+    "id": 9725263216942,
+    "model": "DESI",
+    "price": 39.95
+   },
+   {
+    "id": 9725263118638,
+    "model": "CARIOCA",
+    "price": 39.95
+   },
+   {
+    "id": 9725263085870,
+    "model": "CAMBORIU",
+    "price": 24.95
+   },
+   {
+    "id": 9722465157422,
+    "model": "ERICA-AS",
+    "price": 69.95
+   },
+   {
+    "id": 9724807905582,
+    "model": "LAILA-LL",
+    "price": 75
+   },
+   {
+    "id": 9722465190190,
+    "model": "ESTEL-SW",
+    "price": 69.95
+   },
+   {
+    "id": 9722465124654,
+    "model": "ENOLA-P",
+    "price": 75
+   },
+   {
+    "id": 9722465091886,
+    "model": "ENOLA-P",
+    "price": 75
+   },
+   {
+    "id": 9722464928046,
+    "model": "ELORA-V",
+    "price": 55
+   },
+   {
+    "id": 9722464895278,
+    "model": "ELORA-V",
+    "price": 55
+   },
+   {
+    "id": 9722464829742,
+    "model": "ELORA-V",
+    "price": 55
+   },
+   {
+    "id": 9722464698670,
+    "model": "ELLIOT-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9722464665902,
+    "model": "ELLIOT-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9722464633134,
+    "model": "ELLA",
+    "price": 59.95
+   },
+   {
+    "id": 9722464600366,
+    "model": "ELLA",
+    "price": 59.95
+   },
+   {
+    "id": 9722464502062,
+    "model": "ELIANA",
+    "price": 65
+   },
+   {
+    "id": 9722464567598,
+    "model": "ELIANA",
+    "price": 65
+   },
+   {
+    "id": 9722464370990,
+    "model": "ELENA",
+    "price": 65
+   },
+   {
+    "id": 9722464403758,
+    "model": "ELENA",
+    "price": 65
+   },
+   {
+    "id": 9722464272686,
+    "model": "EIDER-RS",
+    "price": 69.95
+   },
+   {
+    "id": 9722464174382,
+    "model": "EFES-NZ",
+    "price": 49.95
+   },
+   {
+    "id": 9722464141614,
+    "model": "EFES-DD",
+    "price": 49.95
+   },
+   {
+    "id": 9722464108846,
+    "model": "EDITA-V",
+    "price": 49.95
+   },
+   {
+    "id": 9722464043310,
+    "model": "EDITA-S",
+    "price": 49.95
+   },
+   {
+    "id": 9722464010542,
+    "model": "EDITA-NZ",
+    "price": 49.95
+   },
+   {
+    "id": 9722463945006,
+    "model": "EBRE-P",
+    "price": 75
+   },
+   {
+    "id": 9722463912238,
+    "model": "EBRE-P",
+    "price": 75
+   },
+   {
+    "id": 9722463879470,
+    "model": "DUSTIN",
+    "price": 55
+   },
+   {
+    "id": 9722463846702,
+    "model": "DUSTIN",
+    "price": 55
+   },
+   {
+    "id": 9722463256878,
+    "model": "DIMA",
+    "price": 75
+   },
+   {
+    "id": 9722463191342,
+    "model": "DIMA",
+    "price": 75
+   },
+   {
+    "id": 9722463158574,
+    "model": "DIMA",
+    "price": 75
+   },
+   {
+    "id": 9722462863662,
+    "model": "DELVIN",
+    "price": 55
+   },
+   {
+    "id": 9722462929198,
+    "model": "DELVIN",
+    "price": 55
+   },
+   {
+    "id": 9722462830894,
+    "model": "DELTA-PH",
+    "price": 69.95
+   },
+   {
+    "id": 9722462798126,
+    "model": "DELMI-MA",
+    "price": 69.95
+   },
+   {
+    "id": 9722462732590,
+    "model": "DELILAH",
+    "price": 95
+   },
+   {
+    "id": 9722462175534,
+    "model": "DARWIN",
+    "price": 75
+   },
+   {
+    "id": 9722462109998,
+    "model": "DARWIN",
+    "price": 75
+   },
+   {
+    "id": 9722461946158,
+    "model": "DAMASC",
+    "price": 59.95
+   },
+   {
+    "id": 9722461913390,
+    "model": "DAMASC",
+    "price": 59.95
+   },
+   {
+    "id": 9722461880622,
+    "model": "DAMASC",
+    "price": 59.95
+   },
+   {
+    "id": 9722461782318,
+    "model": "DAMA",
+    "price": 79.95
+   },
+   {
+    "id": 9722461749550,
+    "model": "DAMA",
+    "price": 79.95
+   },
+   {
+    "id": 9722461716782,
+    "model": "DALYN",
+    "price": 75
+   },
+   {
+    "id": 9722461684014,
+    "model": "DALYN",
+    "price": 75
+   },
+   {
+    "id": 9722461290798,
+    "model": "DALLAS",
+    "price": 55
+   },
+   {
+    "id": 9722461258030,
+    "model": "DALLAS",
+    "price": 55
+   },
+   {
+    "id": 9722461159726,
+    "model": "DAGO-TC",
+    "price": 55
+   },
+   {
+    "id": 9722461126958,
+    "model": "DAGO-TC",
+    "price": 55
+   },
+   {
+    "id": 9722461094190,
+    "model": "DAGO-TC",
+    "price": 55
+   },
+   {
+    "id": 9722461028654,
+    "model": "CUZCO",
+    "price": 29.95
+   },
+   {
+    "id": 9722460963118,
+    "model": "CUZCO",
+    "price": 29.95
+   },
+   {
+    "id": 9722461061422,
+    "model": "CUZCO",
+    "price": 29.95
+   },
+   {
+    "id": 9722460799278,
+    "model": "CULIP",
+    "price": 79.95
+   },
+   {
+    "id": 9722460733742,
+    "model": "CUBA",
+    "price": 34.95
+   },
+   {
+    "id": 9722460668206,
+    "model": "CUBA",
+    "price": 34.95
+   },
+   {
+    "id": 9722460537134,
+    "model": "CRISTAL",
+    "price": 89.95
+   },
+   {
+    "id": 9722460504366,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 9722460471598,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 9722460406062,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 9722460340526,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 9722460373294,
+    "model": "CRETA",
+    "price": 34.95
+   },
+   {
+    "id": 9722460209454,
+    "model": "COVA-SA",
+    "price": 39.95
+   },
+   {
+    "id": 9722460176686,
+    "model": "COVA-SA",
+    "price": 39.95
+   },
+   {
+    "id": 9722460143918,
+    "model": "COVA-S",
+    "price": 39.95
+   },
+   {
+    "id": 9722460111150,
+    "model": "COVA-P",
+    "price": 39.95
+   },
+   {
+    "id": 9722460045614,
+    "model": "COVA-NZ",
+    "price": 39.95
+   },
+   {
+    "id": 9722459947310,
+    "model": "COSTA-5",
+    "price": 79.95
+   },
+   {
+    "id": 9722459914542,
+    "model": "COSTA-5",
+    "price": 79.95
+   },
+   {
+    "id": 9722470433070,
+    "model": "LUGANO-P",
+    "price": 79.95
+   },
+   {
+    "id": 9722470400302,
+    "model": "LUGANO-P",
+    "price": 79.95
+   },
+   {
+    "id": 9722470367534,
+    "model": "LUCIA-AS",
+    "price": 79.95
+   },
+   {
+    "id": 9722469876014,
+    "model": "LAILA-P",
+    "price": 79.95
+   },
+   {
+    "id": 9722469843246,
+    "model": "LAILA-P",
+    "price": 79.95
+   },
+   {
+    "id": 9722469810478,
+    "model": "LAIA-NT",
+    "price": 75
+   },
+   {
+    "id": 9722469777710,
+    "model": "LAIA-NT",
+    "price": 75
+   },
+   {
+    "id": 9722469712174,
+    "model": "KEIRA",
+    "price": 65
+   },
+   {
+    "id": 9722469646638,
+    "model": "KEIRA",
+    "price": 65
+   },
+   {
+    "id": 9722469613870,
+    "model": "KEIRA",
+    "price": 65
+   },
+   {
+    "id": 9722469515566,
+    "model": "JUNE-MA",
+    "price": 65
+   },
+   {
+    "id": 9722469482798,
+    "model": "JULIA",
+    "price": 69.95
+   },
+   {
+    "id": 9722469450030,
+    "model": "JULIA",
+    "price": 69.95
+   },
+   {
+    "id": 9722469286190,
+    "model": "JOANA",
+    "price": 109.95
+   },
+   {
+    "id": 9722468499758,
+    "model": "IVONNE",
+    "price": 69.95
+   },
+   {
+    "id": 9722468466990,
+    "model": "IVONNE",
+    "price": 69.95
+   },
+   {
+    "id": 9722468434222,
+    "model": "ITACA",
+    "price": 69.95
+   },
+   {
+    "id": 9722468401454,
+    "model": "ITACA",
+    "price": 69.95
+   },
+   {
+    "id": 9722468368686,
+    "model": "ISAURA",
+    "price": 79.95
+   },
+   {
+    "id": 9722468335918,
+    "model": "ISAURA",
+    "price": 79.95
+   },
+   {
+    "id": 9722467647790,
+    "model": "IRON",
+    "price": 69.95
+   },
+   {
+    "id": 9722467615022,
+    "model": "IRELIA",
+    "price": 65
+   },
+   {
+    "id": 9722467385646,
+    "model": "ILARI",
+    "price": 65
+   },
+   {
+    "id": 9722467352878,
+    "model": "ILARI",
+    "price": 65
+   },
+   {
+    "id": 9722467254574,
+    "model": "IDOIA",
+    "price": 85
+   },
+   {
+    "id": 9722467221806,
+    "model": "IDOIA",
+    "price": 85
+   },
+   {
+    "id": 9722466992430,
+    "model": "IAN",
+    "price": 69.95
+   },
+   {
+    "id": 9722466959662,
+    "model": "IAN",
+    "price": 69.95
+   },
+   {
+    "id": 9722466861358,
+    "model": "GUAM-TE",
+    "price": 75
+   },
+   {
+    "id": 9722466926894,
+    "model": "GUAM-TE",
+    "price": 75
+   },
+   {
+    "id": 9722466894126,
+    "model": "GUAM-TE",
+    "price": 75
+   },
+   {
+    "id": 9722466828590,
+    "model": "GUAM-TE",
+    "price": 75
+   },
+   {
+    "id": 9722466730286,
+    "model": "GRAU-TX",
+    "price": 49.95
+   },
+   {
+    "id": 9722466697518,
+    "model": "GRAU-QT",
+    "price": 55
+   },
+   {
+    "id": 9722466664750,
+    "model": "GRAU-QT",
+    "price": 55
+   },
+   {
+    "id": 9722466631982,
+    "model": "GRAU-P",
+    "price": 55
+   },
+   {
+    "id": 9722466599214,
+    "model": "GOL-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9722466566446,
+    "model": "GOL-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9722466533678,
+    "model": "GLIDE-QT",
+    "price": 49.95
+   },
+   {
+    "id": 9722466402606,
+    "model": "GILDA-RB",
+    "price": 59.95
+   },
+   {
+    "id": 9722466468142,
+    "model": "GILDA-RB",
+    "price": 59.95
+   },
+   {
+    "id": 9722466369838,
+    "model": "GILDA-EJ",
+    "price": 59.95
+   },
+   {
+    "id": 9722466304302,
+    "model": "GILA-QT",
+    "price": 59.95
+   },
+   {
+    "id": 9722466074926,
+    "model": "GER-QT",
+    "price": 59.95
+   },
+   {
+    "id": 9722466042158,
+    "model": "GER-PE",
+    "price": 59.95
+   },
+   {
+    "id": 9722466009390,
+    "model": "GER-PE",
+    "price": 59.95
+   },
+   {
+    "id": 9722465780014,
+    "model": "GAVET-CU",
+    "price": 59.95
+   },
+   {
+    "id": 9722465747246,
+    "model": "GAVET-CU",
+    "price": 59.95
+   },
+   {
+    "id": 9722465321262,
+    "model": "ETNA",
+    "price": 65
+   },
+   {
+    "id": 9722465288494,
+    "model": "ETNA",
+    "price": 59.95
+   },
+   {
+    "id": 9722465583406,
+    "model": "FLORINA",
+    "price": 69.95
+   },
+   {
+    "id": 9722465485102,
+    "model": "FLORINA",
+    "price": 69.95
+   },
+   {
+    "id": 9722465452334,
+    "model": "FIORE",
+    "price": 75
+   },
+   {
+    "id": 9722465419566,
+    "model": "FIORE",
+    "price": 75
+   },
+   {
+    "id": 9722465255726,
+    "model": "ESTEL-SW",
+    "price": 75
+   },
+   {
+    "id": 9722465222958,
+    "model": "ESTEL-SW",
+    "price": 75
+   },
+   {
+    "id": 9722459226414,
+    "model": "COLBY",
+    "price": 65
+   },
+   {
+    "id": 9722459193646,
+    "model": "COLBY",
+    "price": 65
+   },
+   {
+    "id": 9722458210606,
+    "model": "CASTRES",
+    "price": 89.95
+   },
+   {
+    "id": 9722457751854,
+    "model": "CANCUN",
+    "price": 59.95
+   },
+   {
+    "id": 9722457719086,
+    "model": "CANCUN",
+    "price": 59.95
+   },
+   {
+    "id": 9722457456942,
+    "model": "CALONGE",
+    "price": 59.95
+   },
+   {
+    "id": 9722457293102,
+    "model": "CALA",
+    "price": 34.95
+   },
+   {
+    "id": 9722457260334,
+    "model": "CALA",
+    "price": 34.95
+   },
+   {
+    "id": 9722457129262,
+    "model": "BRIELLA-P",
+    "price": 69.95
+   },
+   {
+    "id": 9722457030958,
+    "model": "BRIELLA-P",
+    "price": 69.95
+   },
+   {
+    "id": 9722456932654,
+    "model": "BLANES-TJ",
+    "price": 45
+   },
+   {
+    "id": 9722456899886,
+    "model": "BLANES-TJ",
+    "price": 45
+   },
+   {
+    "id": 9722456867118,
+    "model": "BLANES-TJ",
+    "price": 45
+   },
+   {
+    "id": 9722456834350,
+    "model": "BLANES-TJ",
+    "price": 45
+   },
+   {
+    "id": 9722456768814,
+    "model": "BLANES-GS",
+    "price": 39.95
+   },
+   {
+    "id": 9722456736046,
+    "model": "BLANES-GS",
+    "price": 39.95
+   },
+   {
+    "id": 9722456801582,
+    "model": "BLANES-PR",
+    "price": 45
+   },
+   {
+    "id": 9722456703278,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456637742,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456604974,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456572206,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456506670,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456473902,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456375598,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456539438,
+    "model": "BLANES-ER",
+    "price": 39.95
+   },
+   {
+    "id": 9722456310062,
+    "model": "BLANES-DD",
+    "price": 39.95
+   },
+   {
+    "id": 9722456277294,
+    "model": "BLANES-DD",
+    "price": 39.95
+   },
+   {
+    "id": 9722456244526,
+    "model": "BLANES-DD",
+    "price": 39.95
+   },
+   {
+    "id": 9722456178990,
+    "model": "BLANES-DD",
+    "price": 39.95
+   },
+   {
+    "id": 9722456211758,
+    "model": "BLANES-DD",
+    "price": 39.95
+   },
+   {
+    "id": 9722456113454,
+    "model": "BLANES-AP",
+    "price": 45
+   },
+   {
+    "id": 9722456047918,
+    "model": "BLANES-AP",
+    "price": 45
+   },
+   {
+    "id": 9722455949614,
+    "model": "BILDA",
+    "price": 79.95
+   },
+   {
+    "id": 9722456015150,
+    "model": "BLANCA-AD",
+    "price": 69.95
+   },
+   {
+    "id": 9722455916846,
+    "model": "BILDA",
+    "price": 79.95
+   },
+   {
+    "id": 9722455818542,
+    "model": "BIANCA-AS",
+    "price": 75
+   },
+   {
+    "id": 9722455785774,
+    "model": "BERTA-IP",
+    "price": 79.95
+   },
+   {
+    "id": 9722455720238,
+    "model": "BERNIE",
+    "price": 75
+   },
+   {
+    "id": 9722455687470,
+    "model": "BERNIA-PM",
+    "price": 75
+   },
+   {
+    "id": 9722455556398,
+    "model": "BERI-RG",
+    "price": 65
+   },
+   {
+    "id": 9722455458094,
+    "model": "BERAL",
+    "price": 69.95
+   },
+   {
+    "id": 9722455490862,
+    "model": "BERAL",
+    "price": 69.95
+   },
+   {
+    "id": 9722455425326,
+    "model": "BENET",
+    "price": 69.95
+   },
+   {
+    "id": 9722455392558,
+    "model": "BENET",
+    "price": 69.95
+   },
+   {
+    "id": 9722455261486,
+    "model": "BENET",
+    "price": 69.95
+   },
+   {
+    "id": 9722455097646,
+    "model": "BELLA-MA",
+    "price": 65
+   },
+   {
+    "id": 9722455032110,
+    "model": "BALI-CL",
+    "price": 79.95
+   },
+   {
+    "id": 9722454999342,
+    "model": "BALI-CL",
+    "price": 79.95
+   },
+   {
+    "id": 9722454966574,
+    "model": "BALI-A",
+    "price": 69.95
+   },
+   {
+    "id": 9722454933806,
+    "model": "BALI-A",
+    "price": 69.95
+   },
+   {
+    "id": 9722454901038,
+    "model": "AUDREY",
+    "price": 79.95
+   },
+   {
+    "id": 9722454868270,
+    "model": "ATENES",
+    "price": 95
+   },
+   {
+    "id": 9722454835502,
+    "model": "ATENES",
+    "price": 95
+   },
+   {
+    "id": 9722454376750,
+    "model": "ALMA-MS",
+    "price": 65
+   },
+   {
+    "id": 9722454343982,
+    "model": "ALMA-CL",
+    "price": 79.95
+   },
+   {
+    "id": 9722454278446,
+    "model": "ALMA-CL",
+    "price": 79.95
+   },
+   {
+    "id": 9722454245678,
+    "model": "ALAIOR-P",
+    "price": 75
+   },
+   {
+    "id": 9722454212910,
+    "model": "ALAIOR-P",
+    "price": 75
+   },
+   {
+    "id": 9722454180142,
+    "model": "AITANA",
+    "price": 75
+   },
+   {
+    "id": 9722454147374,
+    "model": "AINOA",
+    "price": 89.95
+   },
+   {
+    "id": 9722454114606,
+    "model": "AGATHA",
+    "price": 99.95
+   },
+   {
+    "id": 9722454049070,
+    "model": "ADRIANA",
+    "price": 95
+   },
+   {
+    "id": 9722454016302,
+    "model": "ABRIL",
+    "price": 59.95
+   },
+   {
+    "id": 9722453983534,
+    "model": "ABRIL",
+    "price": 59.95
+   },
+   {
+    "id": 9722453950766,
+    "model": "ABRIL",
+    "price": 59.95
+   },
+   {
+    "id": 10054972473646,
+    "model": "JACOB-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10054972342574,
+    "model": "MARTA-SH",
+    "price": 39.95
+   },
+   {
+    "id": 10054972309806,
+    "model": "JOKO-FR",
+    "price": 55
+   },
+   {
+    "id": 10054972277038,
+    "model": "JOKO-FR",
+    "price": 55
+   },
+   {
+    "id": 10054972244270,
+    "model": "JOKO-FR",
+    "price": 55
+   },
+   {
+    "id": 10054972211502,
+    "model": "NOTI-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10054971982126,
+    "model": "LORCA",
+    "price": 49.95
+   },
+   {
+    "id": 10054971883822,
+    "model": "LUBLIN",
+    "price": 39.95
+   },
+   {
+    "id": 10054971818286,
+    "model": "LUBLIN",
+    "price": 39.95
+   },
+   {
+    "id": 10054971785518,
+    "model": "LIOR-UM",
+    "price": 34.95
+   },
+   {
+    "id": 10054971752750,
+    "model": "LIOR-UM",
+    "price": 34.95
+   },
+   {
+    "id": 10054971621678,
+    "model": "BERLIN",
+    "price": 75
+   },
+   {
+    "id": 10054972080430,
+    "model": "LORCA",
+    "price": 49.95
+   },
+   {
+    "id": 9722457981230,
+    "model": "CARME-CP",
+    "price": 34.95
+   },
+   {
+    "id": 9722457948462,
+    "model": "CARME-CP",
+    "price": 34.95
+   },
+   {
+    "id": 9722467811630,
+    "model": "ISA-CC",
+    "price": 89.95
+   },
+   {
+    "id": 9725263020334,
+    "model": "AMBER",
+    "price": 24.95
+   },
+   {
+    "id": 9725262987566,
+    "model": "AMBER",
+    "price": 24.95
+   },
+   {
+    "id": 9725260890414,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 10054971654446,
+    "model": "BORAS",
+    "price": 75
+   },
+   {
+    "id": 10048054722862,
+    "model": "GINNY",
+    "price": 49.95
+   },
+   {
+    "id": 9724808036654,
+    "model": "MOSS-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722474004782,
+    "model": "MOSS-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722470727982,
+    "model": "MALMO-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722470695214,
+    "model": "MALMO-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10054972178734,
+    "model": "NORTON-FR",
+    "price": 39.95
+   },
+   {
+    "id": 10054972145966,
+    "model": "NORTON-FR",
+    "price": 39.95
+   },
+   {
+    "id": 10054972375342,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722458800430,
+    "model": "CINTIA",
+    "price": 75
+   },
+   {
+    "id": 9722458865966,
+    "model": "CINTIA",
+    "price": 75
+   },
+   {
+    "id": 9722458898734,
+    "model": "CINTIA",
+    "price": 75
+   },
+   {
+    "id": 9722467287342,
+    "model": "IKIA-P",
+    "price": 129.95
+   },
+   {
+    "id": 9722478264622,
+    "model": "SILS",
+    "price": 109.95
+   },
+   {
+    "id": 9722477117742,
+    "model": "PIANI-SY",
+    "price": 109.95
+   },
+   {
+    "id": 9724757573934,
+    "model": "IRENE-SY",
+    "price": 129.95
+   },
+   {
+    "id": 9722471940398,
+    "model": "MEL-UM",
+    "price": 34.95
+   },
+   {
+    "id": 9724767666478,
+    "model": "MARE-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722470891822,
+    "model": "MARE-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722469384494,
+    "model": "JOYCE-YA",
+    "price": 55
+   },
+   {
+    "id": 9722469417262,
+    "model": "JOYCE-YA",
+    "price": 55
+   },
+   {
+    "id": 9724767502638,
+    "model": "MALU-OD",
+    "price": 39.95
+   },
+   {
+    "id": 9724767568174,
+    "model": "MALU-OD",
+    "price": 39.95
+   },
+   {
+    "id": 9722462404910,
+    "model": "DELI-CP",
+    "price": 34.95
+   },
+   {
+    "id": 9722462503214,
+    "model": "DELI-CP",
+    "price": 34.95
+   },
+   {
+    "id": 9724768485678,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 9724768518446,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 9722474168622,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 9722474103086,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 9724768387374,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722463682862,
+    "model": "DUNA-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9722463748398,
+    "model": "DUNA-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9722463781166,
+    "model": "DUNA-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9722462699822,
+    "model": "DELI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9724766880046,
+    "model": "DELI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9724766945582,
+    "model": "DELI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9725260693806,
+    "model": "CLAUER-TP",
+    "price": 5
+   },
+   {
+    "id": 9722467680558,
+    "model": "IRUN-PL",
+    "price": 109.95
+   },
+   {
+    "id": 9724768682286,
+    "model": "NAUEL-KM",
+    "price": 34.95
+   },
+   {
+    "id": 9724768583982,
+    "model": "NADIR-FR",
+    "price": 39.95
+   },
+   {
+    "id": 9722475348270,
+    "model": "NIL-UM",
+    "price": 45
+   },
+   {
+    "id": 9724768878894,
+    "model": "NIL-UM",
+    "price": 45
+   },
+   {
+    "id": 9722475479342,
+    "model": "NIX-TK",
+    "price": 45
+   },
+   {
+    "id": 9725265019182,
+    "model": "NALA",
+    "price": 34.95
+   },
+   {
+    "id": 9722459259182,
+    "model": "COLONIA",
+    "price": 75
+   },
+   {
+    "id": 9722457817390,
+    "model": "CANNES",
+    "price": 65
+   },
+   {
+    "id": 9722459095342,
+    "model": "CLAIS",
+    "price": 79.95
+   },
+   {
+    "id": 9722459881774,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 9722455064878,
+    "model": "BARRIE",
+    "price": 79.95
+   },
+   {
+    "id": 9722461552942,
+    "model": "DALTON-PO",
+    "price": 89.95
+   },
+   {
+    "id": 9722468532526,
+    "model": "JACOB-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722468565294,
+    "model": "JACOB-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722476200238,
+    "model": "ORIOL-SW",
+    "price": 95
+   },
+   {
+    "id": 9722479837486,
+    "model": "TOMAS-RW",
+    "price": 39.95
+   },
+   {
+    "id": 9722479903022,
+    "model": "TOMAS-RW",
+    "price": 39.95
+   },
+   {
+    "id": 9725262889262,
+    "model": "RESTORE-LEATHER",
+    "price": 9.95
+   },
+   {
+    "id": 9725262954798,
+    "model": "SPOTLESS-COTTON",
+    "price": 9.95
+   },
+   {
+    "id": 9725260562734,
+    "model": "ALIVE-SUEDE",
+    "price": 9.95
+   },
+   {
+    "id": 9722475675950,
+    "model": "NORTON-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9724768747822,
+    "model": "NAUEL-KM",
+    "price": 34.95
+   },
+   {
+    "id": 9722454475054,
+    "model": "AMELIA",
+    "price": 89.95
+   },
+   {
+    "id": 9722474397998,
+    "model": "NAIDA",
+    "price": 65
+   },
+   {
+    "id": 9722474725678,
+    "model": "NED-TK",
+    "price": 45
+   },
+   {
+    "id": 9722460832046,
+    "model": "CUNIT-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722460864814,
+    "model": "CUNIT-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722460897582,
+    "model": "CUNIT-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722475020590,
+    "model": "NEPAL-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722474889518,
+    "model": "NEO-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722474955054,
+    "model": "NEO-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9724768780590,
+    "model": "NEO-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722463322414,
+    "model": "DUBLIN",
+    "price": 69.95
+   },
+   {
+    "id": 9722461323566,
+    "model": "DALMAU",
+    "price": 89.95
+   },
+   {
+    "id": 9722461421870,
+    "model": "DALMAU",
+    "price": 89.95
+   },
+   {
+    "id": 9722461487406,
+    "model": "DALMAU",
+    "price": 89.95
+   },
+   {
+    "id": 9722468794670,
+    "model": "JAN-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722468860206,
+    "model": "JAN-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722468925742,
+    "model": "JAN-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9722458571054,
+    "model": "CAVOUR",
+    "price": 65
+   },
+   {
+    "id": 9722458538286,
+    "model": "CAVOUR",
+    "price": 65
+   },
+   {
+    "id": 9722458505518,
+    "model": "CAVOUR",
+    "price": 65
+   },
+   {
+    "id": 9722458472750,
+    "model": "CAVOUR",
+    "price": 65
+   },
+   {
+    "id": 9722475086126,
+    "model": "NEVADA-PO",
+    "price": 119.95
+   },
+   {
+    "id": 9722475151662,
+    "model": "NEVADA-PO",
+    "price": 119.95
+   },
+   {
+    "id": 9722457391406,
+    "model": "CALI",
+    "price": 75
+   },
+   {
+    "id": 9722457358638,
+    "model": "CALI",
+    "price": 75
+   },
+   {
+    "id": 9722458439982,
+    "model": "CAVAN",
+    "price": 69.95
+   },
+   {
+    "id": 9722458407214,
+    "model": "CAVAN",
+    "price": 69.95
+   },
+   {
+    "id": 9722458374446,
+    "model": "CAVAN",
+    "price": 69.95
+   },
+   {
+    "id": 9722458112302,
+    "model": "CASCAIS",
+    "price": 89.95
+   },
+   {
+    "id": 9722457915694,
+    "model": "CARDIFF",
+    "price": 109.95
+   },
+   {
+    "id": 9722457850158,
+    "model": "CARDIFF",
+    "price": 109.95
+   },
+   {
+    "id": 9722479608110,
+    "model": "TIROL-SY",
+    "price": 135
+   },
+   {
+    "id": 9722479640878,
+    "model": "TIROL-SY",
+    "price": 135
+   },
+   {
+    "id": 9722479706414,
+    "model": "TIROL-SY",
+    "price": 135
+   },
+   {
+    "id": 9722479739182,
+    "model": "TIROL-SY",
+    "price": 135
+   },
+   {
+    "id": 9722475217198,
+    "model": "NEVADA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 9722475249966,
+    "model": "NEVADA-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10048046858542,
+    "model": "DALMAU",
+    "price": 89.95
+   },
+   {
+    "id": 10048046924078,
+    "model": "DALMAU",
+    "price": 89.95
+   },
+   {
+    "id": 10048046956846,
+    "model": "DARO",
+    "price": 89.95
+   },
+   {
+    "id": 10048046989614,
+    "model": "DARO",
+    "price": 89.95
+   },
+   {
+    "id": 10048047022382,
+    "model": "DORCA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047055150,
+    "model": "DORCA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047087918,
+    "model": "DORIAN",
+    "price": 89.95
+   },
+   {
+    "id": 10048047120686,
+    "model": "DORIAN",
+    "price": 89.95
+   },
+   {
+    "id": 10048047153454,
+    "model": "DORIAN",
+    "price": 89.95
+   },
+   {
+    "id": 10048047186222,
+    "model": "DUBLIN",
+    "price": 89.95
+   },
+   {
+    "id": 10048047218990,
+    "model": "GORI",
+    "price": 89.95
+   },
+   {
+    "id": 10048047251758,
+    "model": "GORI",
+    "price": 89.95
+   },
+   {
+    "id": 10048047284526,
+    "model": "AINA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047317294,
+    "model": "AINA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047350062,
+    "model": "AINA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047382830,
+    "model": "ALICIA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047415598,
+    "model": "ALICIA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047448366,
+    "model": "AMELIA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047481134,
+    "model": "ANNA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047579438,
+    "model": "ANNA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047612206,
+    "model": "AUREA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047644974,
+    "model": "AUREA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047677742,
+    "model": "AUREA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047710510,
+    "model": "GUALBA",
+    "price": 79.95
+   },
+   {
+    "id": 10048047743278,
+    "model": "GUALBA",
+    "price": 79.95
+   },
+   {
+    "id": 10048047776046,
+    "model": "NAIDA",
+    "price": 89.95
+   },
+   {
+    "id": 10048047808814,
+    "model": "ORDIS",
+    "price": 89.95
+   },
+   {
+    "id": 10048047841582,
+    "model": "ORDIS",
+    "price": 89.95
+   },
+   {
+    "id": 10048047874350,
+    "model": "CORA-PO",
+    "price": 69.95
+   },
+   {
+    "id": 10048047907118,
+    "model": "PUBOL",
+    "price": 79.95
+   },
+   {
+    "id": 10048047939886,
+    "model": "DELI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 10048047972654,
+    "model": "DELI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 10048048005422,
+    "model": "MIMA-FR",
+    "price": 34.95
+   },
+   {
+    "id": 10048048070958,
+    "model": "MIMA-FR",
+    "price": 34.95
+   },
+   {
+    "id": 10048048103726,
+    "model": "MIMA-FR",
+    "price": 34.95
+   },
+   {
+    "id": 10048048202030,
+    "model": "OCTAVI",
+    "price": 95
+   },
+   {
+    "id": 10048048234798,
+    "model": "OCTAVI",
+    "price": 95
+   },
+   {
+    "id": 10048048267566,
+    "model": "ORLANDO-SY",
+    "price": 95
+   },
+   {
+    "id": 10048048300334,
+    "model": "ORLANDO-SY",
+    "price": 95
+   },
+   {
+    "id": 10048048333102,
+    "model": "ORLANDO-SY",
+    "price": 95
+   },
+   {
+    "id": 10048048398638,
+    "model": "BISBAL",
+    "price": 89.95
+   },
+   {
+    "id": 10048048431406,
+    "model": "BISBAL",
+    "price": 89.95
+   },
+   {
+    "id": 10048048464174,
+    "model": "CAROLINA",
+    "price": 79.95
+   },
+   {
+    "id": 10048048496942,
+    "model": "CAROLINA",
+    "price": 79.95
+   },
+   {
+    "id": 10048048529710,
+    "model": "CAROLINA",
+    "price": 79.95
+   },
+   {
+    "id": 10048048562478,
+    "model": "CARLA-NC",
+    "price": 95
+   },
+   {
+    "id": 10048048595246,
+    "model": "CARLA-NC",
+    "price": 95
+   },
+   {
+    "id": 10048048628014,
+    "model": "CARLA-NL",
+    "price": 95
+   },
+   {
+    "id": 10048048660782,
+    "model": "CARLA-NL",
+    "price": 95
+   },
+   {
+    "id": 10048048693550,
+    "model": "CARLA-NR",
+    "price": 95
+   },
+   {
+    "id": 10048048726318,
+    "model": "CARLA-NR",
+    "price": 95
+   },
+   {
+    "id": 10048048791854,
+    "model": "ILLINOIS-SY",
+    "price": 125
+   },
+   {
+    "id": 10048048824622,
+    "model": "ILLINOIS-SY",
+    "price": 125
+   },
+   {
+    "id": 10048048857390,
+    "model": "IRIS-CA",
+    "price": 119.95
+   },
+   {
+    "id": 10048048922926,
+    "model": "IRUN-SY",
+    "price": 95
+   },
+   {
+    "id": 10048048955694,
+    "model": "IRUN-SY",
+    "price": 95
+   },
+   {
+    "id": 10048048988462,
+    "model": "ISA-AT",
+    "price": 95
+   },
+   {
+    "id": 10048049021230,
+    "model": "ISA-AT",
+    "price": 95
+   },
+   {
+    "id": 10048049053998,
+    "model": "ISA-CA",
+    "price": 89.95
+   },
+   {
+    "id": 10048049086766,
+    "model": "ISA-PO",
+    "price": 95
+   },
+   {
+    "id": 10048049217838,
+    "model": "IVANA-AT",
+    "price": 89.95
+   },
+   {
+    "id": 10048049250606,
+    "model": "IVANA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 10048049283374,
+    "model": "MARIAN-A",
+    "price": 75
+   },
+   {
+    "id": 10048049316142,
+    "model": "MARIAN-PI",
+    "price": 75
+   },
+   {
+    "id": 10048049348910,
+    "model": "MELISA-A",
+    "price": 75
+   },
+   {
+    "id": 10048049381678,
+    "model": "MELISA-MT",
+    "price": 75
+   },
+   {
+    "id": 10048049414446,
+    "model": "MELISA-MT",
+    "price": 75
+   },
+   {
+    "id": 10048049447214,
+    "model": "MONELLS",
+    "price": 119.95
+   },
+   {
+    "id": 10048049479982,
+    "model": "MONELLS",
+    "price": 119.95
+   },
+   {
+    "id": 10048049512750,
+    "model": "NANTES-PO",
+    "price": 99.95
+   },
+   {
+    "id": 10048049545518,
+    "model": "NANTES-SY",
+    "price": 95
+   },
+   {
+    "id": 10048049578286,
+    "model": "NANTES-SY",
+    "price": 95
+   },
+   {
+    "id": 10048049611054,
+    "model": "NANTES-SY",
+    "price": 95
+   },
+   {
+    "id": 10048049643822,
+    "model": "NAROA-PI",
+    "price": 95
+   },
+   {
+    "id": 10048049676590,
+    "model": "NAROA-SY",
+    "price": 85
+   },
+   {
+    "id": 10048049709358,
+    "model": "NAROA-SY",
+    "price": 85
+   },
+   {
+    "id": 10048049742126,
+    "model": "NIMES-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10048049774894,
+    "model": "NIMES-SY",
+    "price": 109.95
+   },
+   {
+    "id": 10048049807662,
+    "model": "PANAMA",
+    "price": 95
+   },
+   {
+    "id": 10048049840430,
+    "model": "PANAMA",
+    "price": 95
+   },
+   {
+    "id": 10048049905966,
+    "model": "PANAMA",
+    "price": 95
+   },
+   {
+    "id": 10048049938734,
+    "model": "PAU-SY",
+    "price": 119.95
+   },
+   {
+    "id": 10048049971502,
+    "model": "PAU-SY",
+    "price": 119.95
+   },
+   {
+    "id": 10048050037038,
+    "model": "PERALADA",
+    "price": 89.95
+   },
+   {
+    "id": 10048050069806,
+    "model": "PERALADA",
+    "price": 89.95
+   },
+   {
+    "id": 10048050102574,
+    "model": "PIANI-PO",
+    "price": 115
+   },
+   {
+    "id": 10048050135342,
+    "model": "PIANI-PO",
+    "price": 115
+   },
+   {
+    "id": 10048050168110,
+    "model": "PRESTON",
+    "price": 85
+   },
+   {
+    "id": 10048050200878,
+    "model": "PRESTON",
+    "price": 85
+   },
+   {
+    "id": 10048050233646,
+    "model": "PRESTON",
+    "price": 85
+   },
+   {
+    "id": 10048050266414,
+    "model": "SALERNO",
+    "price": 95
+   },
+   {
+    "id": 10048050299182,
+    "model": "SALERNO",
+    "price": 95
+   },
+   {
+    "id": 10048050331950,
+    "model": "SERRA",
+    "price": 95
+   },
+   {
+    "id": 10048050364718,
+    "model": "TACOMA-P",
+    "price": 165
+   },
+   {
+    "id": 10048050397486,
+    "model": "TRAPANI-SY",
+    "price": 125
+   },
+   {
+    "id": 10048050430254,
+    "model": "TORTOSA-PI",
+    "price": 99.95
+   },
+   {
+    "id": 10048050463022,
+    "model": "TORTOSA-SY",
+    "price": 99.95
+   },
+   {
+    "id": 10048050495790,
+    "model": "TORTOSA-SY",
+    "price": 99.95
+   },
+   {
+    "id": 10048050528558,
+    "model": "UBEDA",
+    "price": 149.95
+   },
+   {
+    "id": 10048050561326,
+    "model": "UBEDA",
+    "price": 149.95
+   },
+   {
+    "id": 10048050594094,
+    "model": "UTIEL",
+    "price": 125
+   },
+   {
+    "id": 10048050626862,
+    "model": "UTIEL",
+    "price": 125
+   },
+   {
+    "id": 10048050659630,
+    "model": "GANT",
+    "price": 69.95
+   },
+   {
+    "id": 10048050692398,
+    "model": "SIURANA",
+    "price": 89.95
+   },
+   {
+    "id": 10048050725166,
+    "model": "PACK-SNOOPY",
+    "price": 29.95
+   },
+   {
+    "id": 10048050856238,
+    "model": "CRACOVIA",
+    "price": 75
+   },
+   {
+    "id": 10048050889006,
+    "model": "COVENTRY",
+    "price": 79.95
+   },
+   {
+    "id": 10048050921774,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 10048050954542,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 10048051020078,
+    "model": "COLORADO",
+    "price": 69.95
+   },
+   {
+    "id": 10048051052846,
+    "model": "COLORADO",
+    "price": 69.95
+   },
+   {
+    "id": 10048051085614,
+    "model": "COIMBRA",
+    "price": 75
+   },
+   {
+    "id": 10048051118382,
+    "model": "COIMBRA",
+    "price": 75
+   },
+   {
+    "id": 10048051151150,
+    "model": "CLERMONT",
+    "price": 65
+   },
+   {
+    "id": 10048051183918,
+    "model": "CLERMONT",
+    "price": 65
+   },
+   {
+    "id": 10048051216686,
+    "model": "CLAYTON",
+    "price": 69.95
+   },
+   {
+    "id": 10048051249454,
+    "model": "CLAYTON",
+    "price": 69.95
+   },
+   {
+    "id": 10048051282222,
+    "model": "CARDIFF",
+    "price": 109.95
+   },
+   {
+    "id": 10048051314990,
+    "model": "CERVERA",
+    "price": 95
+   },
+   {
+    "id": 10048051347758,
+    "model": "CARDONA",
+    "price": 79.95
+   },
+   {
+    "id": 10048051380526,
+    "model": "CAMOS",
+    "price": 89.95
+   },
+   {
+    "id": 10048051413294,
+    "model": "CALGARY",
+    "price": 69.95
+   },
+   {
+    "id": 10048051478830,
+    "model": "CAEN",
+    "price": 69.95
+   },
+   {
+    "id": 10048051511598,
+    "model": "CAEN",
+    "price": 69.95
+   },
+   {
+    "id": 10048051544366,
+    "model": "CAEN",
+    "price": 69.95
+   },
+   {
+    "id": 10048051577134,
+    "model": "CABRERA",
+    "price": 109.95
+   },
+   {
+    "id": 10048051609902,
+    "model": "BARRIE",
+    "price": 79.95
+   },
+   {
+    "id": 10048051642670,
+    "model": "BARRIE",
+    "price": 79.95
+   },
+   {
+    "id": 10048051675438,
+    "model": "JOAN",
+    "price": 69.95
+   },
+   {
+    "id": 10048051708206,
+    "model": "JOAN",
+    "price": 69.95
+   },
+   {
+    "id": 10048051740974,
+    "model": "LIVORNO",
+    "price": 34.95
+   },
+   {
+    "id": 10048051839278,
+    "model": "LONDON",
+    "price": 34.95
+   },
+   {
+    "id": 10048051872046,
+    "model": "LUMI-FR",
+    "price": 29.95
+   },
+   {
+    "id": 10048051904814,
+    "model": "WOODY",
+    "price": 39.95
+   },
+   {
+    "id": 10048051937582,
+    "model": "WOODY",
+    "price": 39.95
+   },
+   {
+    "id": 10048052003118,
+    "model": "CHARLIE",
+    "price": 49.95
+   },
+   {
+    "id": 10048052035886,
+    "model": "CHARLIE",
+    "price": 49.95
+   },
+   {
+    "id": 10048052068654,
+    "model": "CHARLIE",
+    "price": 49.95
+   },
+   {
+    "id": 10048052101422,
+    "model": "GENIS",
+    "price": 49.95
+   },
+   {
+    "id": 10048052134190,
+    "model": "GENIS",
+    "price": 49.95
+   },
+   {
+    "id": 10048052199726,
+    "model": "NALEC",
+    "price": 45
+   },
+   {
+    "id": 10048052232494,
+    "model": "NALEC",
+    "price": 45
+   },
+   {
+    "id": 10048052265262,
+    "model": "NED-TK",
+    "price": 45
+   },
+   {
+    "id": 10048052298030,
+    "model": "NEO-FR",
+    "price": 34.95
+   },
+   {
+    "id": 10048052330798,
+    "model": "NIL-UM",
+    "price": 45
+   },
+   {
+    "id": 10048052363566,
+    "model": "NIX-TK",
+    "price": 45
+   },
+   {
+    "id": 10048052396334,
+    "model": "NORTON-FP",
+    "price": 39.95
+   },
+   {
+    "id": 10048052494638,
+    "model": "NOTI-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10048052527406,
+    "model": "NOTI-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10048052560174,
+    "model": "TOMAS-RW",
+    "price": 39.95
+   },
+   {
+    "id": 10048052592942,
+    "model": "ALBONS",
+    "price": 39.95
+   },
+   {
+    "id": 10048052625710,
+    "model": "ALBONS",
+    "price": 39.95
+   },
+   {
+    "id": 10048052658478,
+    "model": "ALBONS",
+    "price": 39.95
+   },
+   {
+    "id": 10048052724014,
+    "model": "ALINS",
+    "price": 39.95
+   },
+   {
+    "id": 10048052756782,
+    "model": "ALINS",
+    "price": 39.95
+   },
+   {
+    "id": 10048052789550,
+    "model": "ALINS",
+    "price": 39.95
+   },
+   {
+    "id": 10048052822318,
+    "model": "ALTEA",
+    "price": 34.95
+   },
+   {
+    "id": 10048052920622,
+    "model": "ALTEA",
+    "price": 34.95
+   },
+   {
+    "id": 10048052953390,
+    "model": "ALTEA",
+    "price": 34.95
+   },
+   {
+    "id": 10048052986158,
+    "model": "DARLA-SB",
+    "price": 34.95
+   },
+   {
+    "id": 10048053051694,
+    "model": "DUNA-FP",
+    "price": 39.95
+   },
+   {
+    "id": 10048053084462,
+    "model": "GANDESA",
+    "price": 49.95
+   },
+   {
+    "id": 10048053117230,
+    "model": "GANDESA",
+    "price": 49.95
+   },
+   {
+    "id": 10048053149998,
+    "model": "JARA-FR",
+    "price": 65
+   },
+   {
+    "id": 10048053182766,
+    "model": "JARA-FR",
+    "price": 65
+   },
+   {
+    "id": 10048053215534,
+    "model": "JOYCE-NS",
+    "price": 59.95
+   },
+   {
+    "id": 10048053248302,
+    "model": "JOYCE-NS",
+    "price": 59.95
+   },
+   {
+    "id": 10048053281070,
+    "model": "MAILY-BB",
+    "price": 45
+   },
+   {
+    "id": 10048053313838,
+    "model": "MALU-OD",
+    "price": 39.95
+   },
+   {
+    "id": 10048053346606,
+    "model": "MALU-OD",
+    "price": 39.95
+   },
+   {
+    "id": 10048053379374,
+    "model": "MARTA-SH",
+    "price": 39.95
+   },
+   {
+    "id": 10048053412142,
+    "model": "MARTA-SH",
+    "price": 39.95
+   },
+   {
+    "id": 10048053444910,
+    "model": "MARTA-SH",
+    "price": 39.95
+   },
+   {
+    "id": 10048053477678,
+    "model": "METZ",
+    "price": 59.95
+   },
+   {
+    "id": 10048053510446,
+    "model": "METZ",
+    "price": 59.95
+   },
+   {
+    "id": 10048053543214,
+    "model": "MIMA-FP",
+    "price": 34.95
+   },
+   {
+    "id": 10048053575982,
+    "model": "MOLINA",
+    "price": 34.95
+   },
+   {
+    "id": 10048053608750,
+    "model": "MOLINA",
+    "price": 34.95
+   },
+   {
+    "id": 10048053641518,
+    "model": "MOLINA",
+    "price": 34.95
+   },
+   {
+    "id": 10048053674286,
+    "model": "MONA-FR",
+    "price": 29.95
+   },
+   {
+    "id": 10048053707054,
+    "model": "MONTBLANC",
+    "price": 34.95
+   },
+   {
+    "id": 10048053739822,
+    "model": "MONTBLANC",
+    "price": 34.95
+   },
+   {
+    "id": 10048053772590,
+    "model": "MONTBLANC",
+    "price": 34.95
+   },
+   {
+    "id": 10048053805358,
+    "model": "MONTBLANC",
+    "price": 39.95
+   },
+   {
+    "id": 10048053870894,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10048053936430,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10048054001966,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 10048054034734,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 10048054067502,
+    "model": "MUNIC-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10048054100270,
+    "model": "MUNIC-BD",
+    "price": 39.95
+   },
+   {
+    "id": 10048054165806,
+    "model": "NICK-UM",
+    "price": 39.95
+   },
+   {
+    "id": 10048054198574,
+    "model": "SNOOPY",
+    "price": 49.95
+   },
+   {
+    "id": 10048054231342,
+    "model": "SNOOPY",
+    "price": 49.95
+   },
+   {
+    "id": 10048054264110,
+    "model": "SNOOPY",
+    "price": 49.95
+   },
+   {
+    "id": 10048054296878,
+    "model": "PADOVA",
+    "price": 119.95
+   },
+   {
+    "id": 10048054362414,
+    "model": "PADOVA",
+    "price": 119.95
+   },
+   {
+    "id": 10048054395182,
+    "model": "PISA",
+    "price": 99.95
+   },
+   {
+    "id": 10048054427950,
+    "model": "PISA",
+    "price": 99.95
+   },
+   {
+    "id": 10048054460718,
+    "model": "GARONA",
+    "price": 29.95
+   },
+   {
+    "id": 10048054493486,
+    "model": "GARONA",
+    "price": 29.95
+   },
+   {
+    "id": 10048054526254,
+    "model": "GARONA",
+    "price": 29.95
+   },
+   {
+    "id": 10048054591790,
+    "model": "GEUL",
+    "price": 39.95
+   },
+   {
+    "id": 10048054624558,
+    "model": "GEUL",
+    "price": 39.95
+   },
+   {
+    "id": 10048054690094,
+    "model": "GINGER",
+    "price": 39.95
+   },
+   {
+    "id": 10048054755630,
+    "model": "AMBER",
+    "price": 24.95
+   },
+   {
+    "id": 10048054788398,
+    "model": "AMBER",
+    "price": 24.95
+   },
+   {
+    "id": 10048054821166,
+    "model": "AMBER",
+    "price": 24.95
+   },
+   {
+    "id": 9725262102830,
+    "model": "QUEL-MC",
+    "price": 9.95
+   },
+   {
+    "id": 9725261938990,
+    "model": "QUEL-DD",
+    "price": 9.95
+   },
+   {
+    "id": 9725261906222,
+    "model": "QUEL-DD",
+    "price": 9.95
+   },
+   {
+    "id": 9722454409518,
+    "model": "AMELIA",
+    "price": 89.95
+   },
+   {
+    "id": 9722454442286,
+    "model": "AMELIA",
+    "price": 89.95
+   },
+   {
+    "id": 9722455654702,
+    "model": "BERLIN",
+    "price": 75
+   },
+   {
+    "id": 9722457162030,
+    "model": "BURTON",
+    "price": 75
+   },
+   {
+    "id": 9722457194798,
+    "model": "BURTON",
+    "price": 75
+   },
+   {
+    "id": 9722457325870,
+    "model": "CALGARY",
+    "price": 69.95
+   },
+   {
+    "id": 9722457489710,
+    "model": "CAMOS",
+    "price": 89.95
+   },
+   {
+    "id": 9722457555246,
+    "model": "CAMOS",
+    "price": 89.95
+   },
+   {
+    "id": 9722457620782,
+    "model": "CAMOS",
+    "price": 89.95
+   },
+   {
+    "id": 9722458145070,
+    "model": "CASCAIS",
+    "price": 89.95
+   },
+   {
+    "id": 9722458177838,
+    "model": "CASCAIS",
+    "price": 89.95
+   },
+   {
+    "id": 9722458964270,
+    "model": "CLAIS",
+    "price": 79.95
+   },
+   {
+    "id": 9722459062574,
+    "model": "CLAIS",
+    "price": 79.95
+   },
+   {
+    "id": 9722459488558,
+    "model": "CORA-SY",
+    "price": 65
+   },
+   {
+    "id": 9722459521326,
+    "model": "CORA-SY",
+    "price": 65
+   },
+   {
+    "id": 9722459619630,
+    "model": "CORA-SY",
+    "price": 65
+   },
+   {
+    "id": 9722459652398,
+    "model": "CORA-SY",
+    "price": 65
+   },
+   {
+    "id": 9722459717934,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 9722459783470,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 9722459816238,
+    "model": "CORBIN",
+    "price": 69.95
+   },
+   {
+    "id": 9722461520174,
+    "model": "DALTON-PO",
+    "price": 89.95
+   },
+   {
+    "id": 9722462011694,
+    "model": "DARLA-SB",
+    "price": 34.95
+   },
+   {
+    "id": 9722462077230,
+    "model": "DARLA-SB",
+    "price": 34.95
+   },
+   {
+    "id": 9722462437678,
+    "model": "DELI-CP",
+    "price": 34.95
+   },
+   {
+    "id": 9722462634286,
+    "model": "DELI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722462667054,
+    "model": "DELI-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722463486254,
+    "model": "DUBLIN",
+    "price": 89.95
+   },
+   {
+    "id": 9722463650094,
+    "model": "DUNA-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9722467320110,
+    "model": "IKIA-SY",
+    "price": 125
+   },
+   {
+    "id": 9722467746094,
+    "model": "IRUN-SY",
+    "price": 95
+   },
+   {
+    "id": 9722467778862,
+    "model": "ISA-CC",
+    "price": 89.95
+   },
+   {
+    "id": 9722467844398,
+    "model": "ISA-PL",
+    "price": 89.95
+   },
+   {
+    "id": 9722467909934,
+    "model": "ISA-PO",
+    "price": 89.95
+   },
+   {
+    "id": 9722468729134,
+    "model": "JAMES-SW",
+    "price": 85
+   },
+   {
+    "id": 9722468761902,
+    "model": "JAMES-SW",
+    "price": 85
+   },
+   {
+    "id": 9722469908782,
+    "model": "LIOR-UM",
+    "price": 34.95
+   },
+   {
+    "id": 9722469974318,
+    "model": "LIOR-UM",
+    "price": 34.95
+   },
+   {
+    "id": 9722470105390,
+    "model": "LOGAN-FR",
+    "price": 24.95
+   },
+   {
+    "id": 9722470138158,
+    "model": "LOGAN-FR",
+    "price": 24.95
+   },
+   {
+    "id": 9722470203694,
+    "model": "LONDON",
+    "price": 34.95
+   },
+   {
+    "id": 9722470236462,
+    "model": "LONDON",
+    "price": 34.95
+   },
+   {
+    "id": 9722470301998,
+    "model": "LUBLIN",
+    "price": 39.95
+   },
+   {
+    "id": 9722470334766,
+    "model": "LUCCA",
+    "price": 39.95
+   },
+   {
+    "id": 9722470465838,
+    "model": "LUMI-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722470564142,
+    "model": "LUMI-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722470596910,
+    "model": "MAILY-BB",
+    "price": 45
+   },
+   {
+    "id": 9722470924590,
+    "model": "MARE-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722470957358,
+    "model": "MARE-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722470990126,
+    "model": "MARE-UM",
+    "price": 39.95
+   },
+   {
+    "id": 9722471121198,
+    "model": "MARTA-SH",
+    "price": 39.95
+   },
+   {
+    "id": 9722471153966,
+    "model": "MARTA-SH",
+    "price": 39.95
+   },
+   {
+    "id": 9722471186734,
+    "model": "MARTA-SH",
+    "price": 39.95
+   },
+   {
+    "id": 9722471874862,
+    "model": "MEL-UM",
+    "price": 34.95
+   },
+   {
+    "id": 9722472005934,
+    "model": "MEL-UM",
+    "price": 34.95
+   },
+   {
+    "id": 9722472366382,
+    "model": "MIMA-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722472497454,
+    "model": "MIMA-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722472562990,
+    "model": "MIMA-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722472595758,
+    "model": "MIMA-FP",
+    "price": 34.95
+   },
+   {
+    "id": 9722473087278,
+    "model": "MONA-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722473120046,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473152814,
+    "model": "MONA-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722473185582,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473218350,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473251118,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473349422,
+    "model": "MONA-FR",
+    "price": 29.95
+   },
+   {
+    "id": 9722473382190,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473414958,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473447726,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473513262,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473546030,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473578798,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473611566,
+    "model": "MONA-FR",
+    "price": 32.5
+   },
+   {
+    "id": 9722473906478,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722473939246,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722473972014,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722474037550,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 9722474201390,
+    "model": "MOSUL-BD",
+    "price": 34.95
+   },
+   {
+    "id": 9722474365230,
+    "model": "NAIDA",
+    "price": 89.95
+   },
+   {
+    "id": 9722474627374,
+    "model": "NED-TK",
+    "price": 45
+   },
+   {
+    "id": 9722474758446,
+    "model": "NEO-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722474791214,
+    "model": "NEO-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722474823982,
+    "model": "NEO-FR",
+    "price": 34.95
+   },
+   {
+    "id": 9722475315502,
+    "model": "NIL-UM",
+    "price": 45
+   },
+   {
+    "id": 9722475381038,
+    "model": "NIL-UM",
+    "price": 45
+   },
+   {
+    "id": 9722475544878,
+    "model": "NIX-TK",
+    "price": 45
+   },
+   {
+    "id": 9722475577646,
+    "model": "NIX-TK",
+    "price": 45
+   },
+   {
+    "id": 9722475610414,
+    "model": "NORTON-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9722475708718,
+    "model": "NORTON-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9722475807022,
+    "model": "NOTI-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722475872558,
+    "model": "NOTI-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9722476233006,
+    "model": "ORIOL-SW",
+    "price": 95
+   },
+   {
+    "id": 9722476888366,
+    "model": "PESCARA",
+    "price": 89.95
+   },
+   {
+    "id": 9722476921134,
+    "model": "PESCARA",
+    "price": 89.95
+   },
+   {
+    "id": 9722476953902,
+    "model": "PIANI-SY",
+    "price": 109.95
+   },
+   {
+    "id": 9722476986670,
+    "model": "PIANI-SY",
+    "price": 109.95
+   },
+   {
+    "id": 9722477248814,
+    "model": "PRAGA-SY",
+    "price": 129.95
+   },
+   {
+    "id": 9722477281582,
+    "model": "PRAGA-SY",
+    "price": 129.95
+   },
+   {
+    "id": 9722477314350,
+    "model": "PRETORIA",
+    "price": 89.95
+   },
+   {
+    "id": 9722477347118,
+    "model": "PRETORIA",
+    "price": 89.95
+   },
+   {
+    "id": 9722477740334,
+    "model": "SALOU",
+    "price": 99.95
+   },
+   {
+    "id": 9722477805870,
+    "model": "SALOU",
+    "price": 99.95
+   },
+   {
+    "id": 9722477936942,
+    "model": "SERRA",
+    "price": 95
+   },
+   {
+    "id": 9722478002478,
+    "model": "SERRA",
+    "price": 95
+   },
+   {
+    "id": 9722478297390,
+    "model": "SILS",
+    "price": 109.95
+   },
+   {
+    "id": 9722478625070,
+    "model": "TACOMA-P",
+    "price": 165
+   },
+   {
+    "id": 9722478657838,
+    "model": "TACOMA-P",
+    "price": 165
+   },
+   {
+    "id": 9722479935790,
+    "model": "TOMAS-RW",
+    "price": 39.95
+   },
+   {
+    "id": 9722480001326,
+    "model": "TOMAS-RW",
+    "price": 39.95
+   },
+   {
+    "id": 9724767404334,
+    "model": "DUNA-FP",
+    "price": 39.95
+   },
+   {
+    "id": 9724767469870,
+    "model": "MALU-OD",
+    "price": 39.95
+   },
+   {
+    "id": 9724768256302,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9724768321838,
+    "model": "MOSCU-BD",
+    "price": 39.95
+   },
+   {
+    "id": 9724807741742,
+    "model": "INDIA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9724807807278,
+    "model": "INDIA-SY",
+    "price": 79.95
+   },
+   {
+    "id": 9724808069422,
+    "model": "PRAGA-SY",
+    "price": 129.95
+   },
+   {
+    "id": 9725263053102,
+    "model": "AMBER",
+    "price": 24.95
+   },
+   {
+    "id": 9725263151406,
+    "model": "DENNA",
+    "price": 39.95
+   },
+   {
+    "id": 9725263184174,
+    "model": "DENNA",
+    "price": 39.95
+   },
+   {
+    "id": 9725263348014,
+    "model": "DUBBI",
+    "price": 49.95
+   },
+   {
+    "id": 9725263380782,
+    "model": "DUBBI",
+    "price": 39.95
+   },
+   {
+    "id": 9725263642926,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263413550,
+    "model": "DUBBI",
+    "price": 39.95
+   },
+   {
+    "id": 9725263708462,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263839534,
+    "model": "FATIMA",
+    "price": 24.95
+   },
+   {
+    "id": 9725263937838,
+    "model": "GABIN",
+    "price": 24.95
+   },
+   {
+    "id": 9725263970606,
+    "model": "GABIN",
+    "price": 24.95
+   },
+   {
+    "id": 9725264003374,
+    "model": "GABIN",
+    "price": 24.95
+   },
+   {
+    "id": 9725264101678,
+    "model": "GEORGIA",
+    "price": 49.95
+   },
+   {
+    "id": 9725264167214,
+    "model": "GEORGIA",
+    "price": 49.95
+   },
+   {
+    "id": 9725264331054,
+    "model": "GINGER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264363822,
+    "model": "GINGER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264429358,
+    "model": "GINNY",
+    "price": 49.95
+   },
+   {
+    "id": 9725264396590,
+    "model": "GINGER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264658734,
+    "model": "GRANGER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264625966,
+    "model": "GRANGER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264691502,
+    "model": "GRANGER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264724270,
+    "model": "GRANGER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264757038,
+    "model": "GWEN",
+    "price": 59.95
+   },
+   {
+    "id": 9725264789806,
+    "model": "GWEN",
+    "price": 59.95
+   },
+   {
+    "id": 9725264822574,
+    "model": "HARPER",
+    "price": 39.95
+   },
+   {
+    "id": 9725264855342,
+    "model": "HARPER",
+    "price": 39.95
+   },
+   {
+    "id": 9725261742382,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261873454,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261480238,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261676846,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725261644078,
+    "model": "QUEL-BR",
+    "price": 9.95
+   },
+   {
+    "id": 9725262070062,
+    "model": "QUEL-MC",
+    "price": 9.95
+   },
+   {
+    "id": 9725262037294,
+    "model": "QUEL-HK",
+    "price": 9.95
+   }
+  ],
+  "removed": [],
+  "priceChanged": [],
+  "newlyOnSale": []
+ }
+]
