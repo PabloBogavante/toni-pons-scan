@@ -1,8 +1,8 @@
 import {
   MODEL_ID, MODEL_DTYPE, EMB_DIM, IMG_SIZE,
   discounts, formatEUR, dequantizeAll, normalize, rankProducts, decide, toPercent, thumb, colorES,
-} from './shared.js?v=7';
-import * as AI from './ai.js?v=7';
+} from './shared.js?v=8';
+import * as AI from './ai.js?v=8';
 
 const TRANSFORMERS_URL = 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@3';
 const $ = (id) => document.getElementById(id);
@@ -150,19 +150,21 @@ async function analyze(file) {
   show('busy');
   try {
     const t0 = performance.now();
-    if (!state.model) {
-      await loadModel();
-      $('busyText').textContent = 'Analizando…';
-    }
-    const vecs = await embedCrops(makeCrops(img));
-    const ranked = rankProducts(vecs, state.matrix, state.catalog.products, EMB_DIM);
-    console.log(`análisis ${Math.round(performance.now() - t0)} ms`, ranked.slice(0, 5).map((r) => [r.p.model, r.p.color, r.score.toFixed(3)]));
+    const localRank = (async () => {
+      if (!state.model) await loadModel();
+      const vecs = await embedCrops(makeCrops(img));
+      const r = rankProducts(vecs, state.matrix, state.catalog.products, EMB_DIM);
+      console.log(`análisis local ${Math.round(performance.now() - t0)} ms`, r.slice(0, 5).map((x) => [x.p.model, x.p.color, x.score.toFixed(3)]));
+      return r;
+    })();
+    const secs = () => (performance.now() - t0) / 1000;
 
     if (AI.provider()) {
+      $('busyText').textContent = 'Mirando la foto…';
       try {
-        const r = await AI.identify(img, ranked, state.catalog, (t) => ($('busyText').textContent = t));
-        console.log('IA', r.match?.p.model, r.confidence, r.reason);
-        state.last = { ranked: r.list, photoUrl: url, reason: r.reason };
+        const r = await AI.identify(img, localRank, state.catalog, (t) => ($('busyText').textContent = t));
+        console.log('IA', r.match?.p.model, r.confidence, r.reason, secs().toFixed(1) + ' s');
+        state.last = { ranked: r.list, photoUrl: url, reason: r.reason, secs: secs() };
         if (r.match && r.confidence >= 70) showResult(r.match, { ai: r.confidence });
         else showCandidates();
         return;
@@ -171,6 +173,8 @@ async function analyze(file) {
         toast('IA no disponible (' + e.message + '). Resultado sin IA.', 4500);
       }
     }
+    if (!state.model) $('busyText').textContent = 'Preparando reconocimiento…';
+    const ranked = await localRank;
     state.last = { ranked, photoUrl: url };
     const { confident } = decide(ranked);
     if (confident) showResult(ranked[0], { auto: true });
@@ -195,7 +199,7 @@ function showResult(item, { auto = false, ai = 0 } = {}) {
   $('rMine').hidden = !state.last?.photoUrl;
   $('rModel').textContent = p.model;
   $('rSub').textContent = [p.type, productLine(p)].filter(Boolean).join(' · ');
-  $('rConf').textContent = ai ? `Identificado con IA · confianza ${ai} %`
+  $('rConf').textContent = ai ? `Identificado con IA · confianza ${ai} %${state.last?.secs ? ' · ' + state.last.secs.toFixed(1).replace('.', ',') + ' s' : ''}`
     : auto ? `Coincidencia ${toPercent(item.score)} %` : 'Confirmado por ti';
   $('rPrice').textContent = formatEUR(p.price);
   const sale = $('rSale');

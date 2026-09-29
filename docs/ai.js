@@ -4,12 +4,12 @@
 //      (índice local) y la IA compara tu foto con las fotos oficiales de esos candidatos.
 // La clave de la API se guarda solo en este iPhone.
 
-import { thumb, colorES } from './shared.js?v=7';
+import { thumb, colorES } from './shared.js?v=8';
 
 const API = 'https://api.anthropic.com/v1/messages';
 const MODEL_FAST = 'claude-haiku-4-5-20251001';
 const MODEL_MATCH = 'claude-sonnet-5-5';
-const N_CANDIDATES = 30;
+const N_CANDIDATES = 20;
 const KEY_NAME = 'anthropic_key';
 
 export function getKey() {
@@ -106,7 +106,7 @@ async function toInline(part) {
   let r = await fetch(part.source.url).catch(() => null);
   if (!r || !r.ok) {
     // Plan B si el CDN no permite leer la imagen desde el móvil: servicio público de imágenes.
-    r = await fetch(`https://wsrv.nl/?url=${encodeURIComponent(part.source.url)}&w=300&output=jpg`);
+    r = await fetch(`https://wsrv.nl/?url=${encodeURIComponent(part.source.url)}&w=240&output=jpg`);
   }
   if (!r.ok) throw new Error('imagen ' + r.status);
   const blob = await r.blob();
@@ -126,23 +126,29 @@ async function callGemini(content) {
   const parts = [];
   const settled = await Promise.allSettled(content.map(toInline));
   settled.forEach((s) => parts.push(s.status === 'fulfilled' ? s.value : { text: '(imagen no disponible)' }));
-  const body = JSON.stringify({
-    contents: [{ role: 'user', parts }],
-    generationConfig: { temperature: 0, responseMimeType: 'application/json' },
-  });
+  const makeBody = (model, thinking) => {
+    const generationConfig = { temperature: 0, responseMimeType: 'application/json' };
+    // Sin "pensamiento" largo: responde mucho antes y para esto no hace falta.
+    if (thinking) generationConfig.thinkingConfig = /gemini-2\./.test(model) ? { thinkingBudget: 0 } : { thinkingLevel: 'low' };
+    return JSON.stringify({ contents: [{ role: 'user', parts }], generationConfig });
+  };
 
   // Si un modelo está saturado (503/500) o sin cuota (429), reintenta y luego prueba el siguiente.
   const models = (await getGeminiModels()).slice(0, 4);
   let last = '';
   for (const model of models) {
-    for (let attempt = 0; attempt < 2; attempt++) {
+    let thinking = true;
+    for (let attempt = 0; attempt < 3; attempt++) {
       const res = await fetch(`${GEMINI_BASE}/models/${model}:generateContent`, {
         method: 'POST',
         headers: { 'content-type': 'application/json', 'x-goog-api-key': getKey() },
-        body,
+        body: makeBody(model, thinking),
       });
       if (res.ok) {
-        if (model !== geminiModels[0]) geminiModels = [model, ...geminiModels.filter((x) => x !== model)]; // recordar el que va
+        if (model !== geminiModels[0]) { // recordar el que va, también para la próxima vez
+          geminiModels = [model, ...geminiModels.filter((x) => x !== model)];
+          try { localStorage.setItem('gemini_models', JSON.stringify({ k: getKey().slice(-6), m: geminiModels })); } catch {}
+        }
         const data = await res.json();
         const text = (data.candidates?.[0]?.content?.parts || []).map((p) => p.text || '').join('');
         const m = text.match(/\{[\s\S]*\}/);
@@ -150,13 +156,15 @@ async function callGemini(content) {
         return JSON.parse(m[0]);
       }
       let msg = ''; try { msg = (await res.json()).error.message; } catch {}
+      if (res.status === 400 && thinking && /think/i.test(msg)) { thinking = false; continue; } // modelo sin ese ajuste
       if (res.status === 400 || res.status === 401 || res.status === 403) {
         throw new Error(/api key|key not valid/i.test(msg) ? 'clave de Gemini no válida' : `Gemini: ${msg || res.status}`);
       }
       last = `Gemini ${res.status}${msg ? ': ' + msg : ''}`;
       if (res.status === 404) break;               // ese modelo ya no existe: siguiente
       if (res.status === 429) break;               // sin cuota en ese modelo: siguiente
-      if (attempt === 0) await sleep(1500);        // 500/503: un reintento y luego siguiente
+      if (attempt >= 1) break;                     // 500/503: un reintento y luego siguiente
+      await sleep(1000);
     }
   }
   throw new Error(/429/.test(last) ? 'límite gratuito de Gemini alcanzado, espera un minuto' : `Gemini saturado ahora mismo, prueba en un rato (${last})`);
@@ -190,7 +198,7 @@ async function call(model, content, maxTokens = 500) {
 
 // Foto -> JPEG base64 de 1024 px máx.
 export function photoBase64(img) {
-  const s = Math.min(1, 1024 / Math.max(img.naturalWidth, img.naturalHeight));
+  const s = Math.min(1, 768 / Math.max(img.naturalWidth, img.naturalHeight));
   const c = document.createElement('canvas');
   c.width = Math.round(img.naturalWidth * s);
   c.height = Math.round(img.naturalHeight * s);
@@ -201,7 +209,7 @@ export function photoBase64(img) {
 const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 
 // ranked: salida del índice local [{p, score}] con TODOS los productos.
-export async function identify(img, ranked, catalog, onStep = () => {}) {
+export async function identify(img, rankedIn, catalog, onStep = () => {}) {
   const photo = { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: photoBase64(img) } };
 
   // ---- Paso 1: describir la foto ----
@@ -209,7 +217,7 @@ export async function identify(img, ranked, catalog, onStep = () => {}) {
   const typeCount = new Map();
   for (const p of catalog.products) typeCount.set(p.type, (typeCount.get(p.type) || 0) + 1);
   const types = [...typeCount.keys()].filter(Boolean).sort();
-  const desc = await call(MODEL_FAST, [
+  const descP = call(MODEL_FAST, [
     photo,
     { type: 'text', text:
 `Esta foto muestra un producto de la marca Toni Pons (calzado o complemento).
@@ -219,6 +227,8 @@ ${types.join(' | ')}
 Responde SOLO con JSON:
 {"types": ["..."], "colors": ["colores principales en español"], "material": "piel, serraje, lona, yute, goma...", "features": "rasgos distintivos breves (hebillas, tiras, suela, puntera, cierre...)", "visible_text": "cualquier texto legible en el producto o etiqueta, o vacío"}` },
   ], 400);
+  // Mientras la IA mira la foto, el móvil termina su comparación visual (en paralelo).
+  const [desc, ranked] = await Promise.all([descP, Promise.resolve(rankedIn)]);
 
   // ---- Filtrar y ordenar candidatos ----
   const wantTypes = new Set((desc.types || []).filter((t) => typeCount.has(t)));
@@ -249,7 +259,7 @@ Responde SOLO con JSON:
   cands.forEach((c, i) => {
     const p = c.p;
     content.push({ type: 'text', text: `#${i}: ${p.model} · ${colorES(p.color || '').toLowerCase()} · ${p.type}${p.name ? ' · ' + p.name : ''}` });
-    content.push({ type: 'image', source: { type: 'url', url: thumb(p.images[0], 300) } });
+    content.push({ type: 'image', source: { type: 'url', url: thumb(p.images[0], 240) } });
   });
   content.push({ type: 'text', text:
 `¿Cuál de los candidatos es EXACTAMENTE el mismo producto (mismo modelo y mismo color) que la foto del cliente?
