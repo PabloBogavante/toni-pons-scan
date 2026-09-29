@@ -313,12 +313,12 @@ $('aiBtn').addEventListener('click', () => {
   const has = AI.getKey();
   const t = prompt(has
     ? 'IA activada. Pega una clave nueva para cambiarla, o escribe BORRAR para desactivarla.'
-    : 'Pega tu clave de IA. Gratis: clave de Google AI Studio (empieza por AIza). De pago: clave de Anthropic (sk-ant-). Se guarda solo en este iPhone.');
+    : 'Pega tu clave de IA. Gratis: clave de Google AI Studio (empieza por AQ. o AIza). De pago: clave de Anthropic (sk-ant-). Se guarda solo en este iPhone.');
   if (t === null) return;
   const v = t.trim();
   if (/^borrar$/i.test(v)) { AI.setKey(''); toast('IA desactivada'); }
-  else if (v.startsWith('AIza') || v.startsWith('sk-ant-')) { AI.setKey(v); toast('IA activada'); }
-  else if (v) toast('Esa clave no parece válida (debe empezar por AIza o sk-ant-)');
+  else if (/^(AIza|AQ\.|sk-ant-)/.test(v) && v.length > 20 && !/\s/.test(v)) { AI.setKey(v); toast('IA activada'); }
+  else if (v) toast('Esa clave no parece válida (debe empezar por AQ., AIza o sk-ant-)');
   renderAiBtn();
 });
 renderAiBtn();

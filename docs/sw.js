@@ -1,5 +1,5 @@
 // Guarda la app para que abra al instante y funcione sin cobertura.
-const SHELL = 'tp-shell-v3';
+const SHELL = 'tp-shell-v4';
 const ASSETS = ['./', 'index.html', 'style.css', 'app.js', 'ai.js', 'shared.js', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {
