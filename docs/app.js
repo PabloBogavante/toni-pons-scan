@@ -1,7 +1,8 @@
 import {
   MODEL_ID, MODEL_DTYPE, EMB_DIM, IMG_SIZE,
-  discounts, formatEUR, dequantizeAll, normalize, rankProducts, decide, toPercent, thumb,
+  discounts, formatEUR, dequantizeAll, normalize, rankProducts, decide, toPercent, thumb, colorES,
 } from './shared.js';
+import * as AI from './ai.js';
 
 const TRANSFORMERS_URL = 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@3';
 const $ = (id) => document.getElementById(id);
@@ -156,6 +157,20 @@ async function analyze(file) {
     const vecs = await embedCrops(makeCrops(img));
     const ranked = rankProducts(vecs, state.matrix, state.catalog.products, EMB_DIM);
     console.log(`análisis ${Math.round(performance.now() - t0)} ms`, ranked.slice(0, 5).map((r) => [r.p.model, r.p.color, r.score.toFixed(3)]));
+
+    if (AI.provider()) {
+      try {
+        const r = await AI.identify(img, ranked, state.catalog, (t) => ($('busyText').textContent = t));
+        console.log('IA', r.match?.p.model, r.confidence, r.reason);
+        state.last = { ranked: r.list, photoUrl: url, reason: r.reason };
+        if (r.match && r.confidence >= 70) showResult(r.match, { ai: r.confidence });
+        else showCandidates();
+        return;
+      } catch (e) {
+        console.error(e);
+        toast('IA no disponible (' + e.message + '). Resultado sin IA.', 4500);
+      }
+    }
     state.last = { ranked, photoUrl: url };
     const { confident } = decide(ranked);
     if (confident) showResult(ranked[0], { auto: true });
@@ -169,10 +184,10 @@ async function analyze(file) {
 
 // ---------- Pantallas de resultado ----------
 function productLine(p) {
-  return [p.name, p.color && `Color: ${p.color.toLowerCase()}`].filter(Boolean).join(' · ');
+  return [p.name, p.color && `Color: ${colorES(p.color).toLowerCase()}`].filter(Boolean).join(' · ');
 }
 
-function showResult(item, { auto = false } = {}) {
+function showResult(item, { auto = false, ai = 0 } = {}) {
   const p = item.p;
   const dsc = discounts(p.price);
   $('rImg').src = thumb(p.images[0], 900);
@@ -180,7 +195,8 @@ function showResult(item, { auto = false } = {}) {
   $('rMine').hidden = !state.last?.photoUrl;
   $('rModel').textContent = p.model;
   $('rSub').textContent = [p.type, productLine(p)].filter(Boolean).join(' · ');
-  $('rConf').textContent = auto ? `Coincidencia ${toPercent(item.score)} %` : 'Confirmado por ti';
+  $('rConf').textContent = ai ? `Identificado con IA · confianza ${ai} %`
+    : auto ? `Coincidencia ${toPercent(item.score)} %` : 'Confirmado por ti';
   $('rPrice').textContent = formatEUR(p.price);
   const sale = $('rSale');
   if (p.onSale && p.compareAt) {
@@ -199,15 +215,16 @@ function showResult(item, { auto = false } = {}) {
 function showCandidates() {
   const list = $('candList');
   list.innerHTML = '';
-  for (const item of state.last.ranked.slice(0, 5)) {
+  $('candNote').textContent = state.last.reason || '';
+  for (const item of state.last.ranked.slice(0, 8)) {
     const p = item.p;
     const li = document.createElement('li');
     li.innerHTML = `
       <img src="${thumb(p.images[0], 300)}" alt="" loading="lazy">
       <div class="t"><div class="m"></div><div class="d"></div></div>
-      <div class="p"><div class="pr"></div><div class="pc">${toPercent(item.score)} %</div></div>`;
+      <div class="p"><div class="pr"></div></div>`;
     li.querySelector('.m').textContent = p.model;
-    li.querySelector('.d').textContent = [p.color && p.color.toLowerCase(), p.type].filter(Boolean).join(' · ');
+    li.querySelector('.d').textContent = [p.color && colorES(p.color).toLowerCase(), p.type].filter(Boolean).join(' · ');
     li.querySelector('.pr').textContent = formatEUR(p.price);
     li.addEventListener('click', () => showResult(item, { auto: false }));
     list.appendChild(li);
@@ -286,6 +303,25 @@ $('updateBtn').addEventListener('click', async () => {
     updating = false;
   }
 });
+
+// ---------- IA ----------
+function renderAiBtn() {
+  const p = AI.provider();
+  $('aiBtn').textContent = p === 'gemini' ? 'IA: GEMINI' : p === 'claude' ? 'IA: CLAUDE' : 'IA: DESACTIVADA';
+}
+$('aiBtn').addEventListener('click', () => {
+  const has = AI.getKey();
+  const t = prompt(has
+    ? 'IA activada. Pega una clave nueva para cambiarla, o escribe BORRAR para desactivarla.'
+    : 'Pega tu clave de IA. Gratis: clave de Google AI Studio (empieza por AIza). De pago: clave de Anthropic (sk-ant-). Se guarda solo en este iPhone.');
+  if (t === null) return;
+  const v = t.trim();
+  if (/^borrar$/i.test(v)) { AI.setKey(''); toast('IA desactivada'); }
+  else if (v.startsWith('AIza') || v.startsWith('sk-ant-')) { AI.setKey(v); toast('IA activada'); }
+  else if (v) toast('Esa clave no parece válida (debe empezar por AIza o sk-ant-)');
+  renderAiBtn();
+});
+renderAiBtn();
 
 // ---------- Eventos ----------
 $('camera').addEventListener('change', (e) => {

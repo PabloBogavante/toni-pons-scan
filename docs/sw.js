@@ -1,6 +1,6 @@
 // Guarda la app para que abra al instante y funcione sin cobertura.
-const SHELL = 'tp-shell-v1';
-const ASSETS = ['./', 'index.html', 'style.css', 'app.js', 'shared.js', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png'];
+const SHELL = 'tp-shell-v3';
+const ASSETS = ['./', 'index.html', 'style.css', 'app.js', 'ai.js', 'shared.js', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(SHELL).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));

@@ -37,6 +37,7 @@
     </div>
     <footer class="home-foot">
       <button id="updateBtn" class="link">ACTUALIZAR CATÁLOGO</button>
+      <button id="aiBtn" class="link">IA</button>
       <p id="catalogInfo" class="meta"></p>
     </footer>
   </section>
@@ -53,6 +54,7 @@
   <!-- Resultado -->
   <section id="result" class="screen scroll">
     <div class="wrap">
+      <button class="homebtn again" aria-label="Volver al inicio">‹ Inicio</button>
       <div class="photo-box"><img id="rImg" alt=""><img id="rMine" class="mine" alt="Tu foto"></div>
       <p class="brandline">TONI PONS</p>
       <h1 id="rModel"></h1>
@@ -77,9 +79,11 @@
   <!-- Candidatos -->
   <section id="cands" class="screen scroll">
     <div class="wrap">
+      <button class="homebtn again" aria-label="Volver al inicio">‹ Inicio</button>
       <h2>¿Es alguno de estos?</h2>
+      <p id="candNote" class="sub"></p>
       <ul id="candList" class="cands"></ul>
-      <button class="btn ghost again">Escanear otra vez</button>
+      <button class="btn primary again">NINGUNO · VOLVER AL INICIO</button>
     </div>
   </section>
 
