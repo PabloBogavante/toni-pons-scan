@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <title>TP Scan</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="TP Scan">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Pantalla de carga -->
+  <section id="splash" class="screen active">
+    <div class="brand small"><img class="logo" src="logo.png" alt="" hidden><span class="wordmark">TONI PONS</span></div>
+  </section>
+
+  <!-- Pantalla principal -->
+  <section id="home" class="screen">
+    <div class="home-center">
+      <div class="brand big"><img class="logo" src="logo.png" alt="" hidden><span class="wordmark">TONI PONS</span></div>
+      <label id="scanBtn" class="scan" for="camera" aria-label="Escanear producto">
+        <svg viewBox="0 0 24 24" width="54" height="54" aria-hidden="true">
+          <path d="M4 8V6a2 2 0 0 1 2-2h2M16 4h2a2 2 0 0 1 2 2v2M20 16v2a2 2 0 0 1-2 2h-2M8 20H6a2 2 0 0 1-2-2v-2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          <path d="M8.5 9.5h1.3l.9-1.4h2.6l.9 1.4h1.3a1 1 0 0 1 1 1v4.2a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-4.2a1 1 0 0 1 1-1Z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
+          <circle cx="12" cy="12.6" r="1.7" fill="none" stroke="currentColor" stroke-width="1.4"/>
+        </svg>
+        <span>SCAN</span>
+      </label>
+      <input id="camera" type="file" accept="image/*" capture="environment" hidden>
+      <p id="modelStatus" class="status"></p>
+    </div>
+    <footer class="home-foot">
+      <button id="updateBtn" class="link">ACTUALIZAR CATÁLOGO</button>
+      <p id="catalogInfo" class="meta"></p>
+    </footer>
+  </section>
+
+  <!-- Analizando -->
+  <section id="busy" class="screen">
+    <div class="busy-center">
+      <img id="busyPhoto" alt="">
+      <div class="spinner" aria-hidden="true"></div>
+      <p id="busyText">Analizando…</p>
+    </div>
+  </section>
+
+  <!-- Resultado -->
+  <section id="result" class="screen scroll">
+    <div class="wrap">
+      <div class="photo-box"><img id="rImg" alt=""><img id="rMine" class="mine" alt="Tu foto"></div>
+      <p class="brandline">TONI PONS</p>
+      <h1 id="rModel"></h1>
+      <p id="rSub" class="sub"></p>
+      <p id="rConf" class="conf"></p>
+
+      <div class="prices">
+        <div class="row main"><span>Precio</span><strong id="rPrice"></strong></div>
+        <p id="rSale" class="sale" hidden></p>
+        <div class="row"><span>10 % descuento</span><strong id="rD10"></strong></div>
+        <div class="row"><span>20 % descuento</span><strong id="rD20"></strong></div>
+        <div class="row"><span>30 % descuento</span><strong id="rD30"></strong></div>
+      </div>
+
+      <a id="rLink" class="btn primary" target="_blank" rel="noopener">VER PRODUCTO</a>
+      <button id="rOthers" class="btn">No es este · ver parecidos</button>
+      <button class="btn ghost again">Escanear otro</button>
+      <p id="rUrl" class="meta url"></p>
+    </div>
+  </section>
+
+  <!-- Candidatos -->
+  <section id="cands" class="screen scroll">
+    <div class="wrap">
+      <h2>¿Es alguno de estos?</h2>
+      <ul id="candList" class="cands"></ul>
+      <button class="btn ghost again">Escanear otra vez</button>
+    </div>
+  </section>
+
+  <div id="toast" class="toast" hidden></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

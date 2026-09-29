@@ -1,0 +1,15 @@
+{
+  "name": "toni-pons-scan",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "App personal: foto de un producto Toni Pons -> modelo, precio y descuentos",
+  "scripts": {
+    "build-catalog": "node scripts/build-catalog.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.1.0",
+    "sharp": "^0.34.0"
+  }
+}
