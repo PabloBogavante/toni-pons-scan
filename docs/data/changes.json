@@ -1,5 +1,42 @@
 [
  {
+  "date": "2026-10-16T04:53:04.024Z",
+  "total": 1982,
+  "added": [
+   {
+    "id": 10616664555822,
+    "model": "BERNAL",
+    "price": 109.95
+   },
+   {
+    "id": 10616664588590,
+    "model": "BERNAL",
+    "price": 109.95
+   },
+   {
+    "id": 10616664621358,
+    "model": "BERNAL",
+    "price": 109.95
+   }
+  ],
+  "removed": [],
+  "priceChanged": [
+   {
+    "id": 9838931476782,
+    "model": "CROACIA",
+    "from": 69.95,
+    "to": 75
+   },
+   {
+    "id": 9822591549742,
+    "model": "CROACIA",
+    "from": 69.95,
+    "to": 75
+   }
+  ],
+  "newlyOnSale": []
+ },
+ {
   "date": "2026-10-13T04:40:36.736Z",
   "total": 1979,
   "added": [],
