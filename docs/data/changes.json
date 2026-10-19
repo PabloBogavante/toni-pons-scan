@@ -1,5 +1,32 @@
 [
  {
+  "date": "2026-10-19T04:54:27.022Z",
+  "total": 1982,
+  "added": [],
+  "removed": [],
+  "priceChanged": [
+   {
+    "id": 10344257421614,
+    "model": "DALLAS",
+    "from": 55,
+    "to": 59.95
+   },
+   {
+    "id": 10344263549230,
+    "model": "MAO-QT",
+    "from": 55,
+    "to": 49.95
+   },
+   {
+    "id": 9724762882350,
+    "model": "FABI",
+    "from": 69.95,
+    "to": 65
+   }
+  ],
+  "newlyOnSale": []
+ },
+ {
   "date": "2026-10-16T04:53:04.024Z",
   "total": 1982,
   "added": [
