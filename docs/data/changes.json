@@ -1,5 +1,48 @@
 [
  {
+  "date": "2026-10-22T04:52:41.770Z",
+  "total": 1985,
+  "added": [
+   {
+    "id": 15428932043054,
+    "model": "CANCUN",
+    "price": 59.95
+   },
+   {
+    "id": 15427595993390,
+    "model": "MARIAN-A",
+    "price": 75
+   },
+   {
+    "id": 10616668258606,
+    "model": "MARIAN-A",
+    "price": 75
+   }
+  ],
+  "removed": [],
+  "priceChanged": [
+   {
+    "id": 10344257421614,
+    "model": "DALLAS",
+    "from": 59.95,
+    "to": 55
+   },
+   {
+    "id": 10344263549230,
+    "model": "MAO-QT",
+    "from": 49.95,
+    "to": 55
+   },
+   {
+    "id": 9724762882350,
+    "model": "FABI",
+    "from": 65,
+    "to": 69.95
+   }
+  ],
+  "newlyOnSale": []
+ },
+ {
   "date": "2026-10-19T04:54:27.022Z",
   "total": 1982,
   "added": [],
