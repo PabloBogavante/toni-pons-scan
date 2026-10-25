@@ -1,5 +1,43 @@
 [
  {
+  "date": "2026-10-25T04:52:18.717Z",
+  "total": 1987,
+  "added": [
+   {
+    "id": 15431027261742,
+    "model": "CANCUN",
+    "price": 59.95
+   },
+   {
+    "id": 10616665997614,
+    "model": "DENVER-FP",
+    "price": 39.95
+   }
+  ],
+  "removed": [],
+  "priceChanged": [
+   {
+    "id": 10344263516462,
+    "model": "MAO-PM",
+    "from": 55,
+    "to": 49.95
+   },
+   {
+    "id": 10410488332590,
+    "model": "LAILA-P",
+    "from": 79.95,
+    "to": 75
+   },
+   {
+    "id": 10344256274734,
+    "model": "CALPE",
+    "from": 75,
+    "to": 69.95
+   }
+  ],
+  "newlyOnSale": []
+ },
+ {
   "date": "2026-10-22T04:52:41.770Z",
   "total": 1985,
   "added": [
