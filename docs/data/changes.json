@@ -1,5 +1,26 @@
 [
  {
+  "date": "2026-10-28T05:02:45.239Z",
+  "total": 1987,
+  "added": [],
+  "removed": [],
+  "priceChanged": [
+   {
+    "id": 10616668750126,
+    "model": "MONA-FR",
+    "from": 29.95,
+    "to": 32.5
+   },
+   {
+    "id": 9722473087278,
+    "model": "MONA-FR",
+    "from": 29.95,
+    "to": 32.5
+   }
+  ],
+  "newlyOnSale": []
+ },
+ {
   "date": "2026-10-25T04:52:18.717Z",
   "total": 1987,
   "added": [
