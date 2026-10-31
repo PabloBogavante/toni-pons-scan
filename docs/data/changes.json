@@ -1,5 +1,32 @@
 [
  {
+  "date": "2026-10-31T04:59:46.345Z",
+  "total": 1987,
+  "added": [],
+  "removed": [],
+  "priceChanged": [
+   {
+    "id": 10344255258926,
+    "model": "BERNIA-P",
+    "from": 75,
+    "to": 69.95
+   },
+   {
+    "id": 10410488332590,
+    "model": "LAILA-P",
+    "from": 75,
+    "to": 79.95
+   },
+   {
+    "id": 10344256274734,
+    "model": "CALPE",
+    "from": 69.95,
+    "to": 75
+   }
+  ],
+  "newlyOnSale": []
+ },
+ {
   "date": "2026-10-28T05:02:45.239Z",
   "total": 1987,
   "added": [],
