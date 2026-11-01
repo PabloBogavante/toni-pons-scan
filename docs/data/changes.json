@@ -1,5 +1,32 @@
 [
  {
+  "date": "2026-11-01T11:21:25.171Z",
+  "total": 1987,
+  "added": [],
+  "removed": [],
+  "priceChanged": [
+   {
+    "id": 10344267841838,
+    "model": "TRITON",
+    "from": 65,
+    "to": 59.95
+   },
+   {
+    "id": 10344266465582,
+    "model": "TEIDE-P",
+    "from": 69.95,
+    "to": 65
+   },
+   {
+    "id": 9724761342254,
+    "model": "CALDES",
+    "from": 69.95,
+    "to": 65
+   }
+  ],
+  "newlyOnSale": []
+ },
+ {
   "date": "2026-10-31T04:59:46.345Z",
   "total": 1987,
   "added": [],
